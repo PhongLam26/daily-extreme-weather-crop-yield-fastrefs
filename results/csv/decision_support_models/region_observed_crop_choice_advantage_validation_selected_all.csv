@@ -1,0 +1,2113 @@
+country,region,year_start,crop,predicted_yield_t_ha,rank_within_region_year
+Australia,New South Wales,1989,Barley,1.5957303258268485,3.0
+Australia,New South Wales,1989,Canola,1.6897797465396391,1.0
+Australia,New South Wales,1989,Oats,1.3834460843745637,4.0
+Australia,New South Wales,1989,Wheat,1.5993240698418831,2.0
+Australia,New South Wales,1990,Barley,1.8351170291378966,2.0
+Australia,New South Wales,1990,Canola,1.4567790877787614,3.0
+Australia,New South Wales,1990,Oats,1.4321814412039693,4.0
+Australia,New South Wales,1990,Wheat,1.8528929906102813,1.0
+Australia,New South Wales,1991,Barley,1.467637904603751,1.0
+Australia,New South Wales,1991,Canola,1.1898175297831617,4.0
+Australia,New South Wales,1991,Oats,1.2629334817662228,3.0
+Australia,New South Wales,1991,Wheat,1.4443782641943517,2.0
+Australia,New South Wales,1992,Barley,1.9319327556727197,2.0
+Australia,New South Wales,1992,Canola,1.8585651214058694,3.0
+Australia,New South Wales,1992,Oats,1.673983605041555,4.0
+Australia,New South Wales,1992,Wheat,2.088375147267336,1.0
+Australia,New South Wales,1993,Barley,2.231007761305461,2.0
+Australia,New South Wales,1993,Canola,1.8625236542417503,3.0
+Australia,New South Wales,1993,Oats,1.6939817115200282,4.0
+Australia,New South Wales,1993,Wheat,2.48838139952984,1.0
+Australia,New South Wales,1994,Barley,0.7228740432868692,1.0
+Australia,New South Wales,1994,Canola,0.48653877456677364,4.0
+Australia,New South Wales,1994,Oats,0.5358104451203298,3.0
+Australia,New South Wales,1994,Wheat,0.6182664269333223,2.0
+Australia,New South Wales,1995,Barley,1.8685466589637216,2.0
+Australia,New South Wales,1995,Canola,1.5809437811510196,3.0
+Australia,New South Wales,1995,Oats,1.4169995855230253,4.0
+Australia,New South Wales,1995,Wheat,1.8935821769074914,1.0
+Australia,New South Wales,1996,Barley,2.3032002499260122,2.0
+Australia,New South Wales,1996,Canola,1.8581588605682318,3.0
+Australia,New South Wales,1996,Oats,1.5253486976331825,4.0
+Australia,New South Wales,1996,Wheat,2.505196497434983,1.0
+Australia,New South Wales,1997,Barley,1.979646318350788,1.0
+Australia,New South Wales,1997,Canola,1.336612924216832,4.0
+Australia,New South Wales,1997,Oats,1.4857347993173458,3.0
+Australia,New South Wales,1997,Wheat,1.9739724991917624,2.0
+Australia,New South Wales,1998,Barley,1.9808927909769987,2.0
+Australia,New South Wales,1998,Canola,1.6691204370103694,4.0
+Australia,New South Wales,1998,Oats,1.845338713893048,3.0
+Australia,New South Wales,1998,Wheat,2.045478784072743,1.0
+Australia,New South Wales,1999,Barley,2.240484220960359,2.0
+Australia,New South Wales,1999,Canola,1.60903320656226,4.0
+Australia,New South Wales,1999,Oats,1.7633598129520998,3.0
+Australia,New South Wales,1999,Wheat,2.4414113220747096,1.0
+Australia,New South Wales,2000,Barley,2.0821465300724125,2.0
+Australia,New South Wales,2000,Canola,1.5716494430688392,3.0
+Australia,New South Wales,2000,Oats,1.470945449147844,4.0
+Australia,New South Wales,2000,Wheat,2.114949373780771,1.0
+Australia,New South Wales,2001,Barley,2.13317233727975,2.0
+Australia,New South Wales,2001,Canola,1.3500609651529774,4.0
+Australia,New South Wales,2001,Oats,1.4009840602269654,3.0
+Australia,New South Wales,2001,Wheat,2.265396289310931,1.0
+Australia,New South Wales,2002,Barley,0.7089351110491035,2.0
+Australia,New South Wales,2002,Canola,0.3943822788019668,4.0
+Australia,New South Wales,2002,Oats,0.4881820693169553,3.0
+Australia,New South Wales,2002,Wheat,0.8347037695379488,1.0
+Australia,New South Wales,2003,Barley,2.012576255096644,1.0
+Australia,New South Wales,2003,Canola,1.2230180950685108,4.0
+Australia,New South Wales,2003,Oats,1.3521369555065277,3.0
+Australia,New South Wales,2003,Wheat,1.8751649005479623,2.0
+Australia,New South Wales,2004,Barley,1.752792241122529,1.0
+Australia,New South Wales,2004,Canola,1.091866394962909,4.0
+Australia,New South Wales,2004,Oats,1.0941506940000316,3.0
+Australia,New South Wales,2004,Wheat,1.7428783481145151,2.0
+Australia,New South Wales,2005,Barley,2.146199938719583,2.0
+Australia,New South Wales,2005,Canola,1.6141681353749775,3.0
+Australia,New South Wales,2005,Oats,1.5370577782875272,4.0
+Australia,New South Wales,2005,Wheat,2.2514870996804652,1.0
+Australia,New South Wales,2006,Barley,0.839625648699788,1.0
+Australia,New South Wales,2006,Canola,0.22357475171040017,4.0
+Australia,New South Wales,2006,Oats,0.27267697095057974,3.0
+Australia,New South Wales,2006,Wheat,0.7255071809078488,2.0
+Australia,New South Wales,2007,Barley,0.7698958778733067,1.0
+Australia,New South Wales,2007,Canola,0.3929826229724686,4.0
+Australia,New South Wales,2007,Oats,0.4704648641125723,3.0
+Australia,New South Wales,2007,Wheat,0.6691754692911895,2.0
+Australia,New South Wales,2008,Barley,1.5125889512762227,2.0
+Australia,New South Wales,2008,Canola,0.7648523886968659,4.0
+Australia,New South Wales,2008,Oats,0.995428508150654,3.0
+Australia,New South Wales,2008,Wheat,1.5316059284996189,1.0
+Australia,New South Wales,2009,Barley,1.2817191020839427,1.0
+Australia,New South Wales,2009,Canola,0.9314936282053365,3.0
+Australia,New South Wales,2009,Oats,0.789568177413497,4.0
+Australia,New South Wales,2009,Wheat,1.2568902202949692,2.0
+Australia,New South Wales,2010,Barley,2.550848696802983,2.0
+Australia,New South Wales,2010,Canola,1.7021568946839576,3.0
+Australia,New South Wales,2010,Oats,1.48910719683966,4.0
+Australia,New South Wales,2010,Wheat,2.6597094842493165,1.0
+Australia,New South Wales,2011,Barley,2.1273740259493406,2.0
+Australia,New South Wales,2011,Canola,1.4673832283128578,3.0
+Australia,New South Wales,2011,Oats,1.1406929023401793,4.0
+Australia,New South Wales,2011,Wheat,2.1485791306614703,1.0
+Australia,New South Wales,2012,Barley,2.047313794840267,2.0
+Australia,New South Wales,2012,Canola,1.4108918450677328,3.0
+Australia,New South Wales,2012,Oats,1.2101973698001274,4.0
+Australia,New South Wales,2012,Wheat,2.049375947419224,1.0
+Australia,New South Wales,2013,Barley,2.0755342658712994,1.0
+Australia,New South Wales,2013,Canola,1.3591874863364866,3.0
+Australia,New South Wales,2013,Oats,1.06300013765631,4.0
+Australia,New South Wales,2013,Wheat,2.0138873990053745,2.0
+Australia,New South Wales,2014,Barley,2.134919855976533,1.0
+Australia,New South Wales,2014,Canola,1.3936840512898032,3.0
+Australia,New South Wales,2014,Oats,1.0218173333544749,4.0
+Australia,New South Wales,2014,Wheat,2.0944231588579925,2.0
+Australia,New South Wales,2015,Barley,2.5288174709565365,1.0
+Australia,New South Wales,2015,Canola,1.6050663496500932,3.0
+Australia,New South Wales,2015,Oats,1.3722168763085536,4.0
+Australia,New South Wales,2015,Wheat,2.3766290148794336,2.0
+Australia,New South Wales,2016,Barley,2.0802474137541664,2.0
+Australia,New South Wales,2016,Canola,1.5871228335569454,4.0
+Australia,New South Wales,2016,Oats,1.6858245020958842,3.0
+Australia,New South Wales,2016,Wheat,2.112195524744784,1.0
+Australia,New South Wales,2017,Barley,1.3196932596579019,1.0
+Australia,New South Wales,2017,Canola,0.7498082015768895,4.0
+Australia,New South Wales,2017,Oats,0.8032799470459986,3.0
+Australia,New South Wales,2017,Wheat,1.226411732322662,2.0
+Australia,New South Wales,2018,Barley,1.1350934609671177,1.0
+Australia,New South Wales,2018,Canola,0.6538861176203543,4.0
+Australia,New South Wales,2018,Oats,0.7102190448214604,3.0
+Australia,New South Wales,2018,Wheat,1.088992597043144,2.0
+Australia,New South Wales,2019,Barley,0.9764360527761323,1.0
+Australia,New South Wales,2019,Canola,0.5277433396344454,4.0
+Australia,New South Wales,2019,Oats,0.5961845193421248,3.0
+Australia,New South Wales,2019,Wheat,0.9092837792753264,2.0
+Australia,New South Wales,2020,Barley,2.174381545616251,2.0
+Australia,New South Wales,2020,Canola,1.60848312293662,3.0
+Australia,New South Wales,2020,Oats,1.5149533650625553,4.0
+Australia,New South Wales,2020,Wheat,2.2054949999075664,1.0
+Australia,New South Wales,2021,Barley,2.1493028588167893,2.0
+Australia,New South Wales,2021,Canola,1.5291686105801212,3.0
+Australia,New South Wales,2021,Oats,1.4322822309376175,4.0
+Australia,New South Wales,2021,Wheat,2.153789687497747,1.0
+Australia,Queensland,1989,Barley,1.7595535647884748,1.0
+Australia,Queensland,1989,Canola,0.970690540814818,3.0
+Australia,Queensland,1989,Oats,0.9232949143263979,4.0
+Australia,Queensland,1989,Wheat,1.5808669892522038,2.0
+Australia,Queensland,1990,Barley,2.0339218453031234,1.0
+Australia,Queensland,1990,Canola,0.9854072307830091,4.0
+Australia,Queensland,1990,Oats,1.0821763065935972,3.0
+Australia,Queensland,1990,Wheat,1.8567143639837864,2.0
+Australia,Queensland,1991,Barley,0.6892690285848629,2.0
+Australia,Queensland,1991,Canola,0.2832645790713875,4.0
+Australia,Queensland,1991,Oats,0.30440766361168603,3.0
+Australia,Queensland,1991,Wheat,0.7402049032310185,1.0
+Australia,Queensland,1992,Barley,1.4904396673679805,1.0
+Australia,Queensland,1992,Canola,0.6232741665453667,4.0
+Australia,Queensland,1992,Oats,0.6581093964803999,3.0
+Australia,Queensland,1992,Wheat,1.1408904927270234,2.0
+Australia,Queensland,1993,Barley,1.1559124001400327,1.0
+Australia,Queensland,1993,Canola,0.48053887976613463,4.0
+Australia,Queensland,1993,Oats,0.5184591363421127,3.0
+Australia,Queensland,1993,Wheat,1.0258750102035417,2.0
+Australia,Queensland,1994,Barley,0.7629223556217952,1.0
+Australia,Queensland,1994,Canola,0.16297750295606706,4.0
+Australia,Queensland,1994,Oats,0.2014261565594908,3.0
+Australia,Queensland,1994,Wheat,0.6195290351758191,2.0
+Australia,Queensland,1995,Barley,1.1571204933287627,1.0
+Australia,Queensland,1995,Canola,0.424112257421493,4.0
+Australia,Queensland,1995,Oats,0.5099659225486758,3.0
+Australia,Queensland,1995,Wheat,0.9131135430118379,2.0
+Australia,Queensland,1996,Barley,2.350546085546612,1.0
+Australia,Queensland,1996,Canola,0.7293104315546228,3.0
+Australia,Queensland,1996,Oats,0.676251519106593,4.0
+Australia,Queensland,1996,Wheat,2.0729453977684638,2.0
+Australia,Queensland,1997,Barley,1.495791018976199,1.0
+Australia,Queensland,1997,Canola,0.6106799006526613,4.0
+Australia,Queensland,1997,Oats,0.7240789274307156,3.0
+Australia,Queensland,1997,Wheat,1.3965283781759945,2.0
+Australia,Queensland,1998,Barley,1.9136236508668236,1.0
+Australia,Queensland,1998,Canola,1.1102734223007225,3.0
+Australia,Queensland,1998,Oats,0.8841253763364909,4.0
+Australia,Queensland,1998,Wheat,1.742704990463975,2.0
+Australia,Queensland,1999,Barley,1.9089228280082362,1.0
+Australia,Queensland,1999,Canola,0.974231894514814,4.0
+Australia,Queensland,1999,Oats,1.1304952823914356,3.0
+Australia,Queensland,1999,Wheat,1.7509262670905839,2.0
+Australia,Queensland,2000,Barley,1.0517159535954765,2.0
+Australia,Queensland,2000,Canola,0.4678864936382725,4.0
+Australia,Queensland,2000,Oats,0.4905331328636589,3.0
+Australia,Queensland,2000,Wheat,1.278827466923416,1.0
+Australia,Queensland,2001,Barley,1.726585477892276,1.0
+Australia,Queensland,2001,Canola,1.050813079661285,3.0
+Australia,Queensland,2001,Oats,0.7637879083247401,4.0
+Australia,Queensland,2001,Wheat,1.488175587010636,2.0
+Australia,Queensland,2002,Barley,1.364723525048503,1.0
+Australia,Queensland,2002,Canola,0.7412291434640026,3.0
+Australia,Queensland,2002,Oats,0.4608706704859623,4.0
+Australia,Queensland,2002,Wheat,1.173367396196713,2.0
+Australia,Queensland,2003,Barley,1.673489644385175,1.0
+Australia,Queensland,2003,Canola,0.7625290391654078,3.0
+Australia,Queensland,2003,Oats,0.5614833750879374,4.0
+Australia,Queensland,2003,Wheat,1.476892128256287,2.0
+Australia,Queensland,2004,Barley,1.807274770444954,1.0
+Australia,Queensland,2004,Canola,0.8739914768588742,3.0
+Australia,Queensland,2004,Oats,0.46880319782737623,4.0
+Australia,Queensland,2004,Wheat,1.624297280957219,2.0
+Australia,Queensland,2005,Barley,1.3254518589173878,2.0
+Australia,Queensland,2005,Canola,0.7519278770551043,3.0
+Australia,Queensland,2005,Oats,0.5270061465684884,4.0
+Australia,Queensland,2005,Wheat,1.532635030559691,1.0
+Australia,Queensland,2006,Barley,1.0283213507613362,2.0
+Australia,Queensland,2006,Canola,0.31234504098218485,3.0
+Australia,Queensland,2006,Oats,0.19858144405579264,4.0
+Australia,Queensland,2006,Wheat,1.2150392088087891,1.0
+Australia,Queensland,2007,Barley,1.3201300445705748,2.0
+Australia,Queensland,2007,Canola,0.35234304922319176,4.0
+Australia,Queensland,2007,Oats,0.5617752844584144,3.0
+Australia,Queensland,2007,Wheat,1.39916488093416,1.0
+Australia,Queensland,2008,Barley,1.888767884627566,2.0
+Australia,Queensland,2008,Canola,0.8434322430499955,4.0
+Australia,Queensland,2008,Oats,0.9680836769116429,3.0
+Australia,Queensland,2008,Wheat,1.8926385805683656,1.0
+Australia,Queensland,2009,Barley,1.6647018820061905,1.0
+Australia,Queensland,2009,Canola,0.4419496404775728,4.0
+Australia,Queensland,2009,Oats,0.5473313877039989,3.0
+Australia,Queensland,2009,Wheat,1.4254630400519512,2.0
+Australia,Queensland,2010,Barley,1.6030187854112672,2.0
+Australia,Queensland,2010,Canola,1.2735067097386612,3.0
+Australia,Queensland,2010,Oats,0.6598167583158508,4.0
+Australia,Queensland,2010,Wheat,1.6259209058799986,1.0
+Australia,Queensland,2011,Barley,2.3406923779860636,1.0
+Australia,Queensland,2011,Canola,1.107736192626069,4.0
+Australia,Queensland,2011,Oats,1.1617691330755113,3.0
+Australia,Queensland,2011,Wheat,2.014849143441984,2.0
+Australia,Queensland,2012,Barley,1.9024588887770122,1.0
+Australia,Queensland,2012,Canola,0.8326429109818418,3.0
+Australia,Queensland,2012,Oats,0.39933400695835847,4.0
+Australia,Queensland,2012,Wheat,1.823664755245741,2.0
+Australia,Queensland,2013,Barley,1.6983383117303767,1.0
+Australia,Queensland,2013,Canola,0.33328363773541747,3.0
+Australia,Queensland,2013,Oats,0.21142544128364776,4.0
+Australia,Queensland,2013,Wheat,1.3832489347371137,2.0
+Australia,Queensland,2014,Barley,1.9111688450472424,1.0
+Australia,Queensland,2014,Canola,0.4711154857789074,3.0
+Australia,Queensland,2014,Oats,0.28871923832169977,4.0
+Australia,Queensland,2014,Wheat,1.5844711685983237,2.0
+Australia,Queensland,2015,Barley,2.5168416913971408,1.0
+Australia,Queensland,2015,Canola,1.2125232637077417,3.0
+Australia,Queensland,2015,Oats,0.7871695684340476,4.0
+Australia,Queensland,2015,Wheat,2.1474659304012222,2.0
+Australia,Queensland,2016,Barley,2.0919653208943387,1.0
+Australia,Queensland,2016,Canola,1.109311055231355,3.0
+Australia,Queensland,2016,Oats,0.9940993552557,4.0
+Australia,Queensland,2016,Wheat,1.894038437464588,2.0
+Australia,Queensland,2017,Barley,1.5591418392458425,1.0
+Australia,Queensland,2017,Canola,0.6402710560004363,3.0
+Australia,Queensland,2017,Oats,0.5555298878830743,4.0
+Australia,Queensland,2017,Wheat,1.3453863475099619,2.0
+Australia,Queensland,2018,Barley,1.643609108829231,1.0
+Australia,Queensland,2018,Canola,0.8075151044103229,3.0
+Australia,Queensland,2018,Oats,0.7055244839433101,4.0
+Australia,Queensland,2018,Wheat,1.450977924181586,2.0
+Australia,Queensland,2019,Barley,1.3564255237535447,1.0
+Australia,Queensland,2019,Canola,0.45447692218609687,3.0
+Australia,Queensland,2019,Oats,0.33812348421560634,4.0
+Australia,Queensland,2019,Wheat,1.2458866794318066,2.0
+Australia,Queensland,2020,Barley,1.7096629962929215,1.0
+Australia,Queensland,2020,Canola,0.7728920313850375,4.0
+Australia,Queensland,2020,Oats,0.8220142246442976,3.0
+Australia,Queensland,2020,Wheat,1.516813711648797,2.0
+Australia,Queensland,2021,Barley,2.0342387495119736,1.0
+Australia,Queensland,2021,Canola,1.0437620583251344,3.0
+Australia,Queensland,2021,Oats,0.9800235280273125,4.0
+Australia,Queensland,2021,Wheat,1.8356460776126629,2.0
+Australia,South Australia,1989,Barley,1.873706960710605,1.0
+Australia,South Australia,1989,Canola,1.5131934650439864,3.0
+Australia,South Australia,1989,Oats,1.4437952663318876,4.0
+Australia,South Australia,1989,Wheat,1.7196264561242618,2.0
+Australia,South Australia,1990,Barley,1.5396033579790622,1.0
+Australia,South Australia,1990,Canola,1.3582497441439934,3.0
+Australia,South Australia,1990,Oats,1.1552408874422626,4.0
+Australia,South Australia,1990,Wheat,1.4439196471116225,2.0
+Australia,South Australia,1991,Barley,1.8383161731796651,1.0
+Australia,South Australia,1991,Canola,1.5026184530397377,3.0
+Australia,South Australia,1991,Oats,1.320166928010493,4.0
+Australia,South Australia,1991,Wheat,1.6816709768210263,2.0
+Australia,South Australia,1992,Barley,1.8150025461063097,1.0
+Australia,South Australia,1992,Canola,1.5352015557121652,3.0
+Australia,South Australia,1992,Oats,1.3639872228997387,4.0
+Australia,South Australia,1992,Wheat,1.7260267853249172,2.0
+Australia,South Australia,1993,Barley,1.9589716150573475,1.0
+Australia,South Australia,1993,Canola,1.6586447386797047,3.0
+Australia,South Australia,1993,Oats,1.3359858865372538,4.0
+Australia,South Australia,1993,Wheat,1.806617880605175,2.0
+Australia,South Australia,1994,Barley,1.2599746255918165,1.0
+Australia,South Australia,1994,Canola,1.0503049133040019,3.0
+Australia,South Australia,1994,Oats,0.9524273815427924,4.0
+Australia,South Australia,1994,Wheat,1.1158925627852927,2.0
+Australia,South Australia,1995,Barley,1.9083285156156966,1.0
+Australia,South Australia,1995,Canola,1.561716720659018,3.0
+Australia,South Australia,1995,Oats,1.348328784296002,4.0
+Australia,South Australia,1995,Wheat,1.8105721086569366,2.0
+Australia,South Australia,1996,Barley,1.9037822951894952,1.0
+Australia,South Australia,1996,Canola,1.4690642347133456,3.0
+Australia,South Australia,1996,Oats,1.276626429079626,4.0
+Australia,South Australia,1996,Wheat,1.8257487982242047,2.0
+Australia,South Australia,1997,Barley,1.9701386946754484,1.0
+Australia,South Australia,1997,Canola,1.3803674077057924,4.0
+Australia,South Australia,1997,Oats,1.389985602575726,3.0
+Australia,South Australia,1997,Wheat,1.8865155047076594,2.0
+Australia,South Australia,1998,Barley,2.0397215670041104,1.0
+Australia,South Australia,1998,Canola,1.44420013099543,4.0
+Australia,South Australia,1998,Oats,1.5729044798804028,3.0
+Australia,South Australia,1998,Wheat,1.9015122401285693,2.0
+Australia,South Australia,1999,Barley,1.599460024128846,1.0
+Australia,South Australia,1999,Canola,1.1675964387187292,3.0
+Australia,South Australia,1999,Oats,1.1335693925716896,4.0
+Australia,South Australia,1999,Wheat,1.455671178687227,2.0
+Australia,South Australia,2000,Barley,2.197939664957731,1.0
+Australia,South Australia,2000,Canola,1.3490908077490926,4.0
+Australia,South Australia,2000,Oats,1.554033195154655,3.0
+Australia,South Australia,2000,Wheat,2.1335934525942997,2.0
+Australia,South Australia,2001,Barley,2.401378576867261,2.0
+Australia,South Australia,2001,Canola,1.6558845789222514,4.0
+Australia,South Australia,2001,Oats,1.843999616176537,3.0
+Australia,South Australia,2001,Wheat,2.411660317865018,1.0
+Australia,South Australia,2002,Barley,1.216046666423678,1.0
+Australia,South Australia,2002,Canola,1.0076026646420888,3.0
+Australia,South Australia,2002,Oats,0.8455552269351346,4.0
+Australia,South Australia,2002,Wheat,1.0733332289303321,2.0
+Australia,South Australia,2003,Barley,2.1331424341878624,1.0
+Australia,South Australia,2003,Canola,1.4287121964454588,4.0
+Australia,South Australia,2003,Oats,1.534924330087086,3.0
+Australia,South Australia,2003,Wheat,1.8483497118862442,2.0
+Australia,South Australia,2004,Barley,1.5051685237827448,1.0
+Australia,South Australia,2004,Canola,1.0747152383677567,4.0
+Australia,South Australia,2004,Oats,1.2088799533739396,3.0
+Australia,South Australia,2004,Wheat,1.3785804439773155,2.0
+Australia,South Australia,2005,Barley,2.1111847815095564,1.0
+Australia,South Australia,2005,Canola,1.4574837496899549,4.0
+Australia,South Australia,2005,Oats,1.6413371499004705,3.0
+Australia,South Australia,2005,Wheat,1.953882690988663,2.0
+Australia,South Australia,2006,Barley,0.8467124086821458,1.0
+Australia,South Australia,2006,Canola,0.46449384564807217,4.0
+Australia,South Australia,2006,Oats,0.5129199276074775,3.0
+Australia,South Australia,2006,Wheat,0.7294667675107863,2.0
+Australia,South Australia,2007,Barley,1.2873322913423413,1.0
+Australia,South Australia,2007,Canola,0.9328596402116571,3.0
+Australia,South Australia,2007,Oats,0.8498212012732551,4.0
+Australia,South Australia,2007,Wheat,1.1225435970816344,2.0
+Australia,South Australia,2008,Barley,1.412832627753775,1.0
+Australia,South Australia,2008,Canola,1.1139225146956806,3.0
+Australia,South Australia,2008,Oats,0.8818767770516305,4.0
+Australia,South Australia,2008,Wheat,1.1876260711663824,2.0
+Australia,South Australia,2009,Barley,2.0450357038800906,1.0
+Australia,South Australia,2009,Canola,1.4311715604164459,4.0
+Australia,South Australia,2009,Oats,1.4819766150314535,3.0
+Australia,South Australia,2009,Wheat,1.9018281324870456,2.0
+Australia,South Australia,2010,Barley,2.571219315597822,2.0
+Australia,South Australia,2010,Canola,1.6476509829192099,4.0
+Australia,South Australia,2010,Oats,1.8365302388745677,3.0
+Australia,South Australia,2010,Wheat,2.621103094177224,1.0
+Australia,South Australia,2011,Barley,2.060964149466813,1.0
+Australia,South Australia,2011,Canola,1.4577051149358689,3.0
+Australia,South Australia,2011,Oats,1.436899645318242,4.0
+Australia,South Australia,2011,Wheat,1.9962165433411103,2.0
+Australia,South Australia,2012,Barley,2.050765550590306,1.0
+Australia,South Australia,2012,Canola,1.2443933965447909,4.0
+Australia,South Australia,2012,Oats,1.302281537698187,3.0
+Australia,South Australia,2012,Wheat,1.790091074410372,2.0
+Australia,South Australia,2013,Barley,2.320688227696173,1.0
+Australia,South Australia,2013,Canola,1.3979503017170762,4.0
+Australia,South Australia,2013,Oats,1.5197966994983123,3.0
+Australia,South Australia,2013,Wheat,2.195228719143877,2.0
+Australia,South Australia,2014,Barley,2.3036476552900753,1.0
+Australia,South Australia,2014,Canola,1.0367747130337732,4.0
+Australia,South Australia,2014,Oats,1.5726283643386199,3.0
+Australia,South Australia,2014,Wheat,2.2031197305756964,2.0
+Australia,South Australia,2015,Barley,2.2466183709907876,1.0
+Australia,South Australia,2015,Canola,1.4383028628204306,4.0
+Australia,South Australia,2015,Oats,1.5648383151377818,3.0
+Australia,South Australia,2015,Wheat,2.0803152796425497,2.0
+Australia,South Australia,2016,Barley,2.117930061978533,1.0
+Australia,South Australia,2016,Canola,1.5566050627561974,4.0
+Australia,South Australia,2016,Oats,1.6704767571878607,3.0
+Australia,South Australia,2016,Wheat,2.0738485451443576,2.0
+Australia,South Australia,2017,Barley,2.0638000976424578,1.0
+Australia,South Australia,2017,Canola,1.2141255122168568,4.0
+Australia,South Australia,2017,Oats,1.241546234922089,3.0
+Australia,South Australia,2017,Wheat,1.863794958774851,2.0
+Australia,South Australia,2018,Barley,1.6684026206376574,1.0
+Australia,South Australia,2018,Canola,1.0735057148042189,4.0
+Australia,South Australia,2018,Oats,1.1270896457815371,3.0
+Australia,South Australia,2018,Wheat,1.5049463594628059,2.0
+Australia,South Australia,2019,Barley,2.0058695694155304,1.0
+Australia,South Australia,2019,Canola,1.2049294521078264,3.0
+Australia,South Australia,2019,Oats,1.202466465425968,4.0
+Australia,South Australia,2019,Wheat,1.8278052246435705,2.0
+Australia,South Australia,2020,Barley,2.1417354127214856,1.0
+Australia,South Australia,2020,Canola,1.3079900841739092,4.0
+Australia,South Australia,2020,Oats,1.3217159202424111,3.0
+Australia,South Australia,2020,Wheat,2.0273926563937326,2.0
+Australia,South Australia,2021,Barley,2.079449414204643,1.0
+Australia,South Australia,2021,Canola,1.322607098615581,3.0
+Australia,South Australia,2021,Oats,1.3156079510251493,4.0
+Australia,South Australia,2021,Wheat,1.929238048337588,2.0
+Australia,Tasmania,1989,Barley,2.463963132199359,2.0
+Australia,Tasmania,1989,Canola,0.5172335880703598,4.0
+Australia,Tasmania,1989,Oats,1.6615281082514062,3.0
+Australia,Tasmania,1989,Wheat,3.2490402110045267,1.0
+Australia,Tasmania,1990,Barley,2.6801065864733604,2.0
+Australia,Tasmania,1990,Canola,0.7995848256593022,4.0
+Australia,Tasmania,1990,Oats,2.015762745752728,3.0
+Australia,Tasmania,1990,Wheat,3.9637958868955416,1.0
+Australia,Tasmania,1991,Barley,2.8265091055603673,1.0
+Australia,Tasmania,1991,Canola,0.8869679617845672,4.0
+Australia,Tasmania,1991,Oats,2.0636160585313785,3.0
+Australia,Tasmania,1991,Wheat,2.797133225433937,2.0
+Australia,Tasmania,1992,Barley,2.8906680145067587,2.0
+Australia,Tasmania,1992,Canola,1.3438124207077293,4.0
+Australia,Tasmania,1992,Oats,2.066630156352728,3.0
+Australia,Tasmania,1992,Wheat,3.6453374057789474,1.0
+Australia,Tasmania,1993,Barley,2.7267514802231476,2.0
+Australia,Tasmania,1993,Canola,1.268291327084645,4.0
+Australia,Tasmania,1993,Oats,1.9208813052276579,3.0
+Australia,Tasmania,1993,Wheat,3.2561124531884063,1.0
+Australia,Tasmania,1994,Barley,2.0890280717229146,2.0
+Australia,Tasmania,1994,Canola,0.6568188481523651,4.0
+Australia,Tasmania,1994,Oats,1.3184619313780064,3.0
+Australia,Tasmania,1994,Wheat,2.4638871334511543,1.0
+Australia,Tasmania,1995,Barley,2.7291928773266583,2.0
+Australia,Tasmania,1995,Canola,1.2998737076906055,4.0
+Australia,Tasmania,1995,Oats,1.7539524839998892,3.0
+Australia,Tasmania,1995,Wheat,3.679866424318091,1.0
+Australia,Tasmania,1996,Barley,2.4694148627539634,2.0
+Australia,Tasmania,1996,Canola,1.1533531015382161,4.0
+Australia,Tasmania,1996,Oats,1.725949374176044,3.0
+Australia,Tasmania,1996,Wheat,3.9128712494694264,1.0
+Australia,Tasmania,1997,Barley,2.3339673573773876,2.0
+Australia,Tasmania,1997,Canola,1.0810653878958911,4.0
+Australia,Tasmania,1997,Oats,1.8562270422821312,3.0
+Australia,Tasmania,1997,Wheat,4.171043315043692,1.0
+Australia,Tasmania,1998,Barley,2.6515975793058315,2.0
+Australia,Tasmania,1998,Canola,1.429943678090976,4.0
+Australia,Tasmania,1998,Oats,1.7978383128535007,3.0
+Australia,Tasmania,1998,Wheat,4.346683575972497,1.0
+Australia,Tasmania,1999,Barley,2.4714820022230177,2.0
+Australia,Tasmania,1999,Canola,1.7018125799674086,3.0
+Australia,Tasmania,1999,Oats,1.6077583166653027,4.0
+Australia,Tasmania,1999,Wheat,3.241640861074107,1.0
+Australia,Tasmania,2000,Barley,2.7156722413201178,2.0
+Australia,Tasmania,2000,Canola,1.462492888528527,4.0
+Australia,Tasmania,2000,Oats,1.9060744142651678,3.0
+Australia,Tasmania,2000,Wheat,3.8956705305319543,1.0
+Australia,Tasmania,2001,Barley,3.4637116242813644,2.0
+Australia,Tasmania,2001,Canola,1.8008814058650233,4.0
+Australia,Tasmania,2001,Oats,2.111663488761962,3.0
+Australia,Tasmania,2001,Wheat,4.244310983162814,1.0
+Australia,Tasmania,2002,Barley,2.5376679077528252,2.0
+Australia,Tasmania,2002,Canola,1.8456583322965414,4.0
+Australia,Tasmania,2002,Oats,1.9281350249408207,3.0
+Australia,Tasmania,2002,Wheat,3.4445868934058725,1.0
+Australia,Tasmania,2003,Barley,2.989975821581625,2.0
+Australia,Tasmania,2003,Canola,1.4671589750155678,4.0
+Australia,Tasmania,2003,Oats,1.6558409208869347,3.0
+Australia,Tasmania,2003,Wheat,3.442766773339655,1.0
+Australia,Tasmania,2004,Barley,3.6483814920304063,2.0
+Australia,Tasmania,2004,Canola,1.9014850195849207,4.0
+Australia,Tasmania,2004,Oats,2.237181528783791,3.0
+Australia,Tasmania,2004,Wheat,4.122149717476747,1.0
+Australia,Tasmania,2005,Barley,3.4308102909622993,2.0
+Australia,Tasmania,2005,Canola,1.5578538172616585,4.0
+Australia,Tasmania,2005,Oats,2.0364300358063647,3.0
+Australia,Tasmania,2005,Wheat,4.3101361195377175,1.0
+Australia,Tasmania,2006,Barley,2.2006752300606967,2.0
+Australia,Tasmania,2006,Canola,0.7270130897882385,4.0
+Australia,Tasmania,2006,Oats,1.2660098897168544,3.0
+Australia,Tasmania,2006,Wheat,2.5163165114283115,1.0
+Australia,Tasmania,2007,Barley,2.8690665360535976,2.0
+Australia,Tasmania,2007,Canola,1.3746076432284309,4.0
+Australia,Tasmania,2007,Oats,1.8576770894842336,3.0
+Australia,Tasmania,2007,Wheat,3.7515448278398624,1.0
+Australia,Tasmania,2008,Barley,2.744711568498103,2.0
+Australia,Tasmania,2008,Canola,1.2513251854008829,4.0
+Australia,Tasmania,2008,Oats,1.7339056797652237,3.0
+Australia,Tasmania,2008,Wheat,4.074752748450551,1.0
+Australia,Tasmania,2009,Barley,3.3118678423404937,2.0
+Australia,Tasmania,2009,Canola,1.7898760403241418,4.0
+Australia,Tasmania,2009,Oats,1.8094004408922382,3.0
+Australia,Tasmania,2009,Wheat,3.779833838908429,1.0
+Australia,Tasmania,2010,Barley,3.673694601074189,2.0
+Australia,Tasmania,2010,Canola,1.5006178559436238,4.0
+Australia,Tasmania,2010,Oats,2.1629006098199515,3.0
+Australia,Tasmania,2010,Wheat,3.9786803775087187,1.0
+Australia,Tasmania,2011,Barley,3.605863359566801,2.0
+Australia,Tasmania,2011,Canola,1.0772363498508835,4.0
+Australia,Tasmania,2011,Oats,2.2444794620743287,3.0
+Australia,Tasmania,2011,Wheat,4.782121134742392,1.0
+Australia,Tasmania,2012,Barley,3.21354495493406,2.0
+Australia,Tasmania,2012,Canola,1.5304102501587964,4.0
+Australia,Tasmania,2012,Oats,2.0106258441309057,3.0
+Australia,Tasmania,2012,Wheat,5.095544066447704,1.0
+Australia,Tasmania,2013,Barley,3.8442327276822827,2.0
+Australia,Tasmania,2013,Canola,1.9331478905508843,4.0
+Australia,Tasmania,2013,Oats,2.3982057102282623,3.0
+Australia,Tasmania,2013,Wheat,5.254868946643676,1.0
+Australia,Tasmania,2014,Barley,3.190829958530187,2.0
+Australia,Tasmania,2014,Canola,1.6346541188620176,4.0
+Australia,Tasmania,2014,Oats,1.7373828754352185,3.0
+Australia,Tasmania,2014,Wheat,5.256930084276657,1.0
+Australia,Tasmania,2015,Barley,2.9109442183937815,2.0
+Australia,Tasmania,2015,Canola,1.9110148676079448,4.0
+Australia,Tasmania,2015,Oats,2.3022580402304427,3.0
+Australia,Tasmania,2015,Wheat,4.893133701332318,1.0
+Australia,Tasmania,2016,Barley,3.515821620874189,2.0
+Australia,Tasmania,2016,Canola,1.4582564637507565,4.0
+Australia,Tasmania,2016,Oats,2.121592267610918,3.0
+Australia,Tasmania,2016,Wheat,4.285137228202041,1.0
+Australia,Tasmania,2017,Barley,2.7841839298691013,2.0
+Australia,Tasmania,2017,Canola,1.2723007603249648,4.0
+Australia,Tasmania,2017,Oats,1.868275955407114,3.0
+Australia,Tasmania,2017,Wheat,4.102041336098043,1.0
+Australia,Tasmania,2018,Barley,2.890152268716744,2.0
+Australia,Tasmania,2018,Canola,1.489678115349892,4.0
+Australia,Tasmania,2018,Oats,1.9240190723892558,3.0
+Australia,Tasmania,2018,Wheat,4.128351588232128,1.0
+Australia,Tasmania,2019,Barley,2.793578791895139,2.0
+Australia,Tasmania,2019,Canola,1.2961326203386319,4.0
+Australia,Tasmania,2019,Oats,1.8274570708810738,3.0
+Australia,Tasmania,2019,Wheat,3.9747847674495325,1.0
+Australia,Tasmania,2020,Barley,2.9502161441846892,2.0
+Australia,Tasmania,2020,Canola,1.3218718485195184,4.0
+Australia,Tasmania,2020,Oats,1.8806449117002422,3.0
+Australia,Tasmania,2020,Wheat,4.18687832976743,1.0
+Australia,Tasmania,2021,Barley,3.3626428781459134,2.0
+Australia,Tasmania,2021,Canola,1.7196277012133827,4.0
+Australia,Tasmania,2021,Oats,1.9259982944827334,3.0
+Australia,Tasmania,2021,Wheat,4.32192910884661,1.0
+Australia,Victoria,1989,Barley,1.8857134691315753,2.0
+Australia,Victoria,1989,Canola,1.3348322157798203,4.0
+Australia,Victoria,1989,Oats,1.7623973496763075,3.0
+Australia,Victoria,1989,Wheat,1.9863747119563426,1.0
+Australia,Victoria,1990,Barley,1.4936707338852255,3.0
+Australia,Victoria,1990,Canola,0.9970633577156811,4.0
+Australia,Victoria,1990,Oats,1.6864897437111952,1.0
+Australia,Victoria,1990,Wheat,1.555312213858898,2.0
+Australia,Victoria,1991,Barley,1.721903550804002,1.0
+Australia,Victoria,1991,Canola,1.1890319912238256,4.0
+Australia,Victoria,1991,Oats,1.6256040205785072,3.0
+Australia,Victoria,1991,Wheat,1.7113048454612974,2.0
+Australia,Victoria,1992,Barley,2.067396607250321,2.0
+Australia,Victoria,1992,Canola,1.3172700916138187,4.0
+Australia,Victoria,1992,Oats,1.8278746618581103,3.0
+Australia,Victoria,1992,Wheat,2.396440434639447,1.0
+Australia,Victoria,1993,Barley,2.2275691610476676,2.0
+Australia,Victoria,1993,Canola,1.6124279007089097,4.0
+Australia,Victoria,1993,Oats,1.936441557000335,3.0
+Australia,Victoria,1993,Wheat,2.5272951912021693,1.0
+Australia,Victoria,1994,Barley,0.9686351377775879,3.0
+Australia,Victoria,1994,Canola,0.8281006278898726,4.0
+Australia,Victoria,1994,Oats,1.2684347239765075,1.0
+Australia,Victoria,1994,Wheat,1.0668465008784214,2.0
+Australia,Victoria,1995,Barley,2.1497021310892093,2.0
+Australia,Victoria,1995,Canola,1.5500602691863348,4.0
+Australia,Victoria,1995,Oats,2.0915467244387376,3.0
+Australia,Victoria,1995,Wheat,2.241686571004693,1.0
+Australia,Victoria,1996,Barley,2.1174462186862666,2.0
+Australia,Victoria,1996,Canola,1.4203098366687639,4.0
+Australia,Victoria,1996,Oats,1.7015590466903967,3.0
+Australia,Victoria,1996,Wheat,2.270020455854921,1.0
+Australia,Victoria,1997,Barley,1.5965808961627197,3.0
+Australia,Victoria,1997,Canola,1.1943763543001886,4.0
+Australia,Victoria,1997,Oats,2.098664232360561,1.0
+Australia,Victoria,1997,Wheat,1.6644152007992694,2.0
+Australia,Victoria,1998,Barley,1.5619038633004936,2.0
+Australia,Victoria,1998,Canola,1.2600946357278566,4.0
+Australia,Victoria,1998,Oats,2.3498991275934835,1.0
+Australia,Victoria,1998,Wheat,1.544295363347695,3.0
+Australia,Victoria,1999,Barley,2.053852386686263,3.0
+Australia,Victoria,1999,Canola,1.3848505841047898,4.0
+Australia,Victoria,1999,Oats,2.143213381868374,1.0
+Australia,Victoria,1999,Wheat,2.1212673857995354,2.0
+Australia,Victoria,2000,Barley,2.4645648883001767,3.0
+Australia,Victoria,2000,Canola,1.4515924447638013,4.0
+Australia,Victoria,2000,Oats,2.474144213183985,2.0
+Australia,Victoria,2000,Wheat,2.6193019516480094,1.0
+Australia,Victoria,2001,Barley,2.3805827199140897,2.0
+Australia,Victoria,2001,Canola,1.4341510362116703,4.0
+Australia,Victoria,2001,Oats,2.3399132707178847,3.0
+Australia,Victoria,2001,Wheat,2.417757271514971,1.0
+Australia,Victoria,2002,Barley,0.6866815736314311,4.0
+Australia,Victoria,2002,Canola,0.7582688022671602,2.0
+Australia,Victoria,2002,Oats,1.1951200458540874,1.0
+Australia,Victoria,2002,Wheat,0.7513003509797576,3.0
+Australia,Victoria,2003,Barley,2.465384670784164,2.0
+Australia,Victoria,2003,Canola,1.6027886637568707,4.0
+Australia,Victoria,2003,Oats,2.510745552999362,1.0
+Australia,Victoria,2003,Wheat,2.362868030134875,3.0
+Australia,Victoria,2004,Barley,1.4583286477822943,2.0
+Australia,Victoria,2004,Canola,1.204229152215468,4.0
+Australia,Victoria,2004,Oats,1.9068421199583967,1.0
+Australia,Victoria,2004,Wheat,1.4360068781159452,3.0
+Australia,Victoria,2005,Barley,2.2642589616838538,1.0
+Australia,Victoria,2005,Canola,1.420895327315662,4.0
+Australia,Victoria,2005,Oats,2.158416191921529,3.0
+Australia,Victoria,2005,Wheat,2.259256288526728,2.0
+Australia,Victoria,2006,Barley,0.672969129198729,2.0
+Australia,Victoria,2006,Canola,0.328703154618803,4.0
+Australia,Victoria,2006,Oats,0.7088227716504648,1.0
+Australia,Victoria,2006,Wheat,0.6728248782709855,3.0
+Australia,Victoria,2007,Barley,1.5450881081771948,1.0
+Australia,Victoria,2007,Canola,1.1251230354930606,4.0
+Australia,Victoria,2007,Oats,1.5340497222236533,2.0
+Australia,Victoria,2007,Wheat,1.3867817947166263,3.0
+Australia,Victoria,2008,Barley,1.2871956733141428,2.0
+Australia,Victoria,2008,Canola,0.8675616364903909,4.0
+Australia,Victoria,2008,Oats,1.3143203216062993,1.0
+Australia,Victoria,2008,Wheat,1.1646701097485521,3.0
+Australia,Victoria,2009,Barley,1.8729059401470385,1.0
+Australia,Victoria,2009,Canola,1.4235722814878025,4.0
+Australia,Victoria,2009,Oats,1.7998730367590454,2.0
+Australia,Victoria,2009,Wheat,1.712298355017979,3.0
+Australia,Victoria,2010,Barley,2.4349847193594067,2.0
+Australia,Victoria,2010,Canola,1.48065029112785,4.0
+Australia,Victoria,2010,Oats,1.5333153801091166,3.0
+Australia,Victoria,2010,Wheat,2.4674035306287014,1.0
+Australia,Victoria,2011,Barley,2.4048021208189576,1.0
+Australia,Victoria,2011,Canola,1.4284413492080665,4.0
+Australia,Victoria,2011,Oats,1.8274760270024768,3.0
+Australia,Victoria,2011,Wheat,2.3360244563930124,2.0
+Australia,Victoria,2012,Barley,2.2608093110138827,1.0
+Australia,Victoria,2012,Canola,1.4701853552225184,4.0
+Australia,Victoria,2012,Oats,1.9830432471180264,3.0
+Australia,Victoria,2012,Wheat,2.157660195220059,2.0
+Australia,Victoria,2013,Barley,2.2173623788217287,1.0
+Australia,Victoria,2013,Canola,1.59585078137214,4.0
+Australia,Victoria,2013,Oats,1.9907739644179094,3.0
+Australia,Victoria,2013,Wheat,2.216490268289655,2.0
+Australia,Victoria,2014,Barley,1.573043582590729,2.0
+Australia,Victoria,2014,Canola,1.141382663528028,4.0
+Australia,Victoria,2014,Oats,1.4092982490314871,3.0
+Australia,Victoria,2014,Wheat,1.6171363312949487,1.0
+Australia,Victoria,2015,Barley,1.3402416470246643,1.0
+Australia,Victoria,2015,Canola,1.0513088330405842,4.0
+Australia,Victoria,2015,Oats,1.288814219960258,3.0
+Australia,Victoria,2015,Wheat,1.3399624464808293,2.0
+Australia,Victoria,2016,Barley,2.1617489364575033,2.0
+Australia,Victoria,2016,Canola,1.4701575850652395,4.0
+Australia,Victoria,2016,Oats,2.021664298584164,3.0
+Australia,Victoria,2016,Wheat,2.212514107444992,1.0
+Australia,Victoria,2017,Barley,2.071655392336403,1.0
+Australia,Victoria,2017,Canola,1.2749785384752264,4.0
+Australia,Victoria,2017,Oats,1.7989604115389304,3.0
+Australia,Victoria,2017,Wheat,1.9665923109230259,2.0
+Australia,Victoria,2018,Barley,1.3990222707952988,2.0
+Australia,Victoria,2018,Canola,0.9495518791563717,4.0
+Australia,Victoria,2018,Oats,1.4492152109628027,1.0
+Australia,Victoria,2018,Wheat,1.354061696297671,3.0
+Australia,Victoria,2019,Barley,1.9929110269159598,1.0
+Australia,Victoria,2019,Canola,1.230022127962323,4.0
+Australia,Victoria,2019,Oats,1.9124899124761392,2.0
+Australia,Victoria,2019,Wheat,1.8885055665493313,3.0
+Australia,Victoria,2020,Barley,1.927991538832213,1.0
+Australia,Victoria,2020,Canola,1.2356426234626188,4.0
+Australia,Victoria,2020,Oats,1.806595219824132,3.0
+Australia,Victoria,2020,Wheat,1.8642105483818103,2.0
+Australia,Victoria,2021,Barley,2.177461241036363,1.0
+Australia,Victoria,2021,Canola,1.441993256608839,4.0
+Australia,Victoria,2021,Oats,2.1215030887038275,3.0
+Australia,Victoria,2021,Wheat,2.1525091434293233,2.0
+Australia,Western Australia,1989,Barley,1.4824782900694808,2.0
+Australia,Western Australia,1989,Canola,1.059392631947365,4.0
+Australia,Western Australia,1989,Oats,1.583464539269029,1.0
+Australia,Western Australia,1989,Wheat,1.4113492214127488,3.0
+Australia,Western Australia,1990,Barley,1.5145530036790111,2.0
+Australia,Western Australia,1990,Canola,0.9357780340640197,4.0
+Australia,Western Australia,1990,Oats,1.5697954437643074,1.0
+Australia,Western Australia,1990,Wheat,1.4910222238690936,3.0
+Australia,Western Australia,1991,Barley,1.5809235084996667,2.0
+Australia,Western Australia,1991,Canola,0.9346829912287821,4.0
+Australia,Western Australia,1991,Oats,1.6623326421532831,1.0
+Australia,Western Australia,1991,Wheat,1.5076294220853101,3.0
+Australia,Western Australia,1992,Barley,1.7355625480072676,1.0
+Australia,Western Australia,1992,Canola,0.9875974741175868,4.0
+Australia,Western Australia,1992,Oats,1.7313608988247906,2.0
+Australia,Western Australia,1992,Wheat,1.6493482562709343,3.0
+Australia,Western Australia,1993,Barley,1.7523369617836508,2.0
+Australia,Western Australia,1993,Canola,1.2945032343601228,4.0
+Australia,Western Australia,1993,Oats,1.877114071954523,1.0
+Australia,Western Australia,1993,Wheat,1.7278357457613434,3.0
+Australia,Western Australia,1994,Barley,1.5610980693256766,2.0
+Australia,Western Australia,1994,Canola,1.030248494240052,4.0
+Australia,Western Australia,1994,Oats,1.6533127023860932,1.0
+Australia,Western Australia,1994,Wheat,1.442827365684215,3.0
+Australia,Western Australia,1995,Barley,1.7900073120440048,2.0
+Australia,Western Australia,1995,Canola,1.1863233601948615,4.0
+Australia,Western Australia,1995,Oats,1.9446942188263356,1.0
+Australia,Western Australia,1995,Wheat,1.7527575723084363,3.0
+Australia,Western Australia,1996,Barley,1.798552926026256,1.0
+Australia,Western Australia,1996,Canola,1.0214629594124591,4.0
+Australia,Western Australia,1996,Oats,1.7489527341282396,3.0
+Australia,Western Australia,1996,Wheat,1.7587299311774216,2.0
+Australia,Western Australia,1997,Barley,1.8698119474319443,2.0
+Australia,Western Australia,1997,Canola,1.0885947862281347,4.0
+Australia,Western Australia,1997,Oats,1.9563005075801048,1.0
+Australia,Western Australia,1997,Wheat,1.824118224031658,3.0
+Australia,Western Australia,1998,Barley,1.824355983232424,2.0
+Australia,Western Australia,1998,Canola,1.1523311062026533,4.0
+Australia,Western Australia,1998,Oats,2.0230264351900464,1.0
+Australia,Western Australia,1998,Wheat,1.7849995556427738,3.0
+Australia,Western Australia,1999,Barley,2.0347682327983407,2.0
+Australia,Western Australia,1999,Canola,1.1135090592802286,4.0
+Australia,Western Australia,1999,Oats,2.202466078198542,1.0
+Australia,Western Australia,1999,Wheat,1.9699861557240028,3.0
+Australia,Western Australia,2000,Barley,1.374535007075345,1.0
+Australia,Western Australia,2000,Canola,0.740494660173395,4.0
+Australia,Western Australia,2000,Oats,1.318933209136272,2.0
+Australia,Western Australia,2000,Wheat,1.2848708878278041,3.0
+Australia,Western Australia,2001,Barley,2.0448742952785337,1.0
+Australia,Western Australia,2001,Canola,1.078953293453328,4.0
+Australia,Western Australia,2001,Oats,1.9549712822051633,2.0
+Australia,Western Australia,2001,Wheat,1.814089674098832,3.0
+Australia,Western Australia,2002,Barley,1.1864638911186642,2.0
+Australia,Western Australia,2002,Canola,0.852052027026154,4.0
+Australia,Western Australia,2002,Oats,1.4080367721409892,1.0
+Australia,Western Australia,2002,Wheat,1.071543409912767,3.0
+Australia,Western Australia,2003,Barley,2.3795335133953204,1.0
+Australia,Western Australia,2003,Canola,1.4136198080277182,4.0
+Australia,Western Australia,2003,Oats,2.175873562548621,3.0
+Australia,Western Australia,2003,Wheat,2.305224090663401,2.0
+Australia,Western Australia,2004,Barley,1.8702379881749123,2.0
+Australia,Western Australia,2004,Canola,1.1447573036265124,4.0
+Australia,Western Australia,2004,Oats,1.893176614887833,1.0
+Australia,Western Australia,2004,Wheat,1.7009116471740695,3.0
+Australia,Western Australia,2005,Barley,2.0975105136298127,2.0
+Australia,Western Australia,2005,Canola,1.399565901246105,4.0
+Australia,Western Australia,2005,Oats,2.1499430864450764,1.0
+Australia,Western Australia,2005,Wheat,1.9354138967293173,3.0
+Australia,Western Australia,2006,Barley,1.6248051728937374,1.0
+Australia,Western Australia,2006,Canola,0.9353085142815758,4.0
+Australia,Western Australia,2006,Oats,1.4423377070032724,2.0
+Australia,Western Australia,2006,Wheat,1.3035955611724133,3.0
+Australia,Western Australia,2007,Barley,1.8907697467102844,2.0
+Australia,Western Australia,2007,Canola,1.2528625197377343,4.0
+Australia,Western Australia,2007,Oats,2.0727941287859313,1.0
+Australia,Western Australia,2007,Wheat,1.5047544878796575,3.0
+Australia,Western Australia,2008,Barley,1.9319819685003943,1.0
+Australia,Western Australia,2008,Canola,1.272806224536335,4.0
+Australia,Western Australia,2008,Oats,1.9212660757374653,2.0
+Australia,Western Australia,2008,Wheat,1.82076306527388,3.0
+Australia,Western Australia,2009,Barley,1.7904910763161206,2.0
+Australia,Western Australia,2009,Canola,1.0114450233406502,4.0
+Australia,Western Australia,2009,Oats,1.8635577055902435,1.0
+Australia,Western Australia,2009,Wheat,1.6468851608269686,3.0
+Australia,Western Australia,2010,Barley,1.355903987527294,1.0
+Australia,Western Australia,2010,Canola,0.7755699931562026,4.0
+Australia,Western Australia,2010,Oats,1.1032770316930658,2.0
+Australia,Western Australia,2010,Wheat,1.1016821996066593,3.0
+Australia,Western Australia,2011,Barley,2.21059349387456,2.0
+Australia,Western Australia,2011,Canola,1.25993523696241,4.0
+Australia,Western Australia,2011,Oats,2.2572555808885495,1.0
+Australia,Western Australia,2011,Wheat,2.149412537163245,3.0
+Australia,Western Australia,2012,Barley,1.7800811149331415,2.0
+Australia,Western Australia,2012,Canola,1.0454742032395883,4.0
+Australia,Western Australia,2012,Oats,1.8716384967265205,1.0
+Australia,Western Australia,2012,Wheat,1.4751570697548293,3.0
+Australia,Western Australia,2013,Barley,2.587146026747858,1.0
+Australia,Western Australia,2013,Canola,1.3206710298340185,4.0
+Australia,Western Australia,2013,Oats,2.4256780297942173,2.0
+Australia,Western Australia,2013,Wheat,2.0406451565801884,3.0
+Australia,Western Australia,2014,Barley,2.41353481197446,1.0
+Australia,Western Australia,2014,Canola,1.1856355166323485,4.0
+Australia,Western Australia,2014,Oats,2.351751857198034,2.0
+Australia,Western Australia,2014,Wheat,1.873819393891252,3.0
+Australia,Western Australia,2015,Barley,2.343988299128833,1.0
+Australia,Western Australia,2015,Canola,1.2095036159639996,4.0
+Australia,Western Australia,2015,Oats,1.9394609670411225,2.0
+Australia,Western Australia,2015,Wheat,1.8755682070988717,3.0
+Australia,Western Australia,2016,Barley,2.0735306321900233,1.0
+Australia,Western Australia,2016,Canola,1.1937702290630212,4.0
+Australia,Western Australia,2016,Oats,1.9706667455159987,2.0
+Australia,Western Australia,2016,Wheat,1.8293991985763842,3.0
+Australia,Western Australia,2017,Barley,1.9285427864343003,1.0
+Australia,Western Australia,2017,Canola,1.1523384264983902,4.0
+Australia,Western Australia,2017,Oats,1.8526005448943101,2.0
+Australia,Western Australia,2017,Wheat,1.7079468905282071,3.0
+Australia,Western Australia,2018,Barley,2.111501147972014,1.0
+Australia,Western Australia,2018,Canola,1.2238437896850387,4.0
+Australia,Western Australia,2018,Oats,2.036306013026718,2.0
+Australia,Western Australia,2018,Wheat,1.8713965336645066,3.0
+Australia,Western Australia,2019,Barley,1.9791691095865986,1.0
+Australia,Western Australia,2019,Canola,1.07759789892504,4.0
+Australia,Western Australia,2019,Oats,1.706583560969123,3.0
+Australia,Western Australia,2019,Wheat,1.715850119140782,2.0
+Australia,Western Australia,2020,Barley,1.5978608078929901,1.0
+Australia,Western Australia,2020,Canola,0.9513138614847144,4.0
+Australia,Western Australia,2020,Oats,1.4965474506176415,2.0
+Australia,Western Australia,2020,Wheat,1.4303191676316693,3.0
+Australia,Western Australia,2021,Barley,2.1407962355704,1.0
+Australia,Western Australia,2021,Canola,1.241094679885791,4.0
+Australia,Western Australia,2021,Oats,2.077726265166373,2.0
+Australia,Western Australia,2021,Wheat,1.9003450362288878,3.0
+United States,Colorado,1989,Barley,4.224247904761906,1.0
+United States,Colorado,1989,Oats,1.956715928571431,2.0
+United States,Colorado,1989,Wheat,1.8851481800000027,3.0
+United States,Colorado,1990,Barley,4.239286285714284,1.0
+United States,Colorado,1990,Oats,1.8611567523809542,3.0
+United States,Colorado,1990,Wheat,2.2360131457142867,2.0
+United States,Colorado,1991,Barley,4.333410666666657,1.0
+United States,Colorado,1991,Oats,2.1598123547619035,2.0
+United States,Colorado,1991,Wheat,2.140522035714283,3.0
+United States,Colorado,1992,Barley,4.428662285714287,1.0
+United States,Colorado,1992,Oats,2.1511783095238095,2.0
+United States,Colorado,1992,Wheat,2.074295369047617,3.0
+United States,Colorado,1993,Barley,4.613119428571435,1.0
+United States,Colorado,1993,Oats,2.22747741190476,3.0
+United States,Colorado,1993,Wheat,2.5177439738095186,2.0
+United States,Colorado,1994,Barley,4.958822857142863,1.0
+United States,Colorado,1994,Oats,2.1337343904761905,2.0
+United States,Colorado,1994,Wheat,2.0646572961904788,3.0
+United States,Colorado,1995,Barley,5.353381809523812,1.0
+United States,Colorado,1995,Oats,2.237488491428569,3.0
+United States,Colorado,1995,Wheat,2.583399733333325,2.0
+United States,Colorado,1996,Barley,5.5088894285714245,1.0
+United States,Colorado,1996,Oats,1.9297881752380934,3.0
+United States,Colorado,1996,Wheat,2.222559561904761,2.0
+United States,Colorado,1997,Barley,5.80458447619049,1.0
+United States,Colorado,1997,Oats,2.4047468480952365,2.0
+United States,Colorado,1997,Wheat,2.218064866666666,3.0
+United States,Colorado,1998,Barley,6.0920301904761835,1.0
+United States,Colorado,1998,Oats,2.4650675619047617,3.0
+United States,Colorado,1998,Wheat,2.600382166666667,2.0
+United States,Colorado,1999,Barley,5.6946787619047745,1.0
+United States,Colorado,1999,Oats,2.3223553952380924,3.0
+United States,Colorado,1999,Wheat,2.7982346904761854,2.0
+United States,Colorado,2000,Barley,6.16445523809523,1.0
+United States,Colorado,2000,Oats,2.260726504761903,2.0
+United States,Colorado,2000,Wheat,2.013742204761908,3.0
+United States,Colorado,2001,Barley,5.804251428571423,1.0
+United States,Colorado,2001,Oats,2.1638291333333335,3.0
+United States,Colorado,2001,Wheat,2.2631274761904745,2.0
+United States,Colorado,2002,Barley,5.67725780952381,1.0
+United States,Colorado,2002,Oats,1.8616738380952396,2.0
+United States,Colorado,2002,Wheat,1.6021774404761926,3.0
+United States,Colorado,2003,Barley,5.830533369047614,1.0
+United States,Colorado,2003,Oats,2.3182626547619014,3.0
+United States,Colorado,2003,Wheat,2.376770261904765,2.0
+United States,Colorado,2004,Barley,6.345428190476196,1.0
+United States,Colorado,2004,Oats,2.0094201190476206,2.0
+United States,Colorado,2004,Wheat,1.886795488095239,3.0
+United States,Colorado,2005,Barley,6.8018059047619035,1.0
+United States,Colorado,2005,Oats,2.6055406333333355,2.0
+United States,Colorado,2005,Wheat,1.7116054257142848,3.0
+United States,Colorado,2006,Barley,6.257426761904769,1.0
+United States,Colorado,2006,Oats,2.4586478238095246,2.0
+United States,Colorado,2006,Wheat,1.6375017380952386,3.0
+United States,Colorado,2007,Barley,6.478852190476188,1.0
+United States,Colorado,2007,Oats,2.0156690300000015,3.0
+United States,Colorado,2007,Wheat,2.608883952380955,2.0
+United States,Colorado,2008,Barley,6.517921238095232,1.0
+United States,Colorado,2008,Oats,2.502101185714284,2.0
+United States,Colorado,2008,Wheat,2.1458244047619024,3.0
+United States,Colorado,2009,Barley,7.157193333333307,1.0
+United States,Colorado,2009,Oats,2.3463683714285697,3.0
+United States,Colorado,2009,Wheat,2.716409928571426,2.0
+United States,Colorado,2010,Barley,7.074546285714264,1.0
+United States,Colorado,2010,Oats,2.347856485714286,3.0
+United States,Colorado,2010,Wheat,2.8045536071428563,2.0
+United States,Colorado,2011,Barley,6.779158666666665,1.0
+United States,Colorado,2011,Oats,2.489986204761903,3.0
+United States,Colorado,2011,Wheat,2.557269976190476,2.0
+United States,Colorado,2012,Barley,6.4678103809523915,1.0
+United States,Colorado,2012,Oats,2.520792235714285,2.0
+United States,Colorado,2012,Wheat,2.162863476190475,3.0
+United States,Colorado,2013,Barley,7.130447047619039,1.0
+United States,Colorado,2013,Oats,2.321029754761906,2.0
+United States,Colorado,2013,Wheat,1.810298511904763,3.0
+United States,Colorado,2014,Barley,6.673480095238097,1.0
+United States,Colorado,2014,Oats,2.175630696190477,3.0
+United States,Colorado,2014,Wheat,2.5321292499999997,2.0
+United States,Colorado,2015,Barley,6.997484190476174,1.0
+United States,Colorado,2015,Oats,2.7575213452380933,2.0
+United States,Colorado,2015,Wheat,2.510132392857142,3.0
+United States,Colorado,2016,Barley,6.599364190476187,1.0
+United States,Colorado,2016,Oats,2.295798017142855,3.0
+United States,Colorado,2016,Wheat,2.4191121547619048,2.0
+United States,Colorado,2017,Barley,6.753513999999999,1.0
+United States,Colorado,2017,Oats,2.2919031219047614,3.0
+United States,Colorado,2017,Wheat,2.3892942880952366,2.0
+United States,Colorado,2018,Barley,6.3214871904761845,1.0
+United States,Colorado,2018,Oats,2.366896179523808,2.0
+United States,Colorado,2018,Wheat,2.20281933904762,3.0
+United States,Colorado,2019,Barley,6.749414952380937,1.0
+United States,Colorado,2019,Oats,2.3874487523809496,2.0
+United States,Colorado,2019,Wheat,2.38665347857143,3.0
+United States,Colorado,2020,Barley,6.446444095238099,1.0
+United States,Colorado,2020,Oats,2.3690898176190482,2.0
+United States,Colorado,2020,Wheat,2.229137753333335,3.0
+United States,Colorado,2021,Barley,6.507446250000005,1.0
+United States,Colorado,2021,Oats,2.359695849999999,2.0
+United States,Colorado,2021,Wheat,2.3467457538095235,3.0
+United States,Illinois,1989,Oats,2.747829890476191,2.0
+United States,Illinois,1989,Wheat,3.8830470238095307,1.0
+United States,Illinois,1990,Oats,2.4517315809523814,2.0
+United States,Illinois,1990,Wheat,3.1871023928571405,1.0
+United States,Illinois,1991,Oats,2.0172946380952417,2.0
+United States,Illinois,1991,Wheat,2.491580476190477,1.0
+United States,Illinois,1992,Oats,2.1992067809523816,2.0
+United States,Illinois,1992,Wheat,3.6030692619047686,1.0
+United States,Illinois,1993,Oats,1.8393794380952369,2.0
+United States,Illinois,1993,Wheat,2.9732121666666664,1.0
+United States,Illinois,1994,Oats,2.2001803952380956,2.0
+United States,Illinois,1994,Wheat,3.7324870833333397,1.0
+United States,Illinois,1995,Oats,2.3791716952381003,2.0
+United States,Illinois,1995,Wheat,3.31007061904762,1.0
+United States,Illinois,1996,Oats,2.3722539095238084,2.0
+United States,Illinois,1996,Wheat,2.615032261904759,1.0
+United States,Illinois,1997,Oats,2.6475988619047603,2.0
+United States,Illinois,1997,Wheat,4.093251309523807,1.0
+United States,Illinois,1998,Oats,2.0457002619047624,2.0
+United States,Illinois,1998,Wheat,3.225870416666663,1.0
+United States,Illinois,1999,Oats,2.547111619047621,2.0
+United States,Illinois,1999,Wheat,3.9809758333333445,1.0
+United States,Illinois,2000,Oats,2.6234976380952406,2.0
+United States,Illinois,2000,Wheat,3.817122809523807,1.0
+United States,Illinois,2001,Oats,2.8559181571428605,2.0
+United States,Illinois,2001,Wheat,4.110063809523806,1.0
+United States,Illinois,2002,Oats,2.6202180952380996,2.0
+United States,Illinois,2002,Wheat,3.3610589285714285,1.0
+United States,Illinois,2003,Oats,3.089995528571433,2.0
+United States,Illinois,2003,Wheat,4.3478918333333265,1.0
+United States,Illinois,2004,Oats,2.515665585714286,2.0
+United States,Illinois,2004,Wheat,3.939229595238093,1.0
+United States,Illinois,2005,Oats,2.795707800000005,2.0
+United States,Illinois,2005,Wheat,4.106733333333328,1.0
+United States,Illinois,2006,Oats,2.7547135142857146,2.0
+United States,Illinois,2006,Wheat,4.46517583333334,1.0
+United States,Illinois,2007,Oats,2.266369085714285,2.0
+United States,Illinois,2007,Wheat,3.7279557142857196,1.0
+United States,Illinois,2008,Oats,2.509089419047619,2.0
+United States,Illinois,2008,Wheat,4.234223321428565,1.0
+United States,Illinois,2009,Oats,2.33336058095238,2.0
+United States,Illinois,2009,Wheat,3.7978348690476254,1.0
+United States,Illinois,2010,Oats,2.331601242857142,2.0
+United States,Illinois,2010,Wheat,3.8371472976190524,1.0
+United States,Illinois,2011,Oats,2.4437376952380943,2.0
+United States,Illinois,2011,Wheat,4.116052261904759,1.0
+United States,Illinois,2012,Oats,2.653508871428577,2.0
+United States,Illinois,2012,Wheat,4.258910476190469,1.0
+United States,Illinois,2013,Oats,2.4734073095238074,2.0
+United States,Illinois,2013,Wheat,4.473867095238103,1.0
+United States,Illinois,2014,Oats,2.800097604761899,2.0
+United States,Illinois,2014,Wheat,4.42719559523809,1.0
+United States,Illinois,2015,Oats,2.7449261285714264,2.0
+United States,Illinois,2015,Wheat,4.358485309523796,1.0
+United States,Illinois,2016,Oats,2.470811004761902,2.0
+United States,Illinois,2016,Wheat,4.053026202380952,1.0
+United States,Illinois,2017,Oats,2.510216761904762,2.0
+United States,Illinois,2017,Wheat,4.133838285714282,1.0
+United States,Illinois,2018,Oats,2.5344204714285716,2.0
+United States,Illinois,2018,Wheat,3.9872172738095224,1.0
+United States,Illinois,2019,Oats,2.46375657142857,2.0
+United States,Illinois,2019,Wheat,4.017175547619044,1.0
+United States,Illinois,2020,Oats,2.5862440809523792,2.0
+United States,Illinois,2020,Wheat,4.0569267023809505,1.0
+United States,Illinois,2021,Oats,2.4816574095238084,2.0
+United States,Illinois,2021,Wheat,4.053106261904761,1.0
+United States,Iowa,1989,Oats,2.586022028571435,2.0
+United States,Iowa,1989,Wheat,3.117533869047615,1.0
+United States,Iowa,1990,Oats,2.4111301571428614,2.0
+United States,Iowa,1990,Wheat,3.016674880952375,1.0
+United States,Iowa,1991,Oats,1.8154661047619052,2.0
+United States,Iowa,1991,Wheat,2.286362297619049,1.0
+United States,Iowa,1992,Oats,2.3891298904761906,2.0
+United States,Iowa,1992,Wheat,2.650581892857142,1.0
+United States,Iowa,1993,Oats,1.535380295238094,2.0
+United States,Iowa,1993,Wheat,1.9094717542072863,1.0
+United States,Iowa,1994,Oats,2.2190548476190464,2.0
+United States,Iowa,1994,Wheat,3.118920499999995,1.0
+United States,Iowa,1995,Oats,2.3152376904761884,2.0
+United States,Iowa,1995,Wheat,2.4333035476190465,1.0
+United States,Iowa,1996,Oats,2.4206271666666694,1.0
+United States,Iowa,1996,Wheat,2.405542107142854,2.0
+United States,Iowa,1997,Oats,2.5976370761904777,2.0
+United States,Iowa,1997,Wheat,2.8394230952380877,1.0
+United States,Iowa,1998,Oats,2.120600238095241,2.0
+United States,Iowa,1998,Wheat,2.9502286785714285,1.0
+United States,Iowa,1999,Oats,2.3338730095238116,2.0
+United States,Iowa,1999,Wheat,2.915415595238091,1.0
+United States,Iowa,2000,Oats,2.3996859190476196,2.0
+United States,Iowa,2000,Wheat,3.1800059166666634,1.0
+United States,Iowa,2001,Oats,2.5102338428571445,2.0
+United States,Iowa,2001,Wheat,3.580194654761903,1.0
+United States,Iowa,2002,Oats,2.693017114285719,2.0
+United States,Iowa,2002,Wheat,3.573005309523814,1.0
+United States,Iowa,2003,Oats,2.9788156095238127,2.0
+United States,Iowa,2003,Wheat,4.0972574880952415,1.0
+United States,Iowa,2004,Oats,2.5716569476190516,2.0
+United States,Iowa,2004,Wheat,3.633286928571428,1.0
+United States,Iowa,2005,Oats,2.8270171857142885,2.0
+United States,Iowa,2005,Wheat,3.4116405357142847,1.0
+United States,Iowa,2006,Oats,2.7228746190476256,2.0
+United States,Iowa,2006,Wheat,4.159617452380959,1.0
+United States,Iowa,2007,Oats,2.5325586476190467,2.0
+United States,Iowa,2007,Wheat,3.24336182142857,1.0
+United States,Iowa,2008,Oats,2.3285608333333334,2.0
+United States,Iowa,2008,Wheat,3.227080916666665,1.0
+United States,Iowa,2009,Oats,2.3453684904761887,2.0
+United States,Iowa,2009,Wheat,3.0131618690476216,1.0
+United States,Iowa,2010,Oats,2.2326171238095234,2.0
+United States,Iowa,2010,Wheat,3.089292071428577,1.0
+United States,Iowa,2011,Oats,2.3013850380952396,2.0
+United States,Iowa,2011,Wheat,3.0339389166666675,1.0
+United States,Iowa,2012,Oats,2.3452318428571446,2.0
+United States,Iowa,2012,Wheat,3.4240209404761885,1.0
+United States,Iowa,2013,Oats,2.3761312857142824,2.0
+United States,Iowa,2013,Wheat,3.495760678571429,1.0
+United States,Iowa,2014,Oats,2.319200471428574,2.0
+United States,Iowa,2014,Wheat,3.2874970357142885,1.0
+United States,Iowa,2015,Oats,2.6304666666666683,2.0
+United States,Iowa,2015,Wheat,3.5109655833333324,1.0
+United States,Iowa,2016,Oats,2.567301304761905,2.0
+United States,Iowa,2016,Wheat,3.3514293690476196,1.0
+United States,Iowa,2017,Oats,2.636564566666668,2.0
+United States,Iowa,2017,Wheat,3.4199379047619036,1.0
+United States,Iowa,2018,Oats,2.4002495904761894,2.0
+United States,Iowa,2018,Wheat,3.071076928571428,1.0
+United States,Iowa,2019,Oats,2.3923752714285706,2.0
+United States,Iowa,2019,Wheat,2.9396191904761912,1.0
+United States,Iowa,2020,Oats,2.522856238095238,2.0
+United States,Iowa,2020,Wheat,3.352249178571427,1.0
+United States,Iowa,2021,Oats,2.5713836523809555,2.0
+United States,Iowa,2021,Wheat,3.4500979285714317,1.0
+United States,Kansas,1989,Barley,1.6896274285714306,2.0
+United States,Kansas,1989,Canola,1.3871344775461736,4.0
+United States,Kansas,1989,Oats,1.6138596238095222,3.0
+United States,Kansas,1989,Wheat,1.720879464285714,1.0
+United States,Kansas,1990,Barley,2.388899333333332,2.0
+United States,Kansas,1990,Canola,1.5030659281082357,4.0
+United States,Kansas,1990,Oats,2.0126998619047605,3.0
+United States,Kansas,1990,Wheat,2.666366428571427,1.0
+United States,Kansas,1991,Barley,1.7767257857142866,3.0
+United States,Kansas,1991,Canola,1.5318557415690206,4.0
+United States,Kansas,1991,Oats,1.8692027809523823,2.0
+United States,Kansas,1991,Wheat,2.223579619047618,1.0
+United States,Kansas,1992,Barley,2.1643102199942312,2.0
+United States,Kansas,1992,Canola,1.4535937340282936,4.0
+United States,Kansas,1992,Oats,1.9673840952380979,3.0
+United States,Kansas,1992,Wheat,2.295107999999999,1.0
+United States,Kansas,1993,Barley,2.452863690476193,1.0
+United States,Kansas,1993,Canola,1.3883124126401352,3.0
+United States,Kansas,1993,Oats,1.3791673380952363,4.0
+United States,Kansas,1993,Wheat,2.3502529999999977,2.0
+United States,Kansas,1994,Barley,2.0524378724258536,2.0
+United States,Kansas,1994,Canola,1.4452578162948073,4.0
+United States,Kansas,1994,Oats,1.661583804761905,3.0
+United States,Kansas,1994,Wheat,2.555490392857146,1.0
+United States,Kansas,1995,Barley,1.8774480091196535,1.0
+United States,Kansas,1995,Canola,1.430621798402145,4.0
+United States,Kansas,1995,Oats,1.6931152428571412,3.0
+United States,Kansas,1995,Wheat,1.7898843690476183,2.0
+United States,Kansas,1996,Barley,1.7908931190476183,3.0
+United States,Kansas,1996,Canola,1.442974127986918,4.0
+United States,Kansas,1996,Oats,1.8464680333333343,2.0
+United States,Kansas,1996,Wheat,1.9475119642857157,1.0
+United States,Kansas,1997,Barley,2.2746981022045754,2.0
+United States,Kansas,1997,Canola,1.4871459113356427,4.0
+United States,Kansas,1997,Oats,2.099129480952384,3.0
+United States,Kansas,1997,Wheat,2.999228309523811,1.0
+United States,Kansas,1998,Barley,1.910674976190476,2.0
+United States,Kansas,1998,Canola,1.4678121518397544,4.0
+United States,Kansas,1998,Oats,1.6174637047619023,3.0
+United States,Kansas,1998,Wheat,3.126474916666669,1.0
+United States,Kansas,1999,Barley,2.4506860714285743,2.0
+United States,Kansas,1999,Canola,1.4477239649134035,4.0
+United States,Kansas,1999,Oats,1.6978295857142836,3.0
+United States,Kansas,1999,Wheat,3.125933714285715,1.0
+United States,Kansas,2000,Barley,1.9025024999999962,2.0
+United States,Kansas,2000,Canola,1.4668877744000646,4.0
+United States,Kansas,2000,Oats,1.5914835761904729,3.0
+United States,Kansas,2000,Wheat,2.4780151904761896,1.0
+United States,Kansas,2001,Barley,2.630461333333334,2.0
+United States,Kansas,2001,Canola,1.5605874835608766,4.0
+United States,Kansas,2001,Oats,1.8935089761904802,3.0
+United States,Kansas,2001,Wheat,2.698242928571431,1.0
+United States,Kansas,2002,Barley,1.9951075748734752,2.0
+United States,Kansas,2002,Canola,1.4806015787134155,4.0
+United States,Kansas,2002,Oats,1.8592104238095226,3.0
+United States,Kansas,2002,Wheat,2.2422879285714252,1.0
+United States,Kansas,2003,Barley,3.008803428571417,2.0
+United States,Kansas,2003,Canola,1.535225446576816,4.0
+United States,Kansas,2003,Oats,2.2201309476190443,3.0
+United States,Kansas,2003,Wheat,3.161121476190475,1.0
+United States,Kansas,2004,Barley,1.6104645714285692,2.0
+United States,Kansas,2004,Canola,1.4216797681837954,4.0
+United States,Kansas,2004,Oats,1.5711059999999997,3.0
+United States,Kansas,2004,Wheat,2.473605511904766,1.0
+United States,Kansas,2005,Barley,2.2521971666429605,2.0
+United States,Kansas,2005,Canola,1.6295076150521546,4.0
+United States,Kansas,2005,Oats,2.119712028571431,3.0
+United States,Kansas,2005,Wheat,2.6915979880952423,1.0
+United States,Kansas,2006,Barley,1.517108761904761,3.0
+United States,Kansas,2006,Canola,1.4865258953774982,4.0
+United States,Kansas,2006,Oats,1.6682966190476167,2.0
+United States,Kansas,2006,Wheat,2.1534058452380958,1.0
+United States,Kansas,2007,Barley,2.7134350238095237,1.0
+United States,Kansas,2007,Canola,1.5193425366895457,4.0
+United States,Kansas,2007,Oats,1.6371751238095222,3.0
+United States,Kansas,2007,Wheat,2.2356045595238068,2.0
+United States,Kansas,2008,Barley,2.0256095832379786,2.0
+United States,Kansas,2008,Canola,1.476626993129888,4.0
+United States,Kansas,2008,Oats,1.925399114285718,3.0
+United States,Kansas,2008,Wheat,2.697198952380954,1.0
+United States,Kansas,2009,Barley,2.6963736872964352,2.0
+United States,Kansas,2009,Canola,1.5075189841968637,4.0
+United States,Kansas,2009,Oats,1.907054171428576,3.0
+United States,Kansas,2009,Wheat,2.810185357142855,1.0
+United States,Kansas,2010,Barley,2.2972023571428606,2.0
+United States,Kansas,2010,Canola,1.5534336197847833,4.0
+United States,Kansas,2010,Oats,1.8002640571428583,3.0
+United States,Kansas,2010,Wheat,2.968405392857144,1.0
+United States,Kansas,2011,Barley,1.7516091775312448,2.0
+United States,Kansas,2011,Canola,1.32424231571322,4.0
+United States,Kansas,2011,Oats,1.333441628571432,3.0
+United States,Kansas,2011,Wheat,2.378369904761908,1.0
+United States,Kansas,2012,Barley,2.9400803333333223,1.0
+United States,Kansas,2012,Canola,1.3254250556145701,3.0
+United States,Kansas,2012,Oats,1.268705811284763,4.0
+United States,Kansas,2012,Wheat,2.8079468928571445,2.0
+United States,Kansas,2013,Barley,2.4801415714285695,2.0
+United States,Kansas,2013,Canola,1.514754183886494,3.0
+United States,Kansas,2013,Oats,1.4756747190476212,4.0
+United States,Kansas,2013,Wheat,2.547218642857149,1.0
+United States,Kansas,2014,Barley,1.8941699047619054,3.0
+United States,Kansas,2014,Canola,1.606199629619059,4.0
+United States,Kansas,2014,Oats,2.0062603428571477,2.0
+United States,Kansas,2014,Wheat,2.0606520833333355,1.0
+United States,Kansas,2015,Barley,2.116344690476187,3.0
+United States,Kansas,2015,Canola,1.671057591429788,4.0
+United States,Kansas,2015,Oats,2.228688504761903,2.0
+United States,Kansas,2015,Wheat,2.480461809523811,1.0
+United States,Kansas,2016,Barley,2.039113136660894,2.0
+United States,Kansas,2016,Canola,1.566570338685443,4.0
+United States,Kansas,2016,Oats,1.7722000523809531,3.0
+United States,Kansas,2016,Wheat,2.6227948333333364,1.0
+United States,Kansas,2017,Barley,2.331038714285716,2.0
+United States,Kansas,2017,Canola,1.598066893176584,4.0
+United States,Kansas,2017,Oats,1.996575442857143,3.0
+United States,Kansas,2017,Wheat,2.5236587261904777,1.0
+United States,Kansas,2018,Barley,2.139862976190475,2.0
+United States,Kansas,2018,Canola,1.5553158086552714,4.0
+United States,Kansas,2018,Oats,1.8267863542857157,3.0
+United States,Kansas,2018,Wheat,2.5410892857142877,1.0
+United States,Kansas,2019,Barley,2.373579142857142,2.0
+United States,Kansas,2019,Canola,1.533144039465531,4.0
+United States,Kansas,2019,Oats,1.7920822809523822,3.0
+United States,Kansas,2019,Wheat,2.78479367857143,1.0
+United States,Kansas,2020,Barley,2.259232675391671,2.0
+United States,Kansas,2020,Canola,1.5050224254470788,4.0
+United States,Kansas,2020,Oats,1.9710394190476213,3.0
+United States,Kansas,2020,Wheat,2.6872011190476197,1.0
+United States,Kansas,2021,Barley,2.0871101547619038,2.0
+United States,Kansas,2021,Canola,1.5529280587366763,4.0
+United States,Kansas,2021,Oats,1.842812709523808,3.0
+United States,Kansas,2021,Wheat,2.6351944523809547,1.0
+United States,Minnesota,1989,Barley,2.9519419523809445,1.0
+United States,Minnesota,1989,Canola,1.4261672472539397,4.0
+United States,Minnesota,1989,Oats,1.9690067857142874,3.0
+United States,Minnesota,1989,Wheat,2.5952959880952395,2.0
+United States,Minnesota,1990,Barley,3.335023571428573,1.0
+United States,Minnesota,1990,Canola,1.6140407679314028,4.0
+United States,Minnesota,1990,Oats,2.32977741904762,3.0
+United States,Minnesota,1990,Wheat,3.1985640285714227,2.0
+United States,Minnesota,1991,Barley,2.697480761904767,1.0
+United States,Minnesota,1991,Canola,1.5500722572171188,3.0
+United States,Minnesota,1991,Oats,1.5359363190476187,4.0
+United States,Minnesota,1991,Wheat,2.1172189404761887,2.0
+United States,Minnesota,1992,Barley,3.8089791547619125,1.0
+United States,Minnesota,1992,Canola,1.5281567408500776,4.0
+United States,Minnesota,1992,Oats,2.486166780952378,3.0
+United States,Minnesota,1992,Wheat,3.306816999999993,2.0
+United States,Minnesota,1993,Barley,3.0669330476190497,1.0
+United States,Minnesota,1993,Canola,1.5618884628571432,4.0
+United States,Minnesota,1993,Oats,1.7929491499701269,3.0
+United States,Minnesota,1993,Wheat,2.037403035714288,2.0
+United States,Minnesota,1994,Barley,2.7303115714285777,1.0
+United States,Minnesota,1994,Canola,1.6053431825749966,4.0
+United States,Minnesota,1994,Oats,1.9725166714285736,2.0
+United States,Minnesota,1994,Wheat,1.9454530952380944,3.0
+United States,Minnesota,1995,Barley,2.70446195238096,1.0
+United States,Minnesota,1995,Canola,1.491782719836166,4.0
+United States,Minnesota,1995,Oats,1.7017582047619038,3.0
+United States,Minnesota,1995,Wheat,2.175399797619045,2.0
+United States,Minnesota,1996,Barley,3.4384732857142875,1.0
+United States,Minnesota,1996,Canola,1.6447641054076554,4.0
+United States,Minnesota,1996,Oats,2.025066471428573,3.0
+United States,Minnesota,1996,Wheat,2.837540095238096,2.0
+United States,Minnesota,1997,Barley,2.7680356190476227,1.0
+United States,Minnesota,1997,Canola,1.5617891811219398,4.0
+United States,Minnesota,1997,Oats,2.0856178761904767,3.0
+United States,Minnesota,1997,Wheat,2.252283111904762,2.0
+United States,Minnesota,1998,Barley,2.9689786190476135,1.0
+United States,Minnesota,1998,Canola,1.627303403809523,4.0
+United States,Minnesota,1998,Oats,2.2588193047619076,3.0
+United States,Minnesota,1998,Wheat,2.7616020357142874,2.0
+United States,Minnesota,1999,Barley,2.5184164285714306,2.0
+United States,Minnesota,1999,Canola,1.4532193866666703,4.0
+United States,Minnesota,1999,Oats,2.121334719047622,3.0
+United States,Minnesota,1999,Wheat,2.6299681666666643,1.0
+United States,Minnesota,2000,Barley,3.407961000000003,1.0
+United States,Minnesota,2000,Canola,1.6571607128571424,4.0
+United States,Minnesota,2000,Oats,2.578728461904764,3.0
+United States,Minnesota,2000,Wheat,3.2643534285714253,2.0
+United States,Minnesota,2001,Barley,2.9669354999999924,2.0
+United States,Minnesota,2001,Canola,1.3313563047619081,4.0
+United States,Minnesota,2001,Oats,2.1566410476190474,3.0
+United States,Minnesota,2001,Wheat,2.9871040952380956,1.0
+United States,Minnesota,2002,Barley,2.3425416666666687,2.0
+United States,Minnesota,2002,Canola,1.1536833316226196,4.0
+United States,Minnesota,2002,Oats,2.0237512380952403,3.0
+United States,Minnesota,2002,Wheat,2.4242632261904804,1.0
+United States,Minnesota,2003,Barley,3.9085892142857093,1.0
+United States,Minnesota,2003,Canola,1.9658107785714267,4.0
+United States,Minnesota,2003,Oats,2.530064828571429,3.0
+United States,Minnesota,2003,Wheat,3.885717809523807,2.0
+United States,Minnesota,2004,Barley,3.6481908095238116,2.0
+United States,Minnesota,2004,Canola,1.7028647059523794,4.0
+United States,Minnesota,2004,Oats,2.4971839952380925,3.0
+United States,Minnesota,2004,Wheat,3.6733487142857135,1.0
+United States,Minnesota,2005,Barley,2.447144238095242,2.0
+United States,Minnesota,2005,Canola,1.0490128263925287,4.0
+United States,Minnesota,2005,Oats,2.2295425523809564,3.0
+United States,Minnesota,2005,Wheat,2.7745204404761945,1.0
+United States,Minnesota,2006,Barley,3.1812777952380866,1.0
+United States,Minnesota,2006,Canola,1.4568600402300116,4.0
+United States,Minnesota,2006,Oats,2.0290454761904755,3.0
+United States,Minnesota,2006,Wheat,3.162111011904758,2.0
+United States,Minnesota,2007,Barley,2.9163378809523812,2.0
+United States,Minnesota,2007,Canola,1.4277897422082184,4.0
+United States,Minnesota,2007,Oats,2.16636010952381,3.0
+United States,Minnesota,2007,Wheat,3.181206809523812,1.0
+United States,Minnesota,2008,Barley,3.5361523095238114,2.0
+United States,Minnesota,2008,Canola,1.8008594760081633,4.0
+United States,Minnesota,2008,Oats,2.4132994380952337,3.0
+United States,Minnesota,2008,Wheat,3.7257812976190463,1.0
+United States,Minnesota,2009,Barley,3.310237142857144,2.0
+United States,Minnesota,2009,Canola,1.9101519164542966,4.0
+United States,Minnesota,2009,Oats,2.5462571000000005,3.0
+United States,Minnesota,2009,Wheat,3.517988742857139,1.0
+United States,Minnesota,2010,Barley,3.306682500000003,2.0
+United States,Minnesota,2010,Canola,1.6722551926813551,4.0
+United States,Minnesota,2010,Oats,2.453046814285713,3.0
+United States,Minnesota,2010,Wheat,3.55050858333333,1.0
+United States,Minnesota,2011,Barley,2.8223223809523863,2.0
+United States,Minnesota,2011,Canola,1.596823359178255,4.0
+United States,Minnesota,2011,Oats,1.995858042857144,3.0
+United States,Minnesota,2011,Wheat,3.166286916666667,1.0
+United States,Minnesota,2012,Barley,3.113316333333333,2.0
+United States,Minnesota,2012,Canola,1.663416123333335,4.0
+United States,Minnesota,2012,Oats,2.222078176190479,3.0
+United States,Minnesota,2012,Wheat,3.7962721071428542,1.0
+United States,Minnesota,2013,Barley,3.6936646190476137,2.0
+United States,Minnesota,2013,Canola,2.108473634047618,3.0
+United States,Minnesota,2013,Oats,2.067751771428573,4.0
+United States,Minnesota,2013,Wheat,3.779568488095235,1.0
+United States,Minnesota,2014,Barley,2.8812205714285706,2.0
+United States,Minnesota,2014,Canola,1.8446095319047622,4.0
+United States,Minnesota,2014,Oats,2.271548395238098,3.0
+United States,Minnesota,2014,Wheat,3.6088306452380943,1.0
+United States,Minnesota,2015,Barley,3.985023642857141,1.0
+United States,Minnesota,2015,Canola,2.051442963407597,4.0
+United States,Minnesota,2015,Oats,2.736393722857139,3.0
+United States,Minnesota,2015,Wheat,3.9392520119047596,2.0
+United States,Minnesota,2016,Barley,3.0084511666666693,2.0
+United States,Minnesota,2016,Canola,1.7914501737199509,4.0
+United States,Minnesota,2016,Oats,2.3427143142857147,3.0
+United States,Minnesota,2016,Wheat,3.449486464285712,1.0
+United States,Minnesota,2017,Barley,3.2354775595238148,2.0
+United States,Minnesota,2017,Canola,1.8121010561009046,4.0
+United States,Minnesota,2017,Oats,2.4290518571428565,3.0
+United States,Minnesota,2017,Wheat,3.5808290261904747,1.0
+United States,Minnesota,2018,Barley,3.221720130952384,2.0
+United States,Minnesota,2018,Canola,1.8354879478571453,4.0
+United States,Minnesota,2018,Oats,2.346574609523811,3.0
+United States,Minnesota,2018,Wheat,3.3387737499999943,1.0
+United States,Minnesota,2019,Barley,2.9940692738095245,2.0
+United States,Minnesota,2019,Canola,1.7809109916226176,4.0
+United States,Minnesota,2019,Oats,2.287262871428571,3.0
+United States,Minnesota,2019,Wheat,3.168429609523807,1.0
+United States,Minnesota,2020,Barley,3.3373741190476203,2.0
+United States,Minnesota,2020,Canola,1.8613101969047605,4.0
+United States,Minnesota,2020,Oats,2.3665488714285705,3.0
+United States,Minnesota,2020,Wheat,3.5093003452380955,1.0
+United States,Minnesota,2021,Barley,2.9630574166666657,2.0
+United States,Minnesota,2021,Canola,1.4490365848812707,4.0
+United States,Minnesota,2021,Oats,2.4528247619047616,3.0
+United States,Minnesota,2021,Wheat,3.3852048809523803,1.0
+United States,Montana,1989,Barley,2.352625964285716,1.0
+United States,Montana,1989,Canola,1.5024184092857147,4.0
+United States,Montana,1989,Oats,1.679843354285714,3.0
+United States,Montana,1989,Wheat,1.9094331095238093,2.0
+United States,Montana,1990,Barley,2.2316848452380897,1.0
+United States,Montana,1990,Canola,1.4378637416666664,4.0
+United States,Montana,1990,Oats,1.4557754095238054,3.0
+United States,Montana,1990,Wheat,1.9111777500000022,2.0
+United States,Montana,1991,Barley,2.762895797619048,1.0
+United States,Montana,1991,Canola,1.421862273571428,4.0
+United States,Montana,1991,Oats,1.9636092047619094,3.0
+United States,Montana,1991,Wheat,2.4217941904761924,2.0
+United States,Montana,1992,Barley,2.460446928571428,1.0
+United States,Montana,1992,Canola,1.6157117152957128,4.0
+United States,Montana,1992,Oats,2.0064641009523845,3.0
+United States,Montana,1992,Wheat,2.018436161904763,2.0
+United States,Montana,1993,Barley,3.124447809523803,1.0
+United States,Montana,1993,Canola,1.7694027166666655,4.0
+United States,Montana,1993,Oats,2.3613008190476164,3.0
+United States,Montana,1993,Wheat,2.634343130952379,2.0
+United States,Montana,1994,Barley,2.3714879880952364,1.0
+United States,Montana,1994,Canola,1.3568849978571418,4.0
+United States,Montana,1994,Oats,1.7214183809523786,3.0
+United States,Montana,1994,Wheat,2.134191559523811,2.0
+United States,Montana,1995,Barley,2.8367459047618993,1.0
+United States,Montana,1995,Canola,1.6846114649999988,4.0
+United States,Montana,1995,Oats,2.129740600952381,3.0
+United States,Montana,1995,Wheat,2.4214211976190474,2.0
+United States,Montana,1996,Barley,2.3399189166666647,1.0
+United States,Montana,1996,Canola,1.3739272552380934,4.0
+United States,Montana,1996,Oats,1.4540160714285675,3.0
+United States,Montana,1996,Wheat,1.863548738095239,2.0
+United States,Montana,1997,Barley,2.8634921904761854,1.0
+United States,Montana,1997,Canola,1.5592298855723856,4.0
+United States,Montana,1997,Oats,1.9750705238095263,3.0
+United States,Montana,1997,Wheat,2.106686309523808,2.0
+United States,Montana,1998,Barley,2.5788901904761925,1.0
+United States,Montana,1998,Canola,1.3805610581914334,4.0
+United States,Montana,1998,Oats,1.934349533333334,3.0
+United States,Montana,1998,Wheat,2.1675443571428574,2.0
+United States,Montana,1999,Barley,2.6864325476190514,1.0
+United States,Montana,1999,Canola,1.3676218426190476,4.0
+United States,Montana,1999,Oats,1.667815176190475,3.0
+United States,Montana,1999,Wheat,1.946677357142858,2.0
+United States,Montana,2000,Barley,2.166814214285719,1.0
+United States,Montana,2000,Canola,1.0955022153081213,4.0
+United States,Montana,2000,Oats,1.7594405809523808,3.0
+United States,Montana,2000,Wheat,1.8583448690476196,2.0
+United States,Montana,2001,Barley,2.219980142857141,1.0
+United States,Montana,2001,Canola,1.0484559144626187,4.0
+United States,Montana,2001,Oats,1.5769647666666649,3.0
+United States,Montana,2001,Wheat,1.6181662976190467,2.0
+United States,Montana,2002,Barley,2.294858214285717,1.0
+United States,Montana,2002,Canola,1.0505319820009593,4.0
+United States,Montana,2002,Oats,1.658201823809525,2.0
+United States,Montana,2002,Wheat,1.6537040071428566,3.0
+United States,Montana,2003,Barley,2.162785619047624,1.0
+United States,Montana,2003,Canola,1.0877849249999973,4.0
+United States,Montana,2003,Oats,1.5889214333333308,3.0
+United States,Montana,2003,Wheat,1.8583288571428562,2.0
+United States,Montana,2004,Barley,3.1699472380952383,1.0
+United States,Montana,2004,Canola,1.7777770897619007,4.0
+United States,Montana,2004,Oats,2.1418980747619036,3.0
+United States,Montana,2004,Wheat,2.305740696428571,2.0
+United States,Montana,2005,Barley,2.95446542857143,1.0
+United States,Montana,2005,Canola,1.4401321285714292,4.0
+United States,Montana,2005,Oats,1.8731143190476196,3.0
+United States,Montana,2005,Wheat,2.4432309285714315,2.0
+United States,Montana,2006,Barley,2.65524135714286,1.0
+United States,Montana,2006,Canola,1.2528945687654756,4.0
+United States,Montana,2006,Oats,1.6699363904761917,3.0
+United States,Montana,2006,Wheat,1.9826516904761902,2.0
+United States,Montana,2007,Barley,2.4010427619047605,1.0
+United States,Montana,2007,Canola,1.3254224678353947,4.0
+United States,Montana,2007,Oats,1.801015619047623,3.0
+United States,Montana,2007,Wheat,2.0315424404761915,2.0
+United States,Montana,2008,Barley,2.670186869047622,1.0
+United States,Montana,2008,Canola,2.0693139033333297,2.0
+United States,Montana,2008,Oats,1.8355186183333294,4.0
+United States,Montana,2008,Wheat,2.0540869038095244,3.0
+United States,Montana,2009,Barley,2.995170892857142,1.0
+United States,Montana,2009,Canola,1.8557216085228905,4.0
+United States,Montana,2009,Oats,2.003502240000001,3.0
+United States,Montana,2009,Wheat,2.247080224761907,2.0
+United States,Montana,2010,Barley,3.245414547619046,1.0
+United States,Montana,2010,Canola,1.9498670785714265,4.0
+United States,Montana,2010,Oats,2.1853445642857103,3.0
+United States,Montana,2010,Wheat,2.748502424999999,2.0
+United States,Montana,2011,Barley,2.5813496190476206,1.0
+United States,Montana,2011,Canola,1.5571913587110557,4.0
+United States,Montana,2011,Oats,1.8125729042857128,3.0
+United States,Montana,2011,Wheat,2.367059095238097,2.0
+United States,Montana,2012,Barley,2.6905251904761935,1.0
+United States,Montana,2012,Canola,1.3272091597619027,4.0
+United States,Montana,2012,Oats,1.6203333047619033,3.0
+United States,Montana,2012,Wheat,2.3412767261904786,2.0
+United States,Montana,2013,Barley,2.792130333333334,1.0
+United States,Montana,2013,Canola,1.665092516722452,4.0
+United States,Montana,2013,Oats,1.9289690333333331,3.0
+United States,Montana,2013,Wheat,2.569648119047618,2.0
+United States,Montana,2014,Barley,3.061741988095237,1.0
+United States,Montana,2014,Canola,1.5569327424603154,4.0
+United States,Montana,2014,Oats,2.359631085714283,3.0
+United States,Montana,2014,Wheat,2.4962751666666647,2.0
+United States,Montana,2015,Barley,2.8033610833333316,1.0
+United States,Montana,2015,Canola,1.390993566571495,4.0
+United States,Montana,2015,Oats,1.9177810095238124,3.0
+United States,Montana,2015,Wheat,2.3713662976190517,2.0
+United States,Montana,2016,Barley,2.746044869047622,1.0
+United States,Montana,2016,Canola,1.78578625642857,4.0
+United States,Montana,2016,Oats,1.9493978523809514,3.0
+United States,Montana,2016,Wheat,2.3912018452380974,2.0
+United States,Montana,2017,Barley,2.4298225595238088,1.0
+United States,Montana,2017,Canola,1.2285673893291997,4.0
+United States,Montana,2017,Oats,1.6450152809523797,3.0
+United States,Montana,2017,Wheat,2.1452910119047632,2.0
+United States,Montana,2018,Barley,2.872756678571427,1.0
+United States,Montana,2018,Canola,1.6240663510920057,4.0
+United States,Montana,2018,Oats,2.001973023809525,3.0
+United States,Montana,2018,Wheat,2.425880428571428,2.0
+United States,Montana,2019,Barley,3.1117151428571406,1.0
+United States,Montana,2019,Canola,1.927804198809522,4.0
+United States,Montana,2019,Oats,2.249351904523807,3.0
+United States,Montana,2019,Wheat,2.4427505085714296,2.0
+United States,Montana,2020,Barley,2.7754299166666687,1.0
+United States,Montana,2020,Canola,1.7726669740476177,4.0
+United States,Montana,2020,Oats,1.868417057142857,3.0
+United States,Montana,2020,Wheat,2.3605710714285753,2.0
+United States,Montana,2021,Barley,2.586912154761904,1.0
+United States,Montana,2021,Canola,1.322287371937652,4.0
+United States,Montana,2021,Oats,1.7721146476190477,3.0
+United States,Montana,2021,Wheat,2.3232185000000025,2.0
+United States,Nebraska,1989,Barley,1.6046490476190503,2.0
+United States,Nebraska,1989,Oats,1.4201103809523807,3.0
+United States,Nebraska,1989,Wheat,1.7907073809523806,1.0
+United States,Nebraska,1990,Barley,2.1956164285714275,2.0
+United States,Nebraska,1990,Oats,1.7332554809523797,3.0
+United States,Nebraska,1990,Wheat,2.522288107142859,1.0
+United States,Nebraska,1991,Barley,2.0442719047619056,2.0
+United States,Nebraska,1991,Oats,1.9096675571428587,3.0
+United States,Nebraska,1991,Wheat,2.1528230119047644,1.0
+United States,Nebraska,1992,Barley,2.676665285714287,1.0
+United States,Nebraska,1992,Oats,2.483570476190472,2.0
+United States,Nebraska,1992,Wheat,2.0374476309523795,3.0
+United States,Nebraska,1993,Barley,2.1433535714285723,2.0
+United States,Nebraska,1993,Oats,1.6152431809523806,3.0
+United States,Nebraska,1993,Wheat,2.342170190476189,1.0
+United States,Nebraska,1994,Barley,2.0834818571428593,2.0
+United States,Nebraska,1994,Oats,1.8354508190476202,3.0
+United States,Nebraska,1994,Wheat,2.2898016547619062,1.0
+United States,Nebraska,1995,Barley,2.0285225952380936,2.0
+United States,Nebraska,1995,Oats,1.8166959333333326,3.0
+United States,Nebraska,1995,Wheat,2.69345857142857,1.0
+United States,Nebraska,1996,Barley,2.7959731904761917,1.0
+United States,Nebraska,1996,Oats,2.506681004761903,2.0
+United States,Nebraska,1996,Wheat,2.3735695357142848,3.0
+United States,Nebraska,1997,Barley,2.693932523809521,1.0
+United States,Nebraska,1997,Oats,2.330166442857142,3.0
+United States,Nebraska,1997,Wheat,2.516821642857145,2.0
+United States,Nebraska,1998,Barley,2.672719952380954,2.0
+United States,Nebraska,1998,Oats,2.0148178999999997,3.0
+United States,Nebraska,1998,Wheat,3.036721785714283,1.0
+United States,Nebraska,1999,Barley,2.5686169523809563,2.0
+United States,Nebraska,1999,Oats,2.2368361190476205,3.0
+United States,Nebraska,1999,Wheat,3.134208666666671,1.0
+United States,Nebraska,2000,Barley,1.5197731428571475,3.0
+United States,Nebraska,2000,Oats,1.5772551428571435,2.0
+United States,Nebraska,2000,Wheat,2.3814730119047613,1.0
+United States,Nebraska,2001,Barley,2.4130004523809556,2.0
+United States,Nebraska,2001,Oats,2.15078228095238,3.0
+United States,Nebraska,2001,Wheat,2.492188928571427,1.0
+United States,Nebraska,2002,Barley,1.7513244999999986,2.0
+United States,Nebraska,2002,Oats,1.5805688476190494,3.0
+United States,Nebraska,2002,Wheat,2.215173369047617,1.0
+United States,Nebraska,2003,Barley,2.6950469523809546,2.0
+United States,Nebraska,2003,Oats,2.6090642333333363,3.0
+United States,Nebraska,2003,Wheat,3.0608549285714273,1.0
+United States,Nebraska,2004,Barley,2.854551142857139,1.0
+United States,Nebraska,2004,Oats,2.44366937142857,3.0
+United States,Nebraska,2004,Wheat,2.511390404761908,2.0
+United States,Nebraska,2005,Barley,2.414166119047618,3.0
+United States,Nebraska,2005,Oats,2.6123096142857176,2.0
+United States,Nebraska,2005,Wheat,2.6454452738095258,1.0
+United States,Nebraska,2006,Barley,2.2271598809523803,2.0
+United States,Nebraska,2006,Oats,1.6847797380952398,3.0
+United States,Nebraska,2006,Wheat,2.405663797619048,1.0
+United States,Nebraska,2007,Barley,2.492867833333336,2.0
+United States,Nebraska,2007,Oats,2.193689633333333,3.0
+United States,Nebraska,2007,Wheat,2.870950535714286,1.0
+United States,Nebraska,2008,Barley,2.616255571428573,2.0
+United States,Nebraska,2008,Oats,2.498670038095239,3.0
+United States,Nebraska,2008,Wheat,2.9707463333333344,1.0
+United States,Nebraska,2009,Barley,2.843496523809525,2.0
+United States,Nebraska,2009,Oats,2.471050138095241,3.0
+United States,Nebraska,2009,Wheat,3.14772591666667,1.0
+United States,Nebraska,2010,Barley,2.5446631428571433,2.0
+United States,Nebraska,2010,Oats,2.4421662476190464,3.0
+United States,Nebraska,2010,Wheat,2.882732095238095,1.0
+United States,Nebraska,2011,Barley,2.4258355952380977,2.0
+United States,Nebraska,2011,Oats,2.2633457571428557,3.0
+United States,Nebraska,2011,Wheat,2.999772714285711,1.0
+United States,Nebraska,2012,Barley,2.207337142857142,2.0
+United States,Nebraska,2012,Oats,2.0494580714285715,3.0
+United States,Nebraska,2012,Wheat,2.7782320000000027,1.0
+United States,Nebraska,2013,Barley,2.293372309523809,3.0
+United States,Nebraska,2013,Oats,2.3335655523809518,2.0
+United States,Nebraska,2013,Wheat,2.3863950714285753,1.0
+United States,Nebraska,2014,Barley,2.4626501666666663,3.0
+United States,Nebraska,2014,Oats,2.801037057142856,2.0
+United States,Nebraska,2014,Wheat,3.299781369047624,1.0
+United States,Nebraska,2015,Barley,2.4809101428571423,2.0
+United States,Nebraska,2015,Oats,2.419943928571432,3.0
+United States,Nebraska,2015,Wheat,2.5805778452380985,1.0
+United States,Nebraska,2016,Barley,2.4765164761904765,2.0
+United States,Nebraska,2016,Oats,2.471460080952381,3.0
+United States,Nebraska,2016,Wheat,2.806778023809525,1.0
+United States,Nebraska,2017,Barley,2.434104142857141,2.0
+United States,Nebraska,2017,Oats,2.389232376190476,3.0
+United States,Nebraska,2017,Wheat,2.7701620000000013,1.0
+United States,Nebraska,2018,Barley,2.444588738095237,2.0
+United States,Nebraska,2018,Oats,2.4160153095238086,3.0
+United States,Nebraska,2018,Wheat,2.901097750000002,1.0
+United States,Nebraska,2019,Barley,2.5854134404761915,2.0
+United States,Nebraska,2019,Oats,2.4143413761904786,3.0
+United States,Nebraska,2019,Wheat,2.8946353452380973,1.0
+United States,Nebraska,2020,Barley,2.3001453452380947,3.0
+United States,Nebraska,2020,Oats,2.395706057142855,2.0
+United States,Nebraska,2020,Wheat,2.8980362738095273,1.0
+United States,Nebraska,2021,Barley,2.306921583333334,3.0
+United States,Nebraska,2021,Oats,2.3292782333333313,2.0
+United States,Nebraska,2021,Wheat,2.7061848333333343,1.0
+United States,North Dakota,1989,Barley,2.0654556547619034,1.0
+United States,North Dakota,1989,Canola,1.3945210994062422,3.0
+United States,North Dakota,1989,Oats,1.2983915142857159,4.0
+United States,North Dakota,1989,Wheat,1.6149222857142853,2.0
+United States,North Dakota,1990,Barley,2.8307926785714295,1.0
+United States,North Dakota,1990,Canola,1.5059206861904761,4.0
+United States,North Dakota,1990,Oats,1.8478174285714297,3.0
+United States,North Dakota,1990,Wheat,2.3787125595238092,2.0
+United States,North Dakota,1991,Barley,2.6540884999999976,1.0
+United States,North Dakota,1991,Canola,1.5892532150000025,4.0
+United States,North Dakota,1991,Oats,1.793722052380952,3.0
+United States,North Dakota,1991,Wheat,2.0950808809523793,2.0
+United States,North Dakota,1992,Barley,3.3770099880952342,1.0
+United States,North Dakota,1992,Canola,1.698357325555554,4.0
+United States,North Dakota,1992,Oats,2.384159333333332,3.0
+United States,North Dakota,1992,Wheat,2.614222059523807,2.0
+United States,North Dakota,1993,Barley,2.65696423809524,1.0
+United States,North Dakota,1993,Canola,1.37541104714286,4.0
+United States,North Dakota,1993,Oats,2.4883360619047585,2.0
+United States,North Dakota,1993,Wheat,2.0987476071428577,3.0
+United States,North Dakota,1994,Barley,2.96890176190475,1.0
+United States,North Dakota,1994,Canola,1.5752959638095234,4.0
+United States,North Dakota,1994,Oats,2.1768990571428573,2.0
+United States,North Dakota,1994,Wheat,2.1501522261904755,3.0
+United States,North Dakota,1995,Barley,2.4722380952380965,1.0
+United States,North Dakota,1995,Canola,1.3698655083333322,4.0
+United States,North Dakota,1995,Oats,1.7439993999999972,3.0
+United States,North Dakota,1995,Wheat,1.8532947142857141,2.0
+United States,North Dakota,1996,Barley,2.9617156190476104,1.0
+United States,North Dakota,1996,Canola,1.54534258190476,4.0
+United States,North Dakota,1996,Oats,1.7950714476190466,3.0
+United States,North Dakota,1996,Wheat,2.12652826190476,2.0
+United States,North Dakota,1997,Barley,2.409436202380953,1.0
+United States,North Dakota,1997,Canola,1.3513625843588812,4.0
+United States,North Dakota,1997,Oats,1.5981451476190471,3.0
+United States,North Dakota,1997,Wheat,1.710119464285715,2.0
+United States,North Dakota,1998,Barley,2.9583595238095155,1.0
+United States,North Dakota,1998,Canola,1.6946504766666641,4.0
+United States,North Dakota,1998,Oats,2.1360072571428588,3.0
+United States,North Dakota,1998,Wheat,2.172828285714288,2.0
+United States,North Dakota,1999,Barley,2.586832095238096,1.0
+United States,North Dakota,1999,Canola,1.4595708700000025,4.0
+United States,North Dakota,1999,Oats,1.8726360523809507,3.0
+United States,North Dakota,1999,Wheat,1.9242370595238094,2.0
+United States,North Dakota,2000,Barley,2.9224352142857075,1.0
+United States,North Dakota,2000,Canola,1.472231137619051,4.0
+United States,North Dakota,2000,Oats,2.2617401476190495,3.0
+United States,North Dakota,2000,Wheat,2.284552952380955,2.0
+United States,North Dakota,2001,Barley,2.9427959523809433,1.0
+United States,North Dakota,2001,Canola,1.5822719207142852,4.0
+United States,North Dakota,2001,Oats,2.2189182000000014,2.0
+United States,North Dakota,2001,Wheat,2.199183880952382,3.0
+United States,North Dakota,2002,Barley,2.4108100238095242,1.0
+United States,North Dakota,2002,Canola,1.3511051398976959,4.0
+United States,North Dakota,2002,Oats,1.5367220428571455,3.0
+United States,North Dakota,2002,Wheat,1.8335744523809547,2.0
+United States,North Dakota,2003,Barley,3.1839192261904663,1.0
+United States,North Dakota,2003,Canola,1.5954712638095254,4.0
+United States,North Dakota,2003,Oats,2.080050057142858,3.0
+United States,North Dakota,2003,Wheat,2.521529142857145,2.0
+United States,North Dakota,2004,Barley,3.312177785714289,1.0
+United States,North Dakota,2004,Canola,1.828725486190475,4.0
+United States,North Dakota,2004,Oats,2.298908300000004,3.0
+United States,North Dakota,2004,Wheat,2.6452339166666676,2.0
+United States,North Dakota,2005,Barley,2.890523488095235,1.0
+United States,North Dakota,2005,Canola,1.6120758559523796,4.0
+United States,North Dakota,2005,Oats,2.1081823857142816,3.0
+United States,North Dakota,2005,Wheat,2.315350250000001,2.0
+United States,North Dakota,2006,Barley,2.6064082499999977,1.0
+United States,North Dakota,2006,Canola,1.5088589283620728,4.0
+United States,North Dakota,2006,Oats,1.5229035523809553,3.0
+United States,North Dakota,2006,Wheat,2.064097845238094,2.0
+United States,North Dakota,2007,Barley,3.0038845714285696,1.0
+United States,North Dakota,2007,Canola,1.3819653509523813,4.0
+United States,North Dakota,2007,Oats,2.1177135571428547,3.0
+United States,North Dakota,2007,Wheat,2.430360559523811,2.0
+United States,North Dakota,2008,Barley,3.0134276666666673,1.0
+United States,North Dakota,2008,Canola,1.6395313435714307,4.0
+United States,North Dakota,2008,Oats,1.8484323428571448,3.0
+United States,North Dakota,2008,Wheat,2.44056975,2.0
+United States,North Dakota,2009,Barley,3.699364857142856,1.0
+United States,North Dakota,2009,Canola,2.0662460767579693,4.0
+United States,North Dakota,2009,Oats,2.413436085714288,3.0
+United States,North Dakota,2009,Wheat,2.9634224880952433,2.0
+United States,North Dakota,2010,Barley,3.491017952380951,1.0
+United States,North Dakota,2010,Canola,1.91050176302244,4.0
+United States,North Dakota,2010,Oats,2.182399123809524,3.0
+United States,North Dakota,2010,Wheat,2.8804936309523783,2.0
+United States,North Dakota,2011,Barley,2.542001964285715,1.0
+United States,North Dakota,2011,Canola,1.6857968205512714,4.0
+United States,North Dakota,2011,Oats,1.9064221761904774,3.0
+United States,North Dakota,2011,Wheat,2.179940773809523,2.0
+United States,North Dakota,2012,Barley,3.2064095476190393,1.0
+United States,North Dakota,2012,Canola,1.5777533957286243,4.0
+United States,North Dakota,2012,Oats,2.2300720619047634,3.0
+United States,North Dakota,2012,Wheat,2.94414095238095,2.0
+United States,North Dakota,2013,Barley,3.408300452380956,1.0
+United States,North Dakota,2013,Canola,2.030216954523807,4.0
+United States,North Dakota,2013,Oats,2.2185936619047633,3.0
+United States,North Dakota,2013,Wheat,3.038953845238098,2.0
+United States,North Dakota,2014,Barley,3.5855586428571433,1.0
+United States,North Dakota,2014,Canola,1.9835415580952362,4.0
+United States,North Dakota,2014,Oats,2.5633726857142842,3.0
+United States,North Dakota,2014,Wheat,3.050267857142857,2.0
+United States,North Dakota,2015,Barley,3.3285611666666695,1.0
+United States,North Dakota,2015,Canola,1.8504005902380927,4.0
+United States,North Dakota,2015,Oats,2.5780793857142847,3.0
+United States,North Dakota,2015,Wheat,3.168208345238099,2.0
+United States,North Dakota,2016,Barley,2.939478285714285,1.0
+United States,North Dakota,2016,Canola,1.6164922991355892,4.0
+United States,North Dakota,2016,Oats,2.2299524952380962,3.0
+United States,North Dakota,2016,Wheat,2.835926095238097,2.0
+United States,North Dakota,2017,Barley,2.69781701190476,2.0
+United States,North Dakota,2017,Canola,1.5109608786907938,4.0
+United States,North Dakota,2017,Oats,2.1555137047619066,3.0
+United States,North Dakota,2017,Wheat,2.835163928571429,1.0
+United States,North Dakota,2018,Barley,3.0080508690476173,1.0
+United States,North Dakota,2018,Canola,1.6423094860953065,4.0
+United States,North Dakota,2018,Oats,2.267018161904763,3.0
+United States,North Dakota,2018,Wheat,2.8207820357142865,2.0
+United States,North Dakota,2019,Barley,3.046351345238097,1.0
+United States,North Dakota,2019,Canola,1.7876436649999996,4.0
+United States,North Dakota,2019,Oats,2.2056121380952405,3.0
+United States,North Dakota,2019,Wheat,2.7739856428571428,2.0
+United States,North Dakota,2020,Barley,2.7530901071428557,2.0
+United States,North Dakota,2020,Canola,1.4906228574018499,4.0
+United States,North Dakota,2020,Oats,2.1302851380952394,3.0
+United States,North Dakota,2020,Wheat,2.765906035714287,1.0
+United States,North Dakota,2021,Barley,2.564146428571426,2.0
+United States,North Dakota,2021,Canola,1.5334078570416054,4.0
+United States,North Dakota,2021,Oats,2.154881709523813,3.0
+United States,North Dakota,2021,Wheat,2.877755595238098,1.0
+United States,Oklahoma,1989,Barley,2.125268587495653,1.0
+United States,Oklahoma,1989,Canola,1.3474160779824513,3.0
+United States,Oklahoma,1989,Oats,1.2366007268671328,4.0
+United States,Oklahoma,1989,Wheat,1.8210873976982342,2.0
+United States,Oklahoma,1990,Barley,2.1922580698790735,1.0
+United States,Oklahoma,1990,Canola,1.3615243419160648,3.0
+United States,Oklahoma,1990,Oats,1.3581577666666698,4.0
+United States,Oklahoma,1990,Wheat,2.1497504863068833,2.0
+United States,Oklahoma,1991,Barley,2.058832384137548,1.0
+United States,Oklahoma,1991,Canola,1.3838679336743924,3.0
+United States,Oklahoma,1991,Oats,1.372408768469346,4.0
+United States,Oklahoma,1991,Wheat,1.8391514107841347,2.0
+United States,Oklahoma,1992,Barley,2.246814576264506,1.0
+United States,Oklahoma,1992,Canola,1.4151213756970853,4.0
+United States,Oklahoma,1992,Oats,1.4249790657665904,3.0
+United States,Oklahoma,1992,Wheat,1.944054086569154,2.0
+United States,Oklahoma,1993,Barley,1.9108780392639337,2.0
+United States,Oklahoma,1993,Canola,1.3261115095737548,3.0
+United States,Oklahoma,1993,Oats,1.2489196621546808,4.0
+United States,Oklahoma,1993,Wheat,1.945962204696579,1.0
+United States,Oklahoma,1994,Barley,1.9761599313471372,1.0
+United States,Oklahoma,1994,Canola,1.32652658474145,3.0
+United States,Oklahoma,1994,Oats,1.3256710595238075,4.0
+United States,Oklahoma,1994,Wheat,1.8009310020253892,2.0
+United States,Oklahoma,1995,Barley,1.7999860405742216,1.0
+United States,Oklahoma,1995,Canola,1.402545528424921,3.0
+United States,Oklahoma,1995,Oats,1.3924141595238089,4.0
+United States,Oklahoma,1995,Wheat,1.5476679414616934,2.0
+United States,Oklahoma,1996,Barley,1.3727774523809513,1.0
+United States,Oklahoma,1996,Canola,1.3246189005357552,3.0
+United States,Oklahoma,1996,Oats,1.2809362733862577,4.0
+United States,Oklahoma,1996,Wheat,1.330134547619048,2.0
+United States,Oklahoma,1997,Barley,2.246418645363079,1.0
+United States,Oklahoma,1997,Canola,1.4103349542107464,4.0
+United States,Oklahoma,1997,Oats,1.5316369902988298,3.0
+United States,Oklahoma,1997,Wheat,2.1703626232074553,2.0
+United States,Oklahoma,1998,Barley,2.5155933965068495,2.0
+United States,Oklahoma,1998,Canola,1.356070052206243,4.0
+United States,Oklahoma,1998,Oats,1.4788146833333309,3.0
+United States,Oklahoma,1998,Wheat,2.560976071428577,1.0
+United States,Oklahoma,1999,Barley,2.1512821415547827,2.0
+United States,Oklahoma,1999,Canola,1.4392687583055033,4.0
+United States,Oklahoma,1999,Oats,1.518859172304822,3.0
+United States,Oklahoma,1999,Wheat,2.3154947236464847,1.0
+United States,Oklahoma,2000,Barley,2.148044288215488,2.0
+United States,Oklahoma,2000,Canola,1.4678506517230097,4.0
+United States,Oklahoma,2000,Oats,1.559226236190474,3.0
+United States,Oklahoma,2000,Wheat,2.2926915775162007,1.0
+United States,Oklahoma,2001,Barley,2.3790793899979263,1.0
+United States,Oklahoma,2001,Canola,1.2767026909596924,4.0
+United States,Oklahoma,2001,Oats,1.34532351857143,3.0
+United States,Oklahoma,2001,Wheat,2.226685085783692,2.0
+United States,Oklahoma,2002,Barley,2.010987734091823,1.0
+United States,Oklahoma,2002,Canola,1.3412648744615578,3.0
+United States,Oklahoma,2002,Oats,1.3353300880952363,4.0
+United States,Oklahoma,2002,Wheat,1.8748903607425425,2.0
+United States,Oklahoma,2003,Barley,2.498521241949103,2.0
+United States,Oklahoma,2003,Canola,1.3299925396588606,3.0
+United States,Oklahoma,2003,Oats,1.3121046841196147,4.0
+United States,Oklahoma,2003,Wheat,2.5592191705205374,1.0
+United States,Oklahoma,2004,Barley,2.0579004991756373,2.0
+United States,Oklahoma,2004,Canola,1.3758174095678608,3.0
+United States,Oklahoma,2004,Oats,1.3170108972837342,4.0
+United States,Oklahoma,2004,Wheat,2.3103513933474704,1.0
+United States,Oklahoma,2005,Barley,2.1105260348963353,2.0
+United States,Oklahoma,2005,Canola,1.3643698371003252,4.0
+United States,Oklahoma,2005,Oats,1.4721737930625938,3.0
+United States,Oklahoma,2005,Wheat,2.1328145597091073,1.0
+United States,Oklahoma,2006,Barley,2.0552639105173816,1.0
+United States,Oklahoma,2006,Canola,1.1546049116127577,4.0
+United States,Oklahoma,2006,Oats,1.1598152351228586,3.0
+United States,Oklahoma,2006,Wheat,1.624578866337831,2.0
+United States,Oklahoma,2007,Barley,2.203670223865932,1.0
+United States,Oklahoma,2007,Canola,1.3280939470041186,3.0
+United States,Oklahoma,2007,Oats,1.1832259069330568,4.0
+United States,Oklahoma,2007,Wheat,1.8759592846458109,2.0
+United States,Oklahoma,2008,Barley,2.328259578001066,2.0
+United States,Oklahoma,2008,Canola,1.4067012038406104,4.0
+United States,Oklahoma,2008,Oats,1.4308934489687475,3.0
+United States,Oklahoma,2008,Wheat,2.4545860063551768,1.0
+United States,Oklahoma,2009,Barley,1.840888864008101,1.0
+United States,Oklahoma,2009,Canola,1.3487067811056788,3.0
+United States,Oklahoma,2009,Oats,1.2364794643067998,4.0
+United States,Oklahoma,2009,Wheat,1.4851142046293333,2.0
+United States,Oklahoma,2010,Barley,2.1429275295132273,1.0
+United States,Oklahoma,2010,Canola,1.5827352463065205,3.0
+United States,Oklahoma,2010,Oats,1.2565097869047626,4.0
+United States,Oklahoma,2010,Wheat,2.0720546828717668,2.0
+United States,Oklahoma,2011,Barley,2.0732853262968773,1.0
+United States,Oklahoma,2011,Canola,1.0577231323774696,4.0
+United States,Oklahoma,2011,Oats,1.3854662140496217,3.0
+United States,Oklahoma,2011,Wheat,1.5791655406239513,2.0
+United States,Oklahoma,2012,Barley,2.3900109528484834,2.0
+United States,Oklahoma,2012,Canola,1.483780972095993,4.0
+United States,Oklahoma,2012,Oats,1.5720537763504898,3.0
+United States,Oklahoma,2012,Wheat,2.4205171681743853,1.0
+United States,Oklahoma,2013,Barley,2.0815095998705564,1.0
+United States,Oklahoma,2013,Canola,1.520080305952314,3.0
+United States,Oklahoma,2013,Oats,1.3874461541019867,4.0
+United States,Oklahoma,2013,Wheat,2.0724554181267347,2.0
+United States,Oklahoma,2014,Barley,2.0018949089691875,1.0
+United States,Oklahoma,2014,Canola,0.9361586051395534,4.0
+United States,Oklahoma,2014,Oats,1.2892357141950006,3.0
+United States,Oklahoma,2014,Wheat,1.359974444683477,2.0
+United States,Oklahoma,2015,Barley,1.9478493881059047,1.0
+United States,Oklahoma,2015,Canola,1.2770767343711955,4.0
+United States,Oklahoma,2015,Oats,1.3661377276299986,3.0
+United States,Oklahoma,2015,Wheat,1.7529546035252863,2.0
+United States,Oklahoma,2016,Barley,2.2561773516716177,1.0
+United States,Oklahoma,2016,Canola,1.2925173936823555,4.0
+United States,Oklahoma,2016,Oats,1.3654361094011795,3.0
+United States,Oklahoma,2016,Wheat,2.1046949217052284,2.0
+United States,Oklahoma,2017,Barley,2.0468343152698414,1.0
+United States,Oklahoma,2017,Canola,1.241563109019899,4.0
+United States,Oklahoma,2017,Oats,1.315071783321345,3.0
+United States,Oklahoma,2017,Wheat,1.8870461172181567,2.0
+United States,Oklahoma,2018,Barley,2.0010578389378106,1.0
+United States,Oklahoma,2018,Canola,1.3172151497808993,4.0
+United States,Oklahoma,2018,Oats,1.3202519330952374,3.0
+United States,Oklahoma,2018,Wheat,1.8530128914951414,2.0
+United States,Oklahoma,2019,Barley,2.1591985490282815,1.0
+United States,Oklahoma,2019,Canola,1.4228871882728813,3.0
+United States,Oklahoma,2019,Oats,1.3599791494018678,4.0
+United States,Oklahoma,2019,Wheat,2.0254824150844577,2.0
+United States,Oklahoma,2020,Barley,2.170126675147129,1.0
+United States,Oklahoma,2020,Canola,1.4244787202538416,3.0
+United States,Oklahoma,2020,Oats,1.3970899023094763,4.0
+United States,Oklahoma,2020,Wheat,2.0759759316856874,2.0
+United States,Oklahoma,2021,Barley,2.13772663256601,1.0
+United States,Oklahoma,2021,Canola,1.3733554981112122,3.0
+United States,Oklahoma,2021,Oats,1.3573448378532362,4.0
+United States,Oklahoma,2021,Wheat,2.0624002084261313,2.0
+United States,South Dakota,1989,Barley,1.8802459523809518,1.0
+United States,South Dakota,1989,Oats,1.4248247238095244,3.0
+United States,South Dakota,1989,Wheat,1.6443201428571401,2.0
+United States,South Dakota,1990,Barley,2.5767574047619024,1.0
+United States,South Dakota,1990,Oats,1.991229104761902,3.0
+United States,South Dakota,1990,Wheat,2.3047055357142883,2.0
+United States,South Dakota,1991,Barley,2.0925029642857083,1.0
+United States,South Dakota,1991,Oats,1.9761637047619067,3.0
+United States,South Dakota,1991,Wheat,2.0875072500000003,2.0
+United States,South Dakota,1992,Barley,2.8839361904761867,1.0
+United States,South Dakota,1992,Oats,2.359562761904761,2.0
+United States,South Dakota,1992,Wheat,2.16217716666667,3.0
+United States,South Dakota,1993,Barley,2.314117333333334,1.0
+United States,South Dakota,1993,Oats,1.8714233047619029,3.0
+United States,South Dakota,1993,Wheat,2.164088988095241,2.0
+United States,South Dakota,1994,Barley,2.2586392857142834,1.0
+United States,South Dakota,1994,Oats,2.001802214285714,2.0
+United States,South Dakota,1994,Wheat,1.950387702380954,3.0
+United States,South Dakota,1995,Barley,2.0771795714285735,2.0
+United States,South Dakota,1995,Oats,1.7004771333333335,3.0
+United States,South Dakota,1995,Wheat,2.216079642857146,1.0
+United States,South Dakota,1996,Barley,2.3825490119047616,2.0
+United States,South Dakota,1996,Oats,2.1511922238095247,3.0
+United States,South Dakota,1996,Wheat,2.4548651785714277,1.0
+United States,South Dakota,1997,Barley,2.0922435714285723,1.0
+United States,South Dakota,1997,Oats,1.9862927095238092,2.0
+United States,South Dakota,1997,Wheat,1.9765255357142895,3.0
+United States,South Dakota,1998,Barley,2.5591475119047637,1.0
+United States,South Dakota,1998,Oats,2.3714169428571448,3.0
+United States,South Dakota,1998,Wheat,2.4864886904761967,2.0
+United States,South Dakota,1999,Barley,2.550744464285717,2.0
+United States,South Dakota,1999,Oats,2.3058944095238116,3.0
+United States,South Dakota,1999,Wheat,2.663974250000001,1.0
+United States,South Dakota,2000,Barley,2.920452940476189,1.0
+United States,South Dakota,2000,Oats,2.20137606190476,3.0
+United States,South Dakota,2000,Wheat,2.6741738333333336,2.0
+United States,South Dakota,2001,Barley,2.757185952380949,1.0
+United States,South Dakota,2001,Oats,2.133547599999997,3.0
+United States,South Dakota,2001,Wheat,2.561757452380953,2.0
+United States,South Dakota,2002,Barley,1.9061596190476195,1.0
+United States,South Dakota,2002,Oats,1.6602002476190478,3.0
+United States,South Dakota,2002,Wheat,1.8403474880952402,2.0
+United States,South Dakota,2003,Barley,2.8234976547619053,2.0
+United States,South Dakota,2003,Oats,2.44758090952381,3.0
+United States,South Dakota,2003,Wheat,2.850388047619049,1.0
+United States,South Dakota,2004,Barley,3.1775945238095202,1.0
+United States,South Dakota,2004,Oats,2.8970661714285786,3.0
+United States,South Dakota,2004,Wheat,3.0727389642857106,2.0
+United States,South Dakota,2005,Barley,2.6141676190476177,2.0
+United States,South Dakota,2005,Oats,2.5422777095238085,3.0
+United States,South Dakota,2005,Wheat,2.7894211190476197,1.0
+United States,South Dakota,2006,Barley,2.1422327380952386,2.0
+United States,South Dakota,2006,Oats,2.0061066142857147,3.0
+United States,South Dakota,2006,Wheat,2.1896439880952405,1.0
+United States,South Dakota,2007,Barley,2.1998820000000006,3.0
+United States,South Dakota,2007,Oats,2.57457779047619,2.0
+United States,South Dakota,2007,Wheat,2.8937034523809513,1.0
+United States,South Dakota,2008,Barley,2.2900002023809534,3.0
+United States,South Dakota,2008,Oats,2.6388534142857187,2.0
+United States,South Dakota,2008,Wheat,3.345985321428577,1.0
+United States,South Dakota,2009,Barley,2.895195761904762,1.0
+United States,South Dakota,2009,Oats,2.6141372761904775,3.0
+United States,South Dakota,2009,Wheat,2.8616988571428585,2.0
+United States,South Dakota,2010,Barley,2.1966924285714295,3.0
+United States,South Dakota,2010,Oats,2.5836136142857153,2.0
+United States,South Dakota,2010,Wheat,3.015400333333331,1.0
+United States,South Dakota,2011,Barley,1.8429157976190493,3.0
+United States,South Dakota,2011,Oats,2.076394733333332,2.0
+United States,South Dakota,2011,Wheat,2.4954809761904793,1.0
+United States,South Dakota,2012,Barley,1.974194202380952,3.0
+United States,South Dakota,2012,Oats,2.3986098190476217,2.0
+United States,South Dakota,2012,Wheat,3.0076185476190522,1.0
+United States,South Dakota,2013,Barley,2.875232119047616,1.0
+United States,South Dakota,2013,Oats,2.7433888428571436,3.0
+United States,South Dakota,2013,Wheat,2.8314043333333405,2.0
+United States,South Dakota,2014,Barley,2.8467341309523806,3.0
+United States,South Dakota,2014,Oats,3.149010219047616,2.0
+United States,South Dakota,2014,Wheat,3.470910202380954,1.0
+United States,South Dakota,2015,Barley,2.0830655476190447,3.0
+United States,South Dakota,2015,Oats,3.1088870619047593,1.0
+United States,South Dakota,2015,Wheat,3.075003047619054,2.0
+United States,South Dakota,2016,Barley,2.34854292857143,3.0
+United States,South Dakota,2016,Oats,2.6068266285714268,2.0
+United States,South Dakota,2016,Wheat,2.8225849761904787,1.0
+United States,South Dakota,2017,Barley,2.370805880952381,3.0
+United States,South Dakota,2017,Oats,2.524991785714283,2.0
+United States,South Dakota,2017,Wheat,2.860606845238097,1.0
+United States,South Dakota,2018,Barley,2.4164398095238093,3.0
+United States,South Dakota,2018,Oats,2.5143503523809514,2.0
+United States,South Dakota,2018,Wheat,2.802009678571433,1.0
+United States,South Dakota,2019,Barley,2.701890440476191,2.0
+United States,South Dakota,2019,Oats,2.490556585714285,3.0
+United States,South Dakota,2019,Wheat,2.848242452380954,1.0
+United States,South Dakota,2020,Barley,2.361246773809522,3.0
+United States,South Dakota,2020,Oats,2.383920199999996,2.0
+United States,South Dakota,2020,Wheat,2.855636750000001,1.0
+United States,South Dakota,2021,Barley,2.1603774285714294,3.0
+United States,South Dakota,2021,Oats,2.3591869809523804,2.0
+United States,South Dakota,2021,Wheat,2.7362583928571453,1.0
+United States,Texas,1989,Barley,1.6745496220696512,1.0
+United States,Texas,1989,Oats,1.2571206150729484,3.0
+United States,Texas,1989,Wheat,1.4906608350965094,2.0
+United States,Texas,1990,Barley,2.0472762702109586,2.0
+United States,Texas,1990,Oats,1.4542729740168068,3.0
+United States,Texas,1990,Wheat,2.0618911324080567,1.0
+United States,Texas,1991,Barley,1.74906404693989,2.0
+United States,Texas,1991,Oats,1.4255122349179692,3.0
+United States,Texas,1991,Wheat,1.9609933394266694,1.0
+United States,Texas,1992,Barley,2.387770658917777,1.0
+United States,Texas,1992,Oats,1.568807439169383,3.0
+United States,Texas,1992,Wheat,2.3029439935529634,2.0
+United States,Texas,1993,Barley,2.358705921262088,1.0
+United States,Texas,1993,Oats,1.8623767835369225,3.0
+United States,Texas,1993,Wheat,2.154007313395083,2.0
+United States,Texas,1994,Barley,1.7754830906969792,1.0
+United States,Texas,1994,Oats,1.4333549799748613,3.0
+United States,Texas,1994,Wheat,1.7663175594232283,2.0
+United States,Texas,1995,Barley,2.393241223828452,1.0
+United States,Texas,1995,Oats,1.5153060846240354,3.0
+United States,Texas,1995,Wheat,1.8654057202503895,2.0
+United States,Texas,1996,Barley,1.8148958494630272,1.0
+United States,Texas,1996,Oats,1.2807520197406137,3.0
+United States,Texas,1996,Wheat,1.7506741115174163,2.0
+United States,Texas,1997,Barley,2.4671580232690613,1.0
+United States,Texas,1997,Oats,1.8574283248705585,3.0
+United States,Texas,1997,Wheat,1.984513708461638,2.0
+United States,Texas,1998,Barley,2.337230822463352,1.0
+United States,Texas,1998,Oats,1.8566141190476195,3.0
+United States,Texas,1998,Wheat,2.3222007524380683,2.0
+United States,Texas,1999,Barley,1.9728775777152678,2.0
+United States,Texas,1999,Oats,1.5761306723395347,3.0
+United States,Texas,1999,Wheat,2.319820577267156,1.0
+United States,Texas,2000,Barley,2.120962635623957,1.0
+United States,Texas,2000,Oats,1.5292513640042187,3.0
+United States,Texas,2000,Wheat,2.036586687608406,2.0
+United States,Texas,2001,Barley,2.4001688608584533,1.0
+United States,Texas,2001,Oats,1.6228778735093297,3.0
+United States,Texas,2001,Wheat,2.2802092331660844,2.0
+United States,Texas,2002,Barley,1.935860515008583,2.0
+United States,Texas,2002,Oats,1.5659251712099171,3.0
+United States,Texas,2002,Wheat,1.9594251398228604,1.0
+United States,Texas,2003,Barley,2.0735329940968916,1.0
+United States,Texas,2003,Oats,1.6155692605015617,3.0
+United States,Texas,2003,Wheat,1.8895152309312069,2.0
+United States,Texas,2004,Barley,1.9689542779592073,2.0
+United States,Texas,2004,Oats,1.4429305809138724,3.0
+United States,Texas,2004,Wheat,2.0766241424998624,1.0
+United States,Texas,2005,Barley,2.2563894765120356,1.0
+United States,Texas,2005,Oats,1.5482744989106212,3.0
+United States,Texas,2005,Wheat,2.1524105446616466,2.0
+United States,Texas,2006,Barley,2.039790681034887,1.0
+United States,Texas,2006,Oats,1.3310214597551042,3.0
+United States,Texas,2006,Wheat,1.6335148971185978,2.0
+United States,Texas,2007,Barley,2.2912939260331906,2.0
+United States,Texas,2007,Oats,1.4579704152066364,3.0
+United States,Texas,2007,Wheat,2.4148101686389802,1.0
+United States,Texas,2008,Barley,2.1628051572421683,1.0
+United States,Texas,2008,Oats,1.748977313574804,3.0
+United States,Texas,2008,Wheat,2.00483378171128,2.0
+United States,Texas,2009,Barley,1.985152238076653,1.0
+United States,Texas,2009,Oats,1.6767999525155148,3.0
+United States,Texas,2009,Wheat,1.7015766378232784,2.0
+United States,Texas,2010,Barley,2.320915219985968,1.0
+United States,Texas,2010,Oats,1.8404709515171092,3.0
+United States,Texas,2010,Wheat,2.2113574023382845,2.0
+United States,Texas,2011,Barley,2.1728852114186905,1.0
+United States,Texas,2011,Oats,1.2829069906396098,3.0
+United States,Texas,2011,Wheat,1.681458547821229,2.0
+United States,Texas,2012,Barley,2.323958052805446,1.0
+United States,Texas,2012,Oats,1.7572377412163327,3.0
+United States,Texas,2012,Wheat,2.2103534956381456,2.0
+United States,Texas,2013,Barley,2.090940706764772,1.0
+United States,Texas,2013,Oats,1.6523935423951852,3.0
+United States,Texas,2013,Wheat,1.9327439107843583,2.0
+United States,Texas,2014,Barley,2.157650409260807,1.0
+United States,Texas,2014,Oats,1.3749467664154602,3.0
+United States,Texas,2014,Wheat,1.9988231163374908,2.0
+United States,Texas,2015,Barley,2.1965850902927655,1.0
+United States,Texas,2015,Oats,1.7241932118357346,3.0
+United States,Texas,2015,Wheat,2.0039672208810573,2.0
+United States,Texas,2016,Barley,2.2945326664839008,1.0
+United States,Texas,2016,Oats,1.6711460351955172,3.0
+United States,Texas,2016,Wheat,2.095956340895747,2.0
+United States,Texas,2017,Barley,2.1625201023659164,1.0
+United States,Texas,2017,Oats,1.5186731263635294,3.0
+United States,Texas,2017,Wheat,1.9502534019941196,2.0
+United States,Texas,2018,Barley,2.1065680160489015,1.0
+United States,Texas,2018,Oats,1.6485359986397952,3.0
+United States,Texas,2018,Wheat,1.9685487324019721,2.0
+United States,Texas,2019,Barley,2.2661351518059654,1.0
+United States,Texas,2019,Oats,1.5885983781560287,3.0
+United States,Texas,2019,Wheat,2.004523822888505,2.0
+United States,Texas,2020,Barley,2.196619285823321,1.0
+United States,Texas,2020,Oats,1.6423741075710745,3.0
+United States,Texas,2020,Wheat,1.9910162561473943,2.0
+United States,Texas,2021,Barley,2.120481203582816,1.0
+United States,Texas,2021,Oats,1.4936868077249321,3.0
+United States,Texas,2021,Wheat,1.979523125607822,2.0
+United States,Washington,1989,Barley,3.130212095238092,2.0
+United States,Washington,1989,Canola,1.7824436750504704,4.0
+United States,Washington,1989,Oats,2.2740809857142827,3.0
+United States,Washington,1989,Wheat,3.274908476190471,1.0
+United States,Washington,1990,Barley,3.1569327619047627,2.0
+United States,Washington,1990,Canola,1.7433486285714268,4.0
+United States,Washington,1990,Oats,2.405681333333332,3.0
+United States,Washington,1990,Wheat,4.047002523809526,1.0
+United States,Washington,1991,Barley,3.4865474285714293,1.0
+United States,Washington,1991,Canola,1.794614357142853,4.0
+United States,Washington,1991,Oats,2.3239315952380903,3.0
+United States,Washington,1991,Wheat,3.3141248333333313,2.0
+United States,Washington,1992,Barley,2.5237644047619052,2.0
+United States,Washington,1992,Canola,1.6677004398666573,4.0
+United States,Washington,1992,Oats,2.1758697714285713,3.0
+United States,Washington,1992,Wheat,3.3959552738095233,1.0
+United States,Washington,1993,Barley,3.578904095238092,2.0
+United States,Washington,1993,Canola,1.7111896554761887,4.0
+United States,Washington,1993,Oats,2.4514412047619034,3.0
+United States,Washington,1993,Wheat,4.183292654761904,1.0
+United States,Washington,1994,Barley,2.5703590476190437,2.0
+United States,Washington,1994,Canola,1.645025631428571,4.0
+United States,Washington,1994,Oats,2.092595699999997,3.0
+United States,Washington,1994,Wheat,3.510955976190477,1.0
+United States,Washington,1995,Barley,3.8379382857142823,2.0
+United States,Washington,1995,Canola,1.824741098095235,4.0
+United States,Washington,1995,Oats,2.8243013142857096,3.0
+United States,Washington,1995,Wheat,3.979704488095236,1.0
+United States,Washington,1996,Barley,3.3465137142857135,2.0
+United States,Washington,1996,Canola,1.8610752949999976,4.0
+United States,Washington,1996,Oats,2.8525019666666602,3.0
+United States,Washington,1996,Wheat,4.4295045119047645,1.0
+United States,Washington,1997,Barley,3.9229422857142824,2.0
+United States,Washington,1997,Canola,1.8031445055029631,4.0
+United States,Washington,1997,Oats,2.848419619047613,3.0
+United States,Washington,1997,Wheat,4.299721619047625,1.0
+United States,Washington,1998,Barley,3.495347571428572,2.0
+United States,Washington,1998,Canola,1.5127140280952378,4.0
+United States,Washington,1998,Oats,2.6639624142857166,3.0
+United States,Washington,1998,Wheat,4.095979738095235,1.0
+United States,Washington,1999,Barley,3.2295627619047558,2.0
+United States,Washington,1999,Canola,1.864660086190472,4.0
+United States,Washington,1999,Oats,2.6870984142857144,3.0
+United States,Washington,1999,Wheat,3.703441488095239,1.0
+United States,Washington,2000,Barley,3.7274177142857075,2.0
+United States,Washington,2000,Canola,1.928590726190471,4.0
+United States,Washington,2000,Oats,2.6750731238095216,3.0
+United States,Washington,2000,Wheat,4.622592071428556,1.0
+United States,Washington,2001,Barley,2.7970876190476215,2.0
+United States,Washington,2001,Canola,1.6708039055809443,4.0
+United States,Washington,2001,Oats,2.0072081857142905,3.0
+United States,Washington,2001,Wheat,3.7828989642857187,1.0
+United States,Washington,2002,Barley,3.0167197142857165,2.0
+United States,Washington,2002,Canola,1.7237647885688525,4.0
+United States,Washington,2002,Oats,2.3614839190476173,3.0
+United States,Washington,2002,Wheat,3.6640618095238104,1.0
+United States,Washington,2003,Barley,2.5754892619047656,2.0
+United States,Washington,2003,Canola,1.439719755060294,4.0
+United States,Washington,2003,Oats,1.8710133619047593,3.0
+United States,Washington,2003,Wheat,3.958379833333328,1.0
+United States,Washington,2004,Barley,3.7379055119047515,2.0
+United States,Washington,2004,Canola,1.5616210564285702,4.0
+United States,Washington,2004,Oats,3.038684347619043,3.0
+United States,Washington,2004,Wheat,4.201456559523807,1.0
+United States,Washington,2005,Barley,3.3254036190476213,2.0
+United States,Washington,2005,Canola,1.9058430495238072,4.0
+United States,Washington,2005,Oats,2.5848809666666663,3.0
+United States,Washington,2005,Wheat,4.191538785714287,1.0
+United States,Washington,2006,Barley,3.374435273809528,2.0
+United States,Washington,2006,Canola,1.6645684983333324,4.0
+United States,Washington,2006,Oats,2.947232928571424,3.0
+United States,Washington,2006,Wheat,4.1234337499999905,1.0
+United States,Washington,2007,Barley,3.3168212380952427,2.0
+United States,Washington,2007,Canola,1.8373576352235166,4.0
+United States,Washington,2007,Oats,1.9256875904761932,3.0
+United States,Washington,2007,Wheat,3.938489845238095,1.0
+United States,Washington,2008,Barley,3.0743625714285683,2.0
+United States,Washington,2008,Canola,2.0144078999388055,4.0
+United States,Washington,2008,Oats,2.806127180952379,3.0
+United States,Washington,2008,Wheat,3.5825932380952406,1.0
+United States,Washington,2009,Barley,3.42805914285715,2.0
+United States,Washington,2009,Canola,1.7756563339142761,4.0
+United States,Washington,2009,Oats,2.827136752380947,3.0
+United States,Washington,2009,Wheat,3.678667869047623,1.0
+United States,Washington,2010,Barley,3.8691935238095225,2.0
+United States,Washington,2010,Canola,2.1289308183333313,4.0
+United States,Washington,2010,Oats,2.956798261904757,3.0
+United States,Washington,2010,Wheat,4.3571371071428695,1.0
+United States,Washington,2011,Barley,3.944615999999991,2.0
+United States,Washington,2011,Canola,2.0961532709523754,4.0
+United States,Washington,2011,Oats,2.161507842857146,3.0
+United States,Washington,2011,Wheat,4.644553999999984,1.0
+United States,Washington,2012,Barley,3.7537284761904792,2.0
+United States,Washington,2012,Canola,2.0481175309523785,4.0
+United States,Washington,2012,Oats,2.863767000000001,3.0
+United States,Washington,2012,Wheat,4.4226770357142975,1.0
+United States,Washington,2013,Barley,3.862865619047621,2.0
+United States,Washington,2013,Canola,1.9194875155780349,4.0
+United States,Washington,2013,Oats,2.446207673809521,3.0
+United States,Washington,2013,Wheat,4.394736261904759,1.0
+United States,Washington,2014,Barley,3.197109833333333,2.0
+United States,Washington,2014,Canola,1.351901266413992,4.0
+United States,Washington,2014,Oats,2.5155289380952346,3.0
+United States,Washington,2014,Wheat,3.3714922857142886,1.0
+United States,Washington,2015,Barley,2.6264487500000064,2.0
+United States,Washington,2015,Canola,1.257945163643553,4.0
+United States,Washington,2015,Oats,1.9977881904761883,3.0
+United States,Washington,2015,Wheat,3.3876002619047636,1.0
+United States,Washington,2016,Barley,3.589945904761906,2.0
+United States,Washington,2016,Canola,1.9171268105029649,4.0
+United States,Washington,2016,Oats,2.5815495809523803,3.0
+United States,Washington,2016,Wheat,4.111482464285716,1.0
+United States,Washington,2017,Barley,2.767945952380955,2.0
+United States,Washington,2017,Canola,1.4468413574530774,4.0
+United States,Washington,2017,Oats,2.134602123809521,3.0
+United States,Washington,2017,Wheat,3.7846154404761916,1.0
+United States,Washington,2018,Barley,3.1007181666666694,2.0
+United States,Washington,2018,Canola,1.5671844548206808,4.0
+United States,Washington,2018,Oats,2.3184402190476194,3.0
+United States,Washington,2018,Wheat,3.8323629404761883,1.0
+United States,Washington,2019,Barley,3.34136428571429,2.0
+United States,Washington,2019,Canola,1.9596037353428473,4.0
+United States,Washington,2019,Oats,2.462328928571427,3.0
+United States,Washington,2019,Wheat,3.8600443214285716,1.0
+United States,Washington,2020,Barley,3.2978631428571425,2.0
+United States,Washington,2020,Canola,1.903047538809521,4.0
+United States,Washington,2020,Oats,2.5058673119047614,3.0
+United States,Washington,2020,Wheat,4.0118595952380955,1.0
+United States,Washington,2021,Barley,2.8397977738095235,2.0
+United States,Washington,2021,Canola,1.2930726535568493,4.0
+United States,Washington,2021,Oats,2.2893771285714255,3.0
+United States,Washington,2021,Wheat,3.5485423214285725,1.0

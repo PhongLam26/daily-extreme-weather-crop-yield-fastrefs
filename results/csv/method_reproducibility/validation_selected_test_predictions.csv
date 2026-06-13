@@ -1,0 +1,812 @@
+country,region,crop,year_start,yield_t_ha,dataset,predicted_yield_t_ha
+Australia,New South Wales,Barley,2016,2.680973400645034,aus_us_overlap,2.0802474137541664
+Australia,New South Wales,Barley,2017,1.708833352980471,aus_us_overlap,1.3196932596579019
+Australia,New South Wales,Barley,2018,1.3610522643806022,aus_us_overlap,1.1350934609671175
+Australia,New South Wales,Barley,2019,1.0348959739237389,aus_us_overlap,0.9764360527761327
+Australia,New South Wales,Barley,2020,3.105900717393604,aus_us_overlap,2.1743815456162507
+Australia,New South Wales,Barley,2021,3.0741894443926574,aus_us_overlap,2.1493028588167893
+Australia,New South Wales,Canola,2016,1.5889840379555242,aus_us_overlap,1.5871228335569458
+Australia,New South Wales,Canola,2017,1.0380076091961508,aus_us_overlap,0.7498082015768895
+Australia,New South Wales,Canola,2018,0.6494931911058435,aus_us_overlap,0.6538861176203543
+Australia,New South Wales,Canola,2019,0.6304314593550123,aus_us_overlap,0.5277433396344454
+Australia,New South Wales,Canola,2020,2.096010943912449,aus_us_overlap,1.6084831229366205
+Australia,New South Wales,Canola,2021,2.2473918635923926,aus_us_overlap,1.5291686105801214
+Australia,New South Wales,Oats,2016,1.5158587196197943,aus_us_overlap,1.6858245020958842
+Australia,New South Wales,Oats,2017,0.6267245972865517,aus_us_overlap,0.8032799470459986
+Australia,New South Wales,Oats,2018,0.3775032439769663,aus_us_overlap,0.7102190448214604
+Australia,New South Wales,Oats,2019,0.6925930407556701,aus_us_overlap,0.5961845193421248
+Australia,New South Wales,Oats,2020,1.6387369373169065,aus_us_overlap,1.5149533650625555
+Australia,New South Wales,Oats,2021,1.3886272928844992,aus_us_overlap,1.4322822309376175
+Australia,New South Wales,Wheat,2016,3.0227399992057675,aus_us_overlap,2.112195524744784
+Australia,New South Wales,Wheat,2017,1.6835210577864836,aus_us_overlap,1.2264117323226622
+Australia,New South Wales,Wheat,2018,0.776814236049158,aus_us_overlap,1.088992597043144
+Australia,New South Wales,Wheat,2019,0.8313094273213709,aus_us_overlap,0.9092837792753267
+Australia,New South Wales,Wheat,2020,3.213313794076345,aus_us_overlap,2.2054949999075677
+Australia,New South Wales,Wheat,2021,3.334367693589138,aus_us_overlap,2.1537896874977474
+Australia,Queensland,Barley,2016,2.9245189306736643,aus_us_overlap,2.0919653208943387
+Australia,Queensland,Barley,2017,1.7908284869863669,aus_us_overlap,1.559141839245843
+Australia,Queensland,Barley,2018,1.327033656359323,aus_us_overlap,1.643609108829231
+Australia,Queensland,Barley,2019,0.9949429686141,aus_us_overlap,1.3564255237535452
+Australia,Queensland,Barley,2020,1.910148330892668,aus_us_overlap,1.7096629962929215
+Australia,Queensland,Barley,2021,2.977353302944794,aus_us_overlap,2.0342387495119736
+Australia,Queensland,Canola,2016,2.0,aus_us_overlap,1.109311055231355
+Australia,Queensland,Canola,2017,0.3731343283582089,aus_us_overlap,0.6402710560004362
+Australia,Queensland,Canola,2018,0.2997416020671834,aus_us_overlap,0.8075151044103229
+Australia,Queensland,Canola,2019,1.0906976744186043,aus_us_overlap,0.4544769221860968
+Australia,Queensland,Canola,2020,0.8899700598802395,aus_us_overlap,0.7728920313850373
+Australia,Queensland,Canola,2021,2.0127713920817367,aus_us_overlap,1.0437620583251344
+Australia,Queensland,Oats,2016,1.1907473009446694,aus_us_overlap,0.9940993552557
+Australia,Queensland,Oats,2017,0.2759081791843102,aus_us_overlap,0.5555298878830743
+Australia,Queensland,Oats,2018,0.2960238513193458,aus_us_overlap,0.7055244839433101
+Australia,Queensland,Oats,2019,0.4988023952095808,aus_us_overlap,0.33812348421560645
+Australia,Queensland,Oats,2020,0.9662472665039774,aus_us_overlap,0.8220142246442976
+Australia,Queensland,Oats,2021,1.330442738374637,aus_us_overlap,0.9800235280273125
+Australia,Queensland,Wheat,2016,2.413383542511456,aus_us_overlap,1.8940384374645876
+Australia,Queensland,Wheat,2017,1.1974752381533476,aus_us_overlap,1.3453863475099619
+Australia,Queensland,Wheat,2018,0.9999475812312216,aus_us_overlap,1.4509779241815857
+Australia,Queensland,Wheat,2019,0.9478976254708626,aus_us_overlap,1.2458866794318064
+Australia,Queensland,Wheat,2020,1.6500768010996427,aus_us_overlap,1.5168137116487972
+Australia,Queensland,Wheat,2021,2.362743023845494,aus_us_overlap,1.835646077612663
+Australia,South Australia,Barley,2016,3.060848756494857,aus_us_overlap,2.117930061978533
+Australia,South Australia,Barley,2017,2.123001113534926,aus_us_overlap,2.063800097642458
+Australia,South Australia,Barley,2018,1.850122807901864,aus_us_overlap,1.6684026206376579
+Australia,South Australia,Barley,2019,1.8798158187810567,aus_us_overlap,2.00586956941553
+Australia,South Australia,Barley,2020,2.323705651760154,aus_us_overlap,2.1417354127214856
+Australia,South Australia,Barley,2021,2.212266470896956,aus_us_overlap,2.079449414204643
+Australia,South Australia,Canola,2016,1.747672969803577,aus_us_overlap,1.5566050627561974
+Australia,South Australia,Canola,2017,1.4166444689676168,aus_us_overlap,1.2141255122168573
+Australia,South Australia,Canola,2018,1.437916622266425,aus_us_overlap,1.0735057148042186
+Australia,South Australia,Canola,2019,1.5821512576411776,aus_us_overlap,1.2049294521078266
+Australia,South Australia,Canola,2020,1.984690756236186,aus_us_overlap,1.3079900841739094
+Australia,South Australia,Canola,2021,1.9600362323738965,aus_us_overlap,1.322607098615581
+Australia,South Australia,Oats,2016,2.083515309204107,aus_us_overlap,1.6704767571878607
+Australia,South Australia,Oats,2017,1.6451093049327354,aus_us_overlap,1.2415462349220885
+Australia,South Australia,Oats,2018,1.215775834423942,aus_us_overlap,1.1270896457815371
+Australia,South Australia,Oats,2019,0.9951755764915056,aus_us_overlap,1.202466465425968
+Australia,South Australia,Oats,2020,1.6164660645264657,aus_us_overlap,1.321715920242411
+Australia,South Australia,Oats,2021,1.841298934408616,aus_us_overlap,1.3156079510251493
+Australia,South Australia,Wheat,2016,2.815328783820076,aus_us_overlap,2.0738485451443567
+Australia,South Australia,Wheat,2017,2.0507811985970315,aus_us_overlap,1.8637949587748508
+Australia,South Australia,Wheat,2018,1.661078888126717,aus_us_overlap,1.5049463594628059
+Australia,South Australia,Wheat,2019,1.5625584345326953,aus_us_overlap,1.8278052246435705
+Australia,South Australia,Wheat,2020,2.174911181201273,aus_us_overlap,2.0273926563937334
+Australia,South Australia,Wheat,2021,2.3655187284867414,aus_us_overlap,1.9292380483375873
+Australia,Tasmania,Barley,2016,4.118009361911801,aus_us_overlap,3.515821620874189
+Australia,Tasmania,Barley,2017,3.585017574692443,aus_us_overlap,2.784183929869102
+Australia,Tasmania,Barley,2018,4.513274336283185,aus_us_overlap,2.8901522687167436
+Australia,Tasmania,Barley,2019,4.471208276400546,aus_us_overlap,2.793578791895139
+Australia,Tasmania,Barley,2020,5.686889175732989,aus_us_overlap,2.9502161441846892
+Australia,Tasmania,Barley,2021,5.573888759599721,aus_us_overlap,3.362642878145915
+Australia,Tasmania,Canola,2016,2.167173252279635,aus_us_overlap,1.458256463750756
+Australia,Tasmania,Canola,2017,2.561135371179039,aus_us_overlap,1.2723007603249645
+Australia,Tasmania,Canola,2018,2.894396551724138,aus_us_overlap,1.4896781153498926
+Australia,Tasmania,Canola,2019,2.697530864197531,aus_us_overlap,1.2961326203386319
+Australia,Tasmania,Canola,2020,3.25,aus_us_overlap,1.3218718485195184
+Australia,Tasmania,Canola,2021,2.721188558733685,aus_us_overlap,1.7196277012133825
+Australia,Tasmania,Oats,2016,2.0022865853658534,aus_us_overlap,2.1215922676109176
+Australia,Tasmania,Oats,2017,2.224023581429624,aus_us_overlap,1.8682759554071138
+Australia,Tasmania,Oats,2018,2.2462289263531496,aus_us_overlap,1.9240190723892556
+Australia,Tasmania,Oats,2019,1.1796710248840152,aus_us_overlap,1.8274570708810733
+Australia,Tasmania,Oats,2020,3.0037437603993347,aus_us_overlap,1.8806449117002422
+Australia,Tasmania,Oats,2021,3.3762833675564683,aus_us_overlap,1.9259982944827336
+Australia,Tasmania,Wheat,2016,5.413957099873823,aus_us_overlap,4.285137228202041
+Australia,Tasmania,Wheat,2017,5.475536830660506,aus_us_overlap,4.102041336098044
+Australia,Tasmania,Wheat,2018,5.276315789473685,aus_us_overlap,4.128351588232128
+Australia,Tasmania,Wheat,2019,6.09927596769702,aus_us_overlap,3.974784767449534
+Australia,Tasmania,Wheat,2020,6.887923651046128,aus_us_overlap,4.18687832976743
+Australia,Tasmania,Wheat,2021,7.522627109534558,aus_us_overlap,4.321929108846611
+Australia,Victoria,Barley,2016,3.2583926453770427,aus_us_overlap,2.1617489364575033
+Australia,Victoria,Barley,2017,2.5005920526269003,aus_us_overlap,2.071655392336403
+Australia,Victoria,Barley,2018,1.497875805463431,aus_us_overlap,1.3990222707952988
+Australia,Victoria,Barley,2019,2.8289346367853025,aus_us_overlap,1.9929110269159598
+Australia,Victoria,Barley,2020,2.8842069685922187,aus_us_overlap,1.927991538832213
+Australia,Victoria,Barley,2021,2.6090598204169435,aus_us_overlap,2.177461241036363
+Australia,Victoria,Canola,2016,1.9372412737293323,aus_us_overlap,1.4701575850652395
+Australia,Victoria,Canola,2017,1.730787967360857,aus_us_overlap,1.2749785384752268
+Australia,Victoria,Canola,2018,1.2323794126873056,aus_us_overlap,0.9495518791563716
+Australia,Victoria,Canola,2019,1.806755584552309,aus_us_overlap,1.230022127962323
+Australia,Victoria,Canola,2020,2.282195669649276,aus_us_overlap,1.2356426234626188
+Australia,Victoria,Canola,2021,2.2891581083574195,aus_us_overlap,1.441993256608839
+Australia,Victoria,Oats,2016,3.0456356683490973,aus_us_overlap,2.0216642985841644
+Australia,Victoria,Oats,2017,1.940438193686552,aus_us_overlap,1.7989604115389304
+Australia,Victoria,Oats,2018,1.2319521953909085,aus_us_overlap,1.4492152109628025
+Australia,Victoria,Oats,2019,1.8197578298898127,aus_us_overlap,1.912489912476139
+Australia,Victoria,Oats,2020,2.5504066405236734,aus_us_overlap,1.8065952198241322
+Australia,Victoria,Oats,2021,2.504455297091205,aus_us_overlap,2.1215030887038275
+Australia,Victoria,Wheat,2016,3.207837182883188,aus_us_overlap,2.212514107444992
+Australia,Victoria,Wheat,2017,2.54499641621158,aus_us_overlap,1.9665923109230263
+Australia,Victoria,Wheat,2018,1.6228227560353363,aus_us_overlap,1.3540616962976713
+Australia,Victoria,Wheat,2019,2.599499460057934,aus_us_overlap,1.8885055665493313
+Australia,Victoria,Wheat,2020,3.201451512711703,aus_us_overlap,1.8642105483818108
+Australia,Victoria,Wheat,2021,2.93956643393434,aus_us_overlap,2.1525091434293224
+Australia,Western Australia,Barley,2016,2.4324371717624973,aus_us_overlap,2.0735306321900233
+Australia,Western Australia,Barley,2017,2.4652988686373094,aus_us_overlap,1.9285427864343008
+Australia,Western Australia,Barley,2018,2.528777602153728,aus_us_overlap,2.111501147972014
+Australia,Western Australia,Barley,2019,2.095672567123509,aus_us_overlap,1.9791691095865986
+Australia,Western Australia,Barley,2020,2.5002949676565795,aus_us_overlap,1.5978608078929895
+Australia,Western Australia,Barley,2021,3.056032110542123,aus_us_overlap,2.1407962355704004
+Australia,Western Australia,Canola,2016,1.517662647763072,aus_us_overlap,1.1937702290630212
+Australia,Western Australia,Canola,2017,1.1260686803961255,aus_us_overlap,1.1523384264983907
+Australia,Western Australia,Canola,2018,1.191896859787465,aus_us_overlap,1.223843789685039
+Australia,Western Australia,Canola,2019,0.9728897876854422,aus_us_overlap,1.07759789892504
+Australia,Western Australia,Canola,2020,1.4272533340092173,aus_us_overlap,0.9513138614847142
+Australia,Western Australia,Canola,2021,1.9528681723640489,aus_us_overlap,1.241094679885791
+Australia,Western Australia,Oats,2016,2.5708555585616666,aus_us_overlap,1.9706667455159987
+Australia,Western Australia,Oats,2017,2.275679292393557,aus_us_overlap,1.8526005448943104
+Australia,Western Australia,Oats,2018,2.174697479496976,aus_us_overlap,2.036306013026718
+Australia,Western Australia,Oats,2019,2.154518960203672,aus_us_overlap,1.706583560969123
+Australia,Western Australia,Oats,2020,1.8139937587635604,aus_us_overlap,1.4965474506176408
+Australia,Western Australia,Oats,2021,2.5361315892704965,aus_us_overlap,2.077726265166373
+Australia,Western Australia,Wheat,2016,2.0618527102848487,aus_us_overlap,1.8293991985763842
+Australia,Western Australia,Wheat,2017,1.897796514990236,aus_us_overlap,1.707946890528207
+Australia,Western Australia,Wheat,2018,2.28399249290488,aus_us_overlap,1.871396533664507
+Australia,Western Australia,Wheat,2019,1.4136458676379102,aus_us_overlap,1.7158501191407816
+Australia,Western Australia,Wheat,2020,2.004029160932592,aus_us_overlap,1.4303191676316698
+Australia,Western Australia,Wheat,2021,2.7382649527215324,aus_us_overlap,1.9003450362288887
+United States,Colorado,Barley,2016,6.9402,aus_us_overlap,6.599364190476185
+United States,Colorado,Barley,2017,7.1016,aus_us_overlap,6.753514000000002
+United States,Colorado,Barley,2018,7.801,aus_us_overlap,6.321487190476182
+United States,Colorado,Barley,2019,7.4244,aus_us_overlap,6.749414952380934
+United States,Colorado,Barley,2020,7.801,aus_us_overlap,6.446444095238099
+United States,Colorado,Barley,2021,5.9718,aus_us_overlap,6.507446250000005
+United States,Colorado,Oats,2016,2.8696,aus_us_overlap,2.295798017142855
+United States,Colorado,Oats,2017,2.33155,aus_us_overlap,2.2919031219047614
+United States,Colorado,Oats,2018,1.7935,aus_us_overlap,2.366896179523807
+United States,Colorado,Wheat,2016,3.2414500000000004,aus_us_overlap,2.4191121547619048
+United States,Colorado,Wheat,2017,2.9052,aus_us_overlap,2.389294288095236
+United States,Colorado,Wheat,2018,2.427725,aus_us_overlap,2.20281933904762
+United States,Colorado,Wheat,2019,3.29525,aus_us_overlap,2.38665347857143
+United States,Colorado,Wheat,2020,1.81575,aus_us_overlap,2.2291377533333354
+United States,Colorado,Wheat,2021,2.4882500000000003,aus_us_overlap,2.3467457538095235
+United States,Illinois,Oats,2016,2.90547,aus_us_overlap,2.4708110047619023
+United States,Illinois,Oats,2017,2.83373,aus_us_overlap,2.510216761904762
+United States,Illinois,Oats,2018,2.97721,aus_us_overlap,2.534420471428572
+United States,Illinois,Oats,2019,2.33155,aus_us_overlap,2.4637565714285694
+United States,Illinois,Oats,2020,2.08046,aus_us_overlap,2.5862440809523797
+United States,Illinois,Oats,2021,2.97721,aus_us_overlap,2.4816574095238084
+United States,Illinois,Wheat,2016,4.976500000000001,aus_us_overlap,4.053026202380953
+United States,Illinois,Wheat,2017,5.111000000000001,aus_us_overlap,4.133838285714282
+United States,Illinois,Wheat,2018,4.4385,aus_us_overlap,3.9872172738095215
+United States,Illinois,Wheat,2019,4.50575,aus_us_overlap,4.017175547619045
+United States,Illinois,Wheat,2020,4.573,aus_us_overlap,4.0569267023809505
+United States,Illinois,Wheat,2021,5.31275,aus_us_overlap,4.053106261904761
+United States,Iowa,Oats,2016,2.72612,aus_us_overlap,2.567301304761905
+United States,Iowa,Oats,2017,2.76199,aus_us_overlap,2.636564566666668
+United States,Iowa,Oats,2018,2.25981,aus_us_overlap,2.4002495904761894
+United States,Iowa,Oats,2019,2.08046,aus_us_overlap,2.392375271428571
+United States,Iowa,Oats,2020,2.79786,aus_us_overlap,2.5228562380952386
+United States,Iowa,Oats,2021,2.76199,aus_us_overlap,2.571383652380955
+United States,Iowa,Wheat,2016,4.236750000000001,aus_us_overlap,3.3514293690476196
+United States,Iowa,Wheat,2017,4.573,aus_us_overlap,3.419937904761903
+United States,Iowa,Wheat,2018,3.9005,aus_us_overlap,3.071076928571428
+United States,Kansas,Barley,2018,1.6678,aus_us_overlap,2.139862976190475
+United States,Kansas,Barley,2019,1.7754,aus_us_overlap,2.373579142857142
+United States,Kansas,Barley,2020,2.7438,aus_us_overlap,2.259232675391672
+United States,Kansas,Barley,2021,3.5508,aus_us_overlap,2.087110154761904
+United States,Kansas,Canola,2016,2.174449,aus_us_overlap,1.5665703386854426
+United States,Kansas,Canola,2017,1.479522,aus_us_overlap,1.598066893176584
+United States,Kansas,Canola,2018,1.076016,aus_us_overlap,1.5553158086552712
+United States,Kansas,Canola,2019,1.2217265000000002,aus_us_overlap,1.5331440394655305
+United States,Kansas,Canola,2020,2.0063215000000003,aus_us_overlap,1.5050224254470788
+United States,Kansas,Canola,2021,1.34502,aus_us_overlap,1.5529280587366758
+United States,Kansas,Oats,2016,2.04459,aus_us_overlap,1.7722000523809531
+United States,Kansas,Oats,2017,1.93698,aus_us_overlap,1.9965754428571434
+United States,Kansas,Oats,2018,1.75763,aus_us_overlap,1.826786354285716
+United States,Kansas,Oats,2019,2.29568,aus_us_overlap,1.792082280952382
+United States,Kansas,Oats,2020,1.86524,aus_us_overlap,1.971039419047621
+United States,Kansas,Oats,2021,1.7935,aus_us_overlap,1.8428127095238076
+United States,Kansas,Wheat,2016,3.83325,aus_us_overlap,2.6227948333333364
+United States,Kansas,Wheat,2017,3.228,aus_us_overlap,2.5236587261904773
+United States,Kansas,Wheat,2018,2.5555000000000003,aus_us_overlap,2.5410892857142873
+United States,Kansas,Wheat,2019,3.4970000000000003,aus_us_overlap,2.7847936785714293
+United States,Kansas,Wheat,2020,3.02625,aus_us_overlap,2.6872011190476206
+United States,Kansas,Wheat,2021,3.4970000000000003,aus_us_overlap,2.635194452380955
+United States,Minnesota,Barley,2016,3.5508,aus_us_overlap,3.0084511666666693
+United States,Minnesota,Barley,2017,4.0888,aus_us_overlap,3.2354775595238148
+United States,Minnesota,Barley,2018,4.0888,aus_us_overlap,3.2217201309523835
+United States,Minnesota,Barley,2019,3.6046,aus_us_overlap,2.9940692738095236
+United States,Minnesota,Barley,2020,2.5286,aus_us_overlap,3.3373741190476203
+United States,Minnesota,Barley,2021,2.959,aus_us_overlap,2.963057416666665
+United States,Minnesota,Canola,2016,1.905445,aus_us_overlap,1.7914501737199504
+United States,Minnesota,Canola,2017,2.3313680000000003,aus_us_overlap,1.8121010561009039
+United States,Minnesota,Canola,2018,2.308951,aus_us_overlap,1.8354879478571453
+United States,Minnesota,Canola,2019,2.5443295,aus_us_overlap,1.780910991622618
+United States,Minnesota,Canola,2020,1.7597345000000002,aus_us_overlap,1.8613101969047605
+United States,Minnesota,Canola,2021,1.905445,aus_us_overlap,1.4490365848812707
+United States,Minnesota,Oats,2016,2.43916,aus_us_overlap,2.3427143142857143
+United States,Minnesota,Oats,2017,2.69025,aus_us_overlap,2.4290518571428565
+United States,Minnesota,Oats,2018,2.11633,aus_us_overlap,2.346574609523811
+United States,Minnesota,Oats,2019,2.22394,aus_us_overlap,2.2872628714285717
+United States,Minnesota,Oats,2020,2.36742,aus_us_overlap,2.36654887142857
+United States,Minnesota,Oats,2021,2.04459,aus_us_overlap,2.4528247619047616
+United States,Minnesota,Wheat,2016,3.96775,aus_us_overlap,3.449486464285712
+United States,Minnesota,Wheat,2017,4.4990250000000005,aus_us_overlap,3.5808290261904747
+United States,Minnesota,Wheat,2018,3.96775,aus_us_overlap,3.3387737499999943
+United States,Minnesota,Wheat,2019,3.83325,aus_us_overlap,3.1684296095238063
+United States,Minnesota,Wheat,2020,3.5642500000000004,aus_us_overlap,3.5093003452380946
+United States,Minnesota,Wheat,2021,3.228,aus_us_overlap,3.3852048809523803
+United States,Montana,Barley,2016,3.228,aus_us_overlap,2.746044869047622
+United States,Montana,Barley,2017,2.7438,aus_us_overlap,2.429822559523809
+United States,Montana,Barley,2018,3.0128,aus_us_overlap,2.872756678571427
+United States,Montana,Barley,2019,3.1742,aus_us_overlap,3.1117151428571397
+United States,Montana,Barley,2020,3.3894,aus_us_overlap,2.7754299166666687
+United States,Montana,Barley,2021,2.0444,aus_us_overlap,2.586912154761904
+United States,Montana,Canola,2016,1.8718195,aus_us_overlap,1.7857862564285698
+United States,Montana,Canola,2017,0.963931,aus_us_overlap,1.2285673893291997
+United States,Montana,Canola,2018,1.255352,aus_us_overlap,1.6240663510920048
+United States,Montana,Canola,2019,1.6252325,aus_us_overlap,1.927804198809522
+United States,Montana,Canola,2020,1.8269855,aus_us_overlap,1.7726669740476177
+United States,Montana,Canola,2021,1.008765,aus_us_overlap,1.322287371937652
+United States,Montana,Oats,2016,1.68589,aus_us_overlap,1.9493978523809512
+United States,Montana,Oats,2017,1.68589,aus_us_overlap,1.6450152809523795
+United States,Montana,Oats,2018,1.54241,aus_us_overlap,2.0019730238095255
+United States,Montana,Oats,2019,1.97285,aus_us_overlap,2.249351904523807
+United States,Montana,Oats,2020,1.61415,aus_us_overlap,1.868417057142857
+United States,Montana,Oats,2021,1.25545,aus_us_overlap,1.7721146476190481
+United States,Montana,Wheat,2016,2.8514,aus_us_overlap,2.391201845238098
+United States,Montana,Wheat,2017,1.8359250000000005,aus_us_overlap,2.145291011904763
+United States,Montana,Wheat,2018,2.575675,aus_us_overlap,2.425880428571428
+United States,Montana,Wheat,2019,2.8514,aus_us_overlap,2.4427505085714296
+United States,Montana,Wheat,2020,2.8043250000000004,aus_us_overlap,2.3605710714285744
+United States,Montana,Wheat,2021,1.49295,aus_us_overlap,2.3232185000000025
+United States,Nebraska,Oats,2016,2.1522,aus_us_overlap,2.471460080952381
+United States,Nebraska,Oats,2017,1.75763,aus_us_overlap,2.3892323761904763
+United States,Nebraska,Oats,2018,2.47503,aus_us_overlap,2.4160153095238086
+United States,Nebraska,Oats,2019,2.25981,aus_us_overlap,2.4143413761904786
+United States,Nebraska,Oats,2020,2.25981,aus_us_overlap,2.3957060571428554
+United States,Nebraska,Oats,2021,2.00872,aus_us_overlap,2.3292782333333313
+United States,Nebraska,Wheat,2016,3.6315,aus_us_overlap,2.8067780238095246
+United States,Nebraska,Wheat,2017,3.0935,aus_us_overlap,2.7701620000000022
+United States,Nebraska,Wheat,2018,3.29525,aus_us_overlap,2.901097750000002
+United States,Nebraska,Wheat,2019,3.83325,aus_us_overlap,2.894635345238098
+United States,Nebraska,Wheat,2020,2.75725,aus_us_overlap,2.8980362738095278
+United States,Nebraska,Wheat,2021,3.29525,aus_us_overlap,2.7061848333333347
+United States,North Dakota,Barley,2016,3.6046,aus_us_overlap,2.939478285714284
+United States,North Dakota,Barley,2017,3.497,aus_us_overlap,2.69781701190476
+United States,North Dakota,Barley,2018,3.9812,aus_us_overlap,3.008050869047617
+United States,North Dakota,Barley,2019,3.8736,aus_us_overlap,3.0463513452380955
+United States,North Dakota,Barley,2020,3.3894,aus_us_overlap,2.753090107142856
+United States,North Dakota,Barley,2021,2.7438,aus_us_overlap,2.5641464285714255
+United States,North Dakota,Canola,2016,2.062364,aus_us_overlap,1.6164922991355892
+United States,North Dakota,Canola,2017,1.79336,aus_us_overlap,1.5109608786907944
+United States,North Dakota,Canola,2018,2.196866,aus_us_overlap,1.642309486095306
+United States,North Dakota,Canola,2019,2.0175300000000003,aus_us_overlap,1.7876436649999998
+United States,North Dakota,Canola,2020,2.2080745,aus_us_overlap,1.4906228574018503
+United States,North Dakota,Canola,2021,1.501939,aus_us_overlap,1.5334078570416052
+United States,North Dakota,Oats,2016,2.36742,aus_us_overlap,2.229952495238096
+United States,North Dakota,Oats,2017,2.08046,aus_us_overlap,2.155513704761906
+United States,North Dakota,Oats,2018,2.94134,aus_us_overlap,2.267018161904763
+United States,North Dakota,Oats,2019,3.08482,aus_us_overlap,2.20561213809524
+United States,North Dakota,Oats,2020,2.79786,aus_us_overlap,2.1302851380952394
+United States,North Dakota,Oats,2021,1.72176,aus_us_overlap,2.154881709523813
+United States,North Dakota,Wheat,2016,3.02625,aus_us_overlap,2.8359260952380976
+United States,North Dakota,Wheat,2017,2.548775,aus_us_overlap,2.835163928571429
+United States,North Dakota,Wheat,2018,3.2011000000000003,aus_us_overlap,2.820782035714286
+United States,North Dakota,Wheat,2019,3.2549,aus_us_overlap,2.7739856428571428
+United States,North Dakota,Wheat,2020,3.2011000000000003,aus_us_overlap,2.765906035714287
+United States,North Dakota,Wheat,2021,2.1654500000000003,aus_us_overlap,2.8777555952380984
+United States,Oklahoma,Canola,2016,1.6252325,aus_us_overlap,1.2925173936823553
+United States,Oklahoma,Canola,2017,1.34502,aus_us_overlap,1.2415631090198993
+United States,Oklahoma,Canola,2018,0.986348,aus_us_overlap,1.3172151497808988
+United States,Oklahoma,Canola,2019,1.5803985,aus_us_overlap,1.4228871882728815
+United States,Oklahoma,Canola,2020,1.7149005000000002,aus_us_overlap,1.4244787202538418
+United States,Oklahoma,Canola,2021,1.7373175,aus_us_overlap,1.373355498111212
+United States,Oklahoma,Oats,2016,1.54241,aus_us_overlap,1.3654361094011793
+United States,Oklahoma,Oats,2017,1.50654,aus_us_overlap,1.315071783321345
+United States,Oklahoma,Oats,2018,1.72176,aus_us_overlap,1.3202519330952374
+United States,Oklahoma,Oats,2019,1.7935,aus_us_overlap,1.3599791494018678
+United States,Oklahoma,Oats,2020,1.61415,aus_us_overlap,1.3970899023094763
+United States,Oklahoma,Oats,2021,1.61415,aus_us_overlap,1.357344837853236
+United States,Oklahoma,Wheat,2016,2.6227500000000004,aus_us_overlap,2.104694921705228
+United States,Oklahoma,Wheat,2017,2.2865,aus_us_overlap,1.887046117218156
+United States,Oklahoma,Wheat,2018,1.883,aus_us_overlap,1.8530128914951411
+United States,Oklahoma,Wheat,2019,2.6900000000000004,aus_us_overlap,2.0254824150844577
+United States,Oklahoma,Wheat,2020,2.6900000000000004,aus_us_overlap,2.075975931685687
+United States,Oklahoma,Wheat,2021,2.6227500000000004,aus_us_overlap,2.0624002084261317
+United States,South Dakota,Barley,2018,2.959,aus_us_overlap,2.416439809523809
+United States,South Dakota,Barley,2019,2.3134,aus_us_overlap,2.7018904404761916
+United States,South Dakota,Barley,2020,2.3672,aus_us_overlap,2.361246773809522
+United States,South Dakota,Barley,2021,1.076,aus_us_overlap,2.1603774285714286
+United States,South Dakota,Oats,2016,2.94134,aus_us_overlap,2.6068266285714268
+United States,South Dakota,Oats,2017,2.5109,aus_us_overlap,2.524991785714283
+United States,South Dakota,Oats,2018,2.94134,aus_us_overlap,2.5143503523809514
+United States,South Dakota,Oats,2019,2.94134,aus_us_overlap,2.490556585714285
+United States,South Dakota,Oats,2020,2.76199,aus_us_overlap,2.383920199999996
+United States,South Dakota,Oats,2021,2.40329,aus_us_overlap,2.359186980952381
+United States,South Dakota,Wheat,2016,3.4701000000000004,aus_us_overlap,2.8225849761904787
+United States,South Dakota,Wheat,2017,2.3403,aus_us_overlap,2.860606845238097
+United States,South Dakota,Wheat,2018,2.9859,aus_us_overlap,2.802009678571433
+United States,South Dakota,Wheat,2019,3.2347250000000005,aus_us_overlap,2.848242452380954
+United States,South Dakota,Wheat,2020,3.48355,aus_us_overlap,2.855636750000002
+United States,South Dakota,Wheat,2021,2.2865,aus_us_overlap,2.7362583928571453
+United States,Texas,Oats,2016,1.7935,aus_us_overlap,1.671146035195517
+United States,Texas,Oats,2017,1.61415,aus_us_overlap,1.5186731263635294
+United States,Texas,Oats,2018,1.7935,aus_us_overlap,1.6485359986397952
+United States,Texas,Oats,2019,1.7935,aus_us_overlap,1.5885983781560282
+United States,Texas,Oats,2020,1.61415,aus_us_overlap,1.6423741075710745
+United States,Texas,Oats,2021,1.61415,aus_us_overlap,1.4936868077249317
+United States,Texas,Wheat,2016,2.152,aus_us_overlap,2.095956340895747
+United States,Texas,Wheat,2017,1.95025,aus_us_overlap,1.9502534019941196
+United States,Texas,Wheat,2018,2.152,aus_us_overlap,1.9685487324019726
+United States,Texas,Wheat,2019,2.2865,aus_us_overlap,2.004523822888505
+United States,Texas,Wheat,2020,2.0175,aus_us_overlap,1.9910162561473943
+United States,Texas,Wheat,2021,2.4882500000000003,aus_us_overlap,1.979523125607822
+United States,Washington,Barley,2016,4.1426,aus_us_overlap,3.5899459047619073
+United States,Washington,Barley,2017,2.8514,aus_us_overlap,2.7679459523809555
+United States,Washington,Barley,2018,3.9274,aus_us_overlap,3.1007181666666694
+United States,Washington,Barley,2019,3.766,aus_us_overlap,3.3413642857142896
+United States,Washington,Barley,2020,4.842,aus_us_overlap,3.2978631428571425
+United States,Washington,Barley,2021,2.0444,aus_us_overlap,2.8397977738095235
+United States,Washington,Canola,2016,2.2417,aus_us_overlap,1.9171268105029646
+United States,Washington,Canola,2017,1.883028,aus_us_overlap,1.4468413574530772
+United States,Washington,Canola,2018,2.0063215000000003,aus_us_overlap,1.5671844548206808
+United States,Washington,Canola,2019,2.1856575,aus_us_overlap,1.9596037353428473
+United States,Washington,Canola,2020,2.4994955,aus_us_overlap,1.903047538809521
+United States,Washington,Canola,2021,1.232935,aus_us_overlap,1.2930726535568493
+United States,Washington,Oats,2016,2.18807,aus_us_overlap,2.5815495809523807
+United States,Washington,Oats,2017,1.50654,aus_us_overlap,2.1346021238095196
+United States,Washington,Oats,2018,1.65002,aus_us_overlap,2.3184402190476185
+United States,Washington,Wheat,2016,4.808375000000001,aus_us_overlap,4.111482464285716
+United States,Washington,Wheat,2017,4.47885,aus_us_overlap,3.784615440476191
+United States,Washington,Wheat,2018,4.7613,aus_us_overlap,3.8323629404761874
+United States,Washington,Wheat,2019,4.351075000000001,aus_us_overlap,3.8600443214285716
+United States,Washington,Wheat,2020,4.868900000000001,aus_us_overlap,4.011859595238095
+United States,Washington,Wheat,2021,2.629475,aus_us_overlap,3.548542321428572
+Australia,New South Wales,Wheat,2016,3.0227399992057675,aus_us_wheat,3.8042676386306207
+Australia,New South Wales,Wheat,2017,1.6835210577864836,aus_us_wheat,1.5630543049202656
+Australia,New South Wales,Wheat,2018,0.776814236049158,aus_us_wheat,1.815304313469274
+Australia,New South Wales,Wheat,2019,0.8313094273213709,aus_us_wheat,1.3831157160225929
+Australia,New South Wales,Wheat,2020,3.213313794076345,aus_us_wheat,2.5571903473547253
+Australia,New South Wales,Wheat,2021,3.334367693589138,aus_us_wheat,2.3701887138173507
+Australia,Queensland,Wheat,2016,2.413383542511456,aus_us_wheat,2.350157430340161
+Australia,Queensland,Wheat,2017,1.1974752381533476,aus_us_wheat,2.032239160947854
+Australia,Queensland,Wheat,2018,0.9999475812312216,aus_us_wheat,1.9253224527070394
+Australia,Queensland,Wheat,2019,0.9478976254708626,aus_us_wheat,1.2179937219152144
+Australia,Queensland,Wheat,2020,1.6500768010996427,aus_us_wheat,2.04359366777785
+Australia,Queensland,Wheat,2021,2.362743023845494,aus_us_wheat,2.205298564426199
+Australia,South Australia,Wheat,2016,2.815328783820076,aus_us_wheat,2.676305664754456
+Australia,South Australia,Wheat,2017,2.0507811985970315,aus_us_wheat,1.9865599472614566
+Australia,South Australia,Wheat,2018,1.661078888126717,aus_us_wheat,1.7276561141559048
+Australia,South Australia,Wheat,2019,1.5625584345326953,aus_us_wheat,1.9567309192889253
+Australia,South Australia,Wheat,2020,2.174911181201273,aus_us_wheat,2.338303145685763
+Australia,South Australia,Wheat,2021,2.3655187284867414,aus_us_wheat,2.0350243452121752
+Australia,Tasmania,Wheat,2016,5.413957099873823,aus_us_wheat,4.9714846640954455
+Australia,Tasmania,Wheat,2017,5.475536830660506,aus_us_wheat,4.098559804281619
+Australia,Tasmania,Wheat,2018,5.276315789473685,aus_us_wheat,4.126888667971593
+Australia,Tasmania,Wheat,2019,6.09927596769702,aus_us_wheat,3.9657089667060146
+Australia,Tasmania,Wheat,2020,6.887923651046128,aus_us_wheat,4.513054903718215
+Australia,Tasmania,Wheat,2021,7.522627109534558,aus_us_wheat,4.558773252526095
+Australia,Victoria,Wheat,2016,3.207837182883188,aus_us_wheat,3.3006056788636835
+Australia,Victoria,Wheat,2017,2.54499641621158,aus_us_wheat,1.8871515898313418
+Australia,Victoria,Wheat,2018,1.6228227560353363,aus_us_wheat,1.7572110392441294
+Australia,Victoria,Wheat,2019,2.599499460057934,aus_us_wheat,2.3201791226715627
+Australia,Victoria,Wheat,2020,3.201451512711703,aus_us_wheat,2.728467479767885
+Australia,Victoria,Wheat,2021,2.93956643393434,aus_us_wheat,2.671247998976287
+Australia,Western Australia,Wheat,2016,2.0618527102848487,aus_us_wheat,1.9505812096404633
+Australia,Western Australia,Wheat,2017,1.897796514990236,aus_us_wheat,1.9439179176628663
+Australia,Western Australia,Wheat,2018,2.28399249290488,aus_us_wheat,2.1560942895266786
+Australia,Western Australia,Wheat,2019,1.4136458676379102,aus_us_wheat,1.796338606219564
+Australia,Western Australia,Wheat,2020,2.004029160932592,aus_us_wheat,1.7835748774246585
+Australia,Western Australia,Wheat,2021,2.7382649527215324,aus_us_wheat,2.320814107829232
+United States,Colorado,Wheat,2016,3.2414500000000004,aus_us_wheat,2.741630911517965
+United States,Colorado,Wheat,2017,2.9052,aus_us_wheat,2.4735049173405828
+United States,Colorado,Wheat,2018,2.427725,aus_us_wheat,2.665336598607853
+United States,Colorado,Wheat,2019,3.29525,aus_us_wheat,2.861283193344388
+United States,Colorado,Wheat,2020,1.81575,aus_us_wheat,2.6116398087053785
+United States,Colorado,Wheat,2021,2.4882500000000003,aus_us_wheat,2.8113835025814216
+United States,Illinois,Wheat,2016,4.976500000000001,aus_us_wheat,4.103470123640919
+United States,Illinois,Wheat,2017,5.111000000000001,aus_us_wheat,4.122132620788648
+United States,Illinois,Wheat,2018,4.4385,aus_us_wheat,3.9894665288076028
+United States,Illinois,Wheat,2019,4.50575,aus_us_wheat,4.1197170872362605
+United States,Illinois,Wheat,2020,4.573,aus_us_wheat,4.1910989341371785
+United States,Illinois,Wheat,2021,5.31275,aus_us_wheat,4.293114470847071
+United States,Iowa,Wheat,2016,4.236750000000001,aus_us_wheat,3.650252824934853
+United States,Iowa,Wheat,2017,4.573,aus_us_wheat,3.5989559396001694
+United States,Iowa,Wheat,2018,3.9005,aus_us_wheat,3.278767489127972
+United States,Kansas,Wheat,2016,3.83325,aus_us_wheat,2.8806961577723142
+United States,Kansas,Wheat,2017,3.228,aus_us_wheat,2.998768093740597
+United States,Kansas,Wheat,2018,2.5555000000000003,aus_us_wheat,2.8520478594940863
+United States,Kansas,Wheat,2019,3.4970000000000003,aus_us_wheat,2.692195463872682
+United States,Kansas,Wheat,2020,3.02625,aus_us_wheat,2.9348450100848544
+United States,Kansas,Wheat,2021,3.4970000000000003,aus_us_wheat,2.9915821759706054
+United States,Minnesota,Wheat,2016,3.96775,aus_us_wheat,3.308914979899159
+United States,Minnesota,Wheat,2017,4.4990250000000005,aus_us_wheat,3.397977263694995
+United States,Minnesota,Wheat,2018,3.96775,aus_us_wheat,3.2810040578595734
+United States,Minnesota,Wheat,2019,3.83325,aus_us_wheat,3.4380975799965814
+United States,Minnesota,Wheat,2020,3.5642500000000004,aus_us_wheat,3.5707843654025657
+United States,Minnesota,Wheat,2021,3.228,aus_us_wheat,3.4982547991900397
+United States,Montana,Wheat,2016,2.8514,aus_us_wheat,2.562683734899162
+United States,Montana,Wheat,2017,1.8359250000000005,aus_us_wheat,2.625532148198671
+United States,Montana,Wheat,2018,2.575675,aus_us_wheat,2.7220101585988705
+United States,Montana,Wheat,2019,2.8514,aus_us_wheat,2.491387268096715
+United States,Montana,Wheat,2020,2.8043250000000004,aus_us_wheat,2.781918303847987
+United States,Montana,Wheat,2021,1.49295,aus_us_wheat,2.5415715380828345
+United States,Nebraska,Wheat,2016,3.6315,aus_us_wheat,3.233139593745344
+United States,Nebraska,Wheat,2017,3.0935,aus_us_wheat,2.9223924251627866
+United States,Nebraska,Wheat,2018,3.29525,aus_us_wheat,2.8437655930227828
+United States,Nebraska,Wheat,2019,3.83325,aus_us_wheat,2.8550866565203794
+United States,Nebraska,Wheat,2020,2.75725,aus_us_wheat,3.1029627176670367
+United States,Nebraska,Wheat,2021,3.29525,aus_us_wheat,3.195037481620551
+United States,North Dakota,Wheat,2016,3.02625,aus_us_wheat,2.6539957449854916
+United States,North Dakota,Wheat,2017,2.548775,aus_us_wheat,2.915686208587592
+United States,North Dakota,Wheat,2018,3.2011000000000003,aus_us_wheat,2.7710889996566808
+United States,North Dakota,Wheat,2019,3.2549,aus_us_wheat,2.783161168394986
+United States,North Dakota,Wheat,2020,3.2011000000000003,aus_us_wheat,2.933071066157181
+United States,North Dakota,Wheat,2021,2.1654500000000003,aus_us_wheat,2.970204062391237
+United States,Oklahoma,Wheat,2016,2.6227500000000004,aus_us_wheat,2.682508050611923
+United States,Oklahoma,Wheat,2017,2.2865,aus_us_wheat,2.400519740238767
+United States,Oklahoma,Wheat,2018,1.883,aus_us_wheat,2.3483074915114055
+United States,Oklahoma,Wheat,2019,2.6900000000000004,aus_us_wheat,2.1585078437655234
+United States,Oklahoma,Wheat,2020,2.6900000000000004,aus_us_wheat,2.464624825183244
+United States,Oklahoma,Wheat,2021,2.6227500000000004,aus_us_wheat,2.4590513278424324
+United States,South Dakota,Wheat,2016,3.4701000000000004,aus_us_wheat,2.937756964770731
+United States,South Dakota,Wheat,2017,2.3403,aus_us_wheat,2.9707052542263597
+United States,South Dakota,Wheat,2018,2.9859,aus_us_wheat,3.098642996411968
+United States,South Dakota,Wheat,2019,3.2347250000000005,aus_us_wheat,2.8320458329017764
+United States,South Dakota,Wheat,2020,3.48355,aus_us_wheat,3.0583474238975703
+United States,South Dakota,Wheat,2021,2.2865,aus_us_wheat,3.0384114854949127
+United States,Texas,Wheat,2016,2.152,aus_us_wheat,2.3008295631565323
+United States,Texas,Wheat,2017,1.95025,aus_us_wheat,2.4646943873468796
+United States,Texas,Wheat,2018,2.152,aus_us_wheat,2.854793882688621
+United States,Texas,Wheat,2019,2.2865,aus_us_wheat,2.7043265682523088
+United States,Texas,Wheat,2020,2.0175,aus_us_wheat,2.591675832494574
+United States,Texas,Wheat,2021,2.4882500000000003,aus_us_wheat,2.7369904485776613
+United States,Washington,Wheat,2016,4.808375000000001,aus_us_wheat,4.6419105411727815
+United States,Washington,Wheat,2017,4.47885,aus_us_wheat,4.3537809921370005
+United States,Washington,Wheat,2018,4.7613,aus_us_wheat,4.613946174345848
+United States,Washington,Wheat,2019,4.351075000000001,aus_us_wheat,4.4004693088172075
+United States,Washington,Wheat,2020,4.868900000000001,aus_us_wheat,4.716466109509648
+United States,Washington,Wheat,2021,2.629475,aus_us_wheat,4.27060628195518
+Australia,New South Wales,Barley,2016,2.680973400645034,aus_overlap,2.406306842340759
+Australia,New South Wales,Barley,2017,1.708833352980471,aus_overlap,1.2099327522911558
+Australia,New South Wales,Barley,2018,1.3610522643806022,aus_overlap,1.0940901688546758
+Australia,New South Wales,Barley,2019,1.0348959739237389,aus_overlap,1.0299180904124148
+Australia,New South Wales,Barley,2020,3.105900717393604,aus_overlap,2.384407929839506
+Australia,New South Wales,Barley,2021,3.0741894443926574,aus_overlap,2.370019279154189
+Australia,New South Wales,Canola,2016,1.5889840379555242,aus_overlap,1.8265958987015767
+Australia,New South Wales,Canola,2017,1.0380076091961508,aus_overlap,0.5586003839298314
+Australia,New South Wales,Canola,2018,0.6494931911058435,aus_overlap,0.6266083398038899
+Australia,New South Wales,Canola,2019,0.6304314593550123,aus_overlap,0.5864794160362262
+Australia,New South Wales,Canola,2020,2.096010943912449,aus_overlap,1.833864144289875
+Australia,New South Wales,Canola,2021,2.2473918635923926,aus_overlap,1.7581891097972615
+Australia,New South Wales,Oats,2016,1.5158587196197943,aus_overlap,1.7749458597669665
+Australia,New South Wales,Oats,2017,0.6267245972865517,aus_overlap,0.618561637625959
+Australia,New South Wales,Oats,2018,0.3775032439769663,aus_overlap,0.6235111541450322
+Australia,New South Wales,Oats,2019,0.6925930407556701,aus_overlap,0.561781441444682
+Australia,New South Wales,Oats,2020,1.6387369373169065,aus_overlap,1.6356334759513687
+Australia,New South Wales,Oats,2021,1.3886272928844992,aus_overlap,1.5484020134325172
+Australia,New South Wales,Wheat,2016,3.0227399992057675,aus_overlap,2.420426328858676
+Australia,New South Wales,Wheat,2017,1.6835210577864836,aus_overlap,1.1074842135211496
+Australia,New South Wales,Wheat,2018,0.776814236049158,aus_overlap,1.0932273148056775
+Australia,New South Wales,Wheat,2019,0.8313094273213709,aus_overlap,1.0757968287539492
+Australia,New South Wales,Wheat,2020,3.213313794076345,aus_overlap,2.3630811735842983
+Australia,New South Wales,Wheat,2021,3.334367693589138,aus_overlap,2.4444568592417886
+Australia,Queensland,Barley,2016,2.9245189306736643,aus_overlap,2.2607423340259003
+Australia,Queensland,Barley,2017,1.7908284869863669,aus_overlap,1.5151000557863934
+Australia,Queensland,Barley,2018,1.327033656359323,aus_overlap,1.7969945366259006
+Australia,Queensland,Barley,2019,0.9949429686141,aus_overlap,1.3642502194962205
+Australia,Queensland,Barley,2020,1.910148330892668,aus_overlap,1.6635195294066656
+Australia,Queensland,Barley,2021,2.977353302944794,aus_overlap,2.225101024289795
+Australia,Queensland,Canola,2016,2.0,aus_overlap,1.1085645584212165
+Australia,Queensland,Canola,2017,0.3731343283582089,aus_overlap,0.7393553020750169
+Australia,Queensland,Canola,2018,0.2997416020671834,aus_overlap,0.765317149107639
+Australia,Queensland,Canola,2019,1.0906976744186043,aus_overlap,0.5672313709420985
+Australia,Queensland,Canola,2020,0.8899700598802395,aus_overlap,0.7210887549433077
+Australia,Queensland,Canola,2021,2.0127713920817367,aus_overlap,1.1786447578501265
+Australia,Queensland,Oats,2016,1.1907473009446694,aus_overlap,1.151567903102829
+Australia,Queensland,Oats,2017,0.2759081791843102,aus_overlap,0.5745383040195857
+Australia,Queensland,Oats,2018,0.2960238513193458,aus_overlap,0.5351140758673019
+Australia,Queensland,Oats,2019,0.4988023952095808,aus_overlap,0.3668374443160244
+Australia,Queensland,Oats,2020,0.9662472665039774,aus_overlap,0.8682733328114507
+Australia,Queensland,Oats,2021,1.330442738374637,aus_overlap,1.0126997752260123
+Australia,Queensland,Wheat,2016,2.413383542511456,aus_overlap,2.108571657869843
+Australia,Queensland,Wheat,2017,1.1974752381533476,aus_overlap,1.43684139031163
+Australia,Queensland,Wheat,2018,0.9999475812312216,aus_overlap,1.658175875971401
+Australia,Queensland,Wheat,2019,0.9478976254708626,aus_overlap,1.304543752914798
+Australia,Queensland,Wheat,2020,1.6500768010996427,aus_overlap,1.427552082387776
+Australia,Queensland,Wheat,2021,2.362743023845494,aus_overlap,2.0235622116334624
+Australia,South Australia,Barley,2016,3.060848756494857,aus_overlap,2.4000874015046825
+Australia,South Australia,Barley,2017,2.123001113534926,aus_overlap,2.314171327081433
+Australia,South Australia,Barley,2018,1.850122807901864,aus_overlap,1.7295479909235687
+Australia,South Australia,Barley,2019,1.8798158187810567,aus_overlap,2.1487698030409805
+Australia,South Australia,Barley,2020,2.323705651760154,aus_overlap,2.251867557221181
+Australia,South Australia,Barley,2021,2.212266470896956,aus_overlap,2.3114365365399756
+Australia,South Australia,Canola,2016,1.747672969803577,aus_overlap,1.7408628225050249
+Australia,South Australia,Canola,2017,1.4166444689676168,aus_overlap,1.2911662798225503
+Australia,South Australia,Canola,2018,1.437916622266425,aus_overlap,1.096161556480782
+Australia,South Australia,Canola,2019,1.5821512576411776,aus_overlap,1.168332465993696
+Australia,South Australia,Canola,2020,1.984690756236186,aus_overlap,1.3797365758044273
+Australia,South Australia,Canola,2021,1.9600362323738965,aus_overlap,1.4491906347546957
+Australia,South Australia,Oats,2016,2.083515309204107,aus_overlap,1.6825727186612813
+Australia,South Australia,Oats,2017,1.6451093049327354,aus_overlap,1.2878907920577471
+Australia,South Australia,Oats,2018,1.215775834423942,aus_overlap,1.1834595256845684
+Australia,South Australia,Oats,2019,0.9951755764915056,aus_overlap,1.2221324287164803
+Australia,South Australia,Oats,2020,1.6164660645264657,aus_overlap,1.4180439853990083
+Australia,South Australia,Oats,2021,1.841298934408616,aus_overlap,1.393582877026446
+Australia,South Australia,Wheat,2016,2.815328783820076,aus_overlap,2.25245611841166
+Australia,South Australia,Wheat,2017,2.0507811985970315,aus_overlap,1.9961305428762486
+Australia,South Australia,Wheat,2018,1.661078888126717,aus_overlap,1.5291905534265018
+Australia,South Australia,Wheat,2019,1.5625584345326953,aus_overlap,1.9298268448908977
+Australia,South Australia,Wheat,2020,2.174911181201273,aus_overlap,2.1609423341057052
+Australia,South Australia,Wheat,2021,2.3655187284867414,aus_overlap,2.0349277267656385
+Australia,Tasmania,Barley,2016,4.118009361911801,aus_overlap,3.1781048033016224
+Australia,Tasmania,Barley,2017,3.585017574692443,aus_overlap,2.6092118115588194
+Australia,Tasmania,Barley,2018,4.513274336283185,aus_overlap,3.003118209715913
+Australia,Tasmania,Barley,2019,4.471208276400546,aus_overlap,2.54561368670173
+Australia,Tasmania,Barley,2020,5.686889175732989,aus_overlap,2.5764500864510387
+Australia,Tasmania,Barley,2021,5.573888759599721,aus_overlap,3.0038045202981385
+Australia,Tasmania,Canola,2016,2.167173252279635,aus_overlap,2.0084703424633368
+Australia,Tasmania,Canola,2017,2.561135371179039,aus_overlap,1.4985210440828391
+Australia,Tasmania,Canola,2018,2.894396551724138,aus_overlap,1.497403365880308
+Australia,Tasmania,Canola,2019,2.697530864197531,aus_overlap,1.4185123499373267
+Australia,Tasmania,Canola,2020,3.25,aus_overlap,1.3653734109581521
+Australia,Tasmania,Canola,2021,2.721188558733685,aus_overlap,1.779214634957664
+Australia,Tasmania,Oats,2016,2.0022865853658534,aus_overlap,2.2812264419140393
+Australia,Tasmania,Oats,2017,2.224023581429624,aus_overlap,1.8758984666562302
+Australia,Tasmania,Oats,2018,2.2462289263531496,aus_overlap,1.891357667624671
+Australia,Tasmania,Oats,2019,1.1796710248840152,aus_overlap,1.7687729386156414
+Australia,Tasmania,Oats,2020,3.0037437603993347,aus_overlap,1.698082363576122
+Australia,Tasmania,Oats,2021,3.3762833675564683,aus_overlap,1.9729645606166075
+Australia,Tasmania,Wheat,2016,5.413957099873823,aus_overlap,3.7566338664851893
+Australia,Tasmania,Wheat,2017,5.475536830660506,aus_overlap,2.97926879645475
+Australia,Tasmania,Wheat,2018,5.276315789473685,aus_overlap,3.7663681129602073
+Australia,Tasmania,Wheat,2019,6.09927596769702,aus_overlap,2.8567516338177033
+Australia,Tasmania,Wheat,2020,6.887923651046128,aus_overlap,2.8931003391762395
+Australia,Tasmania,Wheat,2021,7.522627109534558,aus_overlap,3.7967604020938674
+Australia,Victoria,Barley,2016,3.2583926453770427,aus_overlap,2.4208305592788464
+Australia,Victoria,Barley,2017,2.5005920526269003,aus_overlap,2.1591593308105193
+Australia,Victoria,Barley,2018,1.497875805463431,aus_overlap,1.4424477856679523
+Australia,Victoria,Barley,2019,2.8289346367853025,aus_overlap,2.216176533041787
+Australia,Victoria,Barley,2020,2.8842069685922187,aus_overlap,2.1117899876078634
+Australia,Victoria,Barley,2021,2.6090598204169435,aus_overlap,2.3159498603867883
+Australia,Victoria,Canola,2016,1.9372412737293323,aus_overlap,1.6708997768519718
+Australia,Victoria,Canola,2017,1.730787967360857,aus_overlap,1.369177393622613
+Australia,Victoria,Canola,2018,1.2323794126873056,aus_overlap,0.9750964242915601
+Australia,Victoria,Canola,2019,1.806755584552309,aus_overlap,1.3297897446985067
+Australia,Victoria,Canola,2020,2.282195669649276,aus_overlap,1.3220391170694823
+Australia,Victoria,Canola,2021,2.2891581083574195,aus_overlap,1.5621035368926142
+Australia,Victoria,Oats,2016,3.0456356683490973,aus_overlap,2.179219269063352
+Australia,Victoria,Oats,2017,1.940438193686552,aus_overlap,1.8771912556598784
+Australia,Victoria,Oats,2018,1.2319521953909085,aus_overlap,1.406689450227423
+Australia,Victoria,Oats,2019,1.8197578298898127,aus_overlap,2.0892436448253977
+Australia,Victoria,Oats,2020,2.5504066405236734,aus_overlap,1.9959542642375603
+Australia,Victoria,Oats,2021,2.504455297091205,aus_overlap,2.176455088728146
+Australia,Victoria,Wheat,2016,3.207837182883188,aus_overlap,2.43801227212095
+Australia,Victoria,Wheat,2017,2.54499641621158,aus_overlap,2.072812739800572
+Australia,Victoria,Wheat,2018,1.6228227560353363,aus_overlap,1.3630622821031806
+Australia,Victoria,Wheat,2019,2.599499460057934,aus_overlap,2.1239981532279577
+Australia,Victoria,Wheat,2020,3.201451512711703,aus_overlap,2.110805760916853
+Australia,Victoria,Wheat,2021,2.93956643393434,aus_overlap,2.2867608683445275
+Australia,Western Australia,Barley,2016,2.4324371717624973,aus_overlap,2.2852075759733217
+Australia,Western Australia,Barley,2017,2.4652988686373094,aus_overlap,1.8643249140443463
+Australia,Western Australia,Barley,2018,2.528777602153728,aus_overlap,2.347312642540929
+Australia,Western Australia,Barley,2019,2.095672567123509,aus_overlap,2.3964205651909545
+Australia,Western Australia,Barley,2020,2.5002949676565795,aus_overlap,1.6001195722489516
+Australia,Western Australia,Barley,2021,3.056032110542123,aus_overlap,2.3598948051450175
+Australia,Western Australia,Canola,2016,1.517662647763072,aus_overlap,1.2880287449795378
+Australia,Western Australia,Canola,2017,1.1260686803961255,aus_overlap,1.184062940820095
+Australia,Western Australia,Canola,2018,1.191896859787465,aus_overlap,1.2673407711625506
+Australia,Western Australia,Canola,2019,0.9728897876854422,aus_overlap,1.2071055696371917
+Australia,Western Australia,Canola,2020,1.4272533340092173,aus_overlap,1.0207662302789786
+Australia,Western Australia,Canola,2021,1.9528681723640489,aus_overlap,1.2718679020761694
+Australia,Western Australia,Oats,2016,2.5708555585616666,aus_overlap,2.025771330348616
+Australia,Western Australia,Oats,2017,2.275679292393557,aus_overlap,1.5603552574308155
+Australia,Western Australia,Oats,2018,2.174697479496976,aus_overlap,2.0394580637638464
+Australia,Western Australia,Oats,2019,2.154518960203672,aus_overlap,2.0780661825007116
+Australia,Western Australia,Oats,2020,1.8139937587635604,aus_overlap,1.5249831358448453
+Australia,Western Australia,Oats,2021,2.5361315892704965,aus_overlap,2.0904327799202553
+Australia,Western Australia,Wheat,2016,2.0618527102848487,aus_overlap,2.0416069195884585
+Australia,Western Australia,Wheat,2017,1.897796514990236,aus_overlap,1.6020482967557717
+Australia,Western Australia,Wheat,2018,2.28399249290488,aus_overlap,2.1153643906617527
+Australia,Western Australia,Wheat,2019,1.4136458676379102,aus_overlap,1.9196568806586127
+Australia,Western Australia,Wheat,2020,2.004029160932592,aus_overlap,1.2599518720672802
+Australia,Western Australia,Wheat,2021,2.7382649527215324,aus_overlap,2.1048884081873225
+United States,Colorado,Barley,2016,6.9402,us_overlap,6.6308243809523795
+United States,Colorado,Barley,2017,7.1016,us_overlap,6.730456857142854
+United States,Colorado,Barley,2018,7.801,us_overlap,6.334405595238088
+United States,Colorado,Barley,2019,7.4244,us_overlap,6.775546380952371
+United States,Colorado,Barley,2020,7.801,us_overlap,6.508336511904763
+United States,Colorado,Barley,2021,5.9718,us_overlap,6.552679880952385
+United States,Colorado,Oats,2016,2.8696,us_overlap,2.293780176190477
+United States,Colorado,Oats,2017,2.33155,us_overlap,2.2757911697619044
+United States,Colorado,Oats,2018,1.7935,us_overlap,2.31689489047619
+United States,Colorado,Wheat,2016,3.2414500000000004,us_overlap,2.395806392857142
+United States,Colorado,Wheat,2017,2.9052,us_overlap,2.389359669047618
+United States,Colorado,Wheat,2018,2.427725,us_overlap,2.251467814285712
+United States,Colorado,Wheat,2019,3.29525,us_overlap,2.4284196809523797
+United States,Colorado,Wheat,2020,1.81575,us_overlap,2.2695363333333325
+United States,Colorado,Wheat,2021,2.4882500000000003,us_overlap,2.329234285714285
+United States,Illinois,Oats,2016,2.90547,us_overlap,2.4983967428571403
+United States,Illinois,Oats,2017,2.83373,us_overlap,2.4977647476190477
+United States,Illinois,Oats,2018,2.97721,us_overlap,2.5258629142857143
+United States,Illinois,Oats,2019,2.33155,us_overlap,2.4680268095238094
+United States,Illinois,Oats,2020,2.08046,us_overlap,2.582657080952381
+United States,Illinois,Oats,2021,2.97721,us_overlap,2.4839804190476182
+United States,Illinois,Wheat,2016,4.976500000000001,us_overlap,4.080864499999995
+United States,Illinois,Wheat,2017,5.111000000000001,us_overlap,4.175520476190473
+United States,Illinois,Wheat,2018,4.4385,us_overlap,4.057954666666663
+United States,Illinois,Wheat,2019,4.50575,us_overlap,4.0527091666666655
+United States,Illinois,Wheat,2020,4.573,us_overlap,4.018232333333333
+United States,Illinois,Wheat,2021,5.31275,us_overlap,4.076563702380949
+United States,Iowa,Oats,2016,2.72612,us_overlap,2.5670963333333314
+United States,Iowa,Oats,2017,2.76199,us_overlap,2.610174495238097
+United States,Iowa,Oats,2018,2.25981,us_overlap,2.400352076190476
+United States,Iowa,Oats,2019,2.08046,us_overlap,2.383663985714285
+United States,Iowa,Oats,2020,2.79786,us_overlap,2.5214560285714276
+United States,Iowa,Oats,2021,2.76199,us_overlap,2.5264095047619066
+United States,Iowa,Wheat,2016,4.236750000000001,us_overlap,3.31775313095238
+United States,Iowa,Wheat,2017,4.573,us_overlap,3.4164377023809487
+United States,Iowa,Wheat,2018,3.9005,us_overlap,3.089404154761904
+United States,Kansas,Barley,2018,1.6678,us_overlap,2.0761195833333335
+United States,Kansas,Barley,2019,1.7754,us_overlap,2.3842334642857153
+United States,Kansas,Barley,2020,2.7438,us_overlap,2.23220363095238
+United States,Kansas,Barley,2021,3.5508,us_overlap,2.0701407380952377
+United States,Kansas,Canola,2016,2.174449,us_overlap,1.5712802550000005
+United States,Kansas,Canola,2017,1.479522,us_overlap,1.6120363190476177
+United States,Kansas,Canola,2018,1.076016,us_overlap,1.5805414502380957
+United States,Kansas,Canola,2019,1.2217265000000002,us_overlap,1.5563230388095242
+United States,Kansas,Canola,2020,2.0063215000000003,us_overlap,1.5278681226190465
+United States,Kansas,Canola,2021,1.34502,us_overlap,1.5663535509523814
+United States,Kansas,Oats,2016,2.04459,us_overlap,1.771687623809523
+United States,Kansas,Oats,2017,1.93698,us_overlap,2.012204514285715
+United States,Kansas,Oats,2018,1.75763,us_overlap,1.8064579900000008
+United States,Kansas,Oats,2019,2.29568,us_overlap,1.778502923809524
+United States,Kansas,Oats,2020,1.86524,us_overlap,1.9477580809523822
+United States,Kansas,Oats,2021,1.7935,us_overlap,1.8433763809523809
+United States,Kansas,Wheat,2016,3.83325,us_overlap,2.622698761904761
+United States,Kansas,Wheat,2017,3.228,us_overlap,2.5253784047619043
+United States,Kansas,Wheat,2018,2.5555000000000003,us_overlap,2.5519677738095212
+United States,Kansas,Wheat,2019,3.4970000000000003,us_overlap,2.759072154761907
+United States,Kansas,Wheat,2020,3.02625,us_overlap,2.670321369047619
+United States,Kansas,Wheat,2021,3.4970000000000003,us_overlap,2.6392166428571446
+United States,Minnesota,Barley,2016,3.5508,us_overlap,3.0212670952380973
+United States,Minnesota,Barley,2017,4.0888,us_overlap,3.2159014047619054
+United States,Minnesota,Barley,2018,4.0888,us_overlap,3.2372324642857158
+United States,Minnesota,Barley,2019,3.6046,us_overlap,2.9949947619047634
+United States,Minnesota,Barley,2020,2.5286,us_overlap,3.2956470952380954
+United States,Minnesota,Barley,2021,2.959,us_overlap,2.9526272619047593
+United States,Minnesota,Canola,2016,1.905445,us_overlap,1.7699555845238109
+United States,Minnesota,Canola,2017,2.3313680000000003,us_overlap,1.8079470621428593
+United States,Minnesota,Canola,2018,2.308951,us_overlap,1.8532667638095233
+United States,Minnesota,Canola,2019,2.5443295,us_overlap,1.7935734952380953
+United States,Minnesota,Canola,2020,1.7597345000000002,us_overlap,1.8595168369047608
+United States,Minnesota,Canola,2021,1.905445,us_overlap,1.4673260845238087
+United States,Minnesota,Oats,2016,2.43916,us_overlap,2.360297242857143
+United States,Minnesota,Oats,2017,2.69025,us_overlap,2.436881376190475
+United States,Minnesota,Oats,2018,2.11633,us_overlap,2.3665652809523796
+United States,Minnesota,Oats,2019,2.22394,us_overlap,2.2697903880952373
+United States,Minnesota,Oats,2020,2.36742,us_overlap,2.3573815119047596
+United States,Minnesota,Oats,2021,2.04459,us_overlap,2.4885922761904755
+United States,Minnesota,Wheat,2016,3.96775,us_overlap,3.414737238095237
+United States,Minnesota,Wheat,2017,4.4990250000000005,us_overlap,3.586465535714288
+United States,Minnesota,Wheat,2018,3.96775,us_overlap,3.385275976190476
+United States,Minnesota,Wheat,2019,3.83325,us_overlap,3.159776785714284
+United States,Minnesota,Wheat,2020,3.5642500000000004,us_overlap,3.524656071428571
+United States,Minnesota,Wheat,2021,3.228,us_overlap,3.4173055476190504
+United States,Montana,Barley,2016,3.228,us_overlap,2.757410119047619
+United States,Montana,Barley,2017,2.7438,us_overlap,2.436688464285716
+United States,Montana,Barley,2018,3.0128,us_overlap,2.8910742976190473
+United States,Montana,Barley,2019,3.1742,us_overlap,3.145692404761904
+United States,Montana,Barley,2020,3.3894,us_overlap,2.785059476190475
+United States,Montana,Barley,2021,2.0444,us_overlap,2.60131005952381
+United States,Montana,Canola,2016,1.8718195,us_overlap,1.7618427654761883
+United States,Montana,Canola,2017,0.963931,us_overlap,1.2439887159523793
+United States,Montana,Canola,2018,1.255352,us_overlap,1.6289953535714283
+United States,Montana,Canola,2019,1.6252325,us_overlap,1.907238182142855
+United States,Montana,Canola,2020,1.8269855,us_overlap,1.7510772680952378
+United States,Montana,Canola,2021,1.008765,us_overlap,1.349471375714284
+United States,Montana,Oats,2016,1.68589,us_overlap,1.9073957904761931
+United States,Montana,Oats,2017,1.68589,us_overlap,1.6274560619047607
+United States,Montana,Oats,2018,1.54241,us_overlap,2.013622233333335
+United States,Montana,Oats,2019,1.97285,us_overlap,2.227720550238094
+United States,Montana,Oats,2020,1.61415,us_overlap,1.8646080047619047
+United States,Montana,Oats,2021,1.25545,us_overlap,1.7977189952380939
+United States,Montana,Wheat,2016,2.8514,us_overlap,2.370114166666669
+United States,Montana,Wheat,2017,1.8359250000000005,us_overlap,2.246406190476188
+United States,Montana,Wheat,2018,2.575675,us_overlap,2.4794786785714282
+United States,Montana,Wheat,2019,2.8514,us_overlap,2.4047822688095253
+United States,Montana,Wheat,2020,2.8043250000000004,us_overlap,2.3593413571428603
+United States,Montana,Wheat,2021,1.49295,us_overlap,2.3591011785714286
+United States,Nebraska,Oats,2016,2.1522,us_overlap,2.465823366666666
+United States,Nebraska,Oats,2017,1.75763,us_overlap,2.388224599999999
+United States,Nebraska,Oats,2018,2.47503,us_overlap,2.410429838095238
+United States,Nebraska,Oats,2019,2.25981,us_overlap,2.371314457142855
+United States,Nebraska,Oats,2020,2.25981,us_overlap,2.399993376190477
+United States,Nebraska,Oats,2021,2.00872,us_overlap,2.303981342857143
+United States,Nebraska,Wheat,2016,3.6315,us_overlap,2.8690611309523817
+United States,Nebraska,Wheat,2017,3.0935,us_overlap,2.7968858690476197
+United States,Nebraska,Wheat,2018,3.29525,us_overlap,2.8720425476190474
+United States,Nebraska,Wheat,2019,3.83325,us_overlap,2.918009523809526
+United States,Nebraska,Wheat,2020,2.75725,us_overlap,2.850807559523812
+United States,Nebraska,Wheat,2021,3.29525,us_overlap,2.7175789047619077
+United States,North Dakota,Barley,2016,3.6046,us_overlap,2.941188357142856
+United States,North Dakota,Barley,2017,3.497,us_overlap,2.659282761904759
+United States,North Dakota,Barley,2018,3.9812,us_overlap,2.9623721071428535
+United States,North Dakota,Barley,2019,3.8736,us_overlap,3.0838480238095234
+United States,North Dakota,Barley,2020,3.3894,us_overlap,2.756718404761905
+United States,North Dakota,Barley,2021,2.7438,us_overlap,2.5988218095238067
+United States,North Dakota,Canola,2016,2.062364,us_overlap,1.5798594245238091
+United States,North Dakota,Canola,2017,1.79336,us_overlap,1.499638588809521
+United States,North Dakota,Canola,2018,2.196866,us_overlap,1.6332278966666656
+United States,North Dakota,Canola,2019,2.0175300000000003,us_overlap,1.7914332054761917
+United States,North Dakota,Canola,2020,2.2080745,us_overlap,1.4659223533333323
+United States,North Dakota,Canola,2021,1.501939,us_overlap,1.5469437961904744
+United States,North Dakota,Oats,2016,2.36742,us_overlap,2.200282880952381
+United States,North Dakota,Oats,2017,2.08046,us_overlap,2.2205921333333336
+United States,North Dakota,Oats,2018,2.94134,us_overlap,2.2696315476190465
+United States,North Dakota,Oats,2019,3.08482,us_overlap,2.208208442857144
+United States,North Dakota,Oats,2020,2.79786,us_overlap,2.172133471428569
+United States,North Dakota,Oats,2021,1.72176,us_overlap,2.166770052380954
+United States,North Dakota,Wheat,2016,3.02625,us_overlap,2.808052571428574
+United States,North Dakota,Wheat,2017,2.548775,us_overlap,2.827846488095239
+United States,North Dakota,Wheat,2018,3.2011000000000003,us_overlap,2.8195555238095262
+United States,North Dakota,Wheat,2019,3.2549,us_overlap,2.7902281190476215
+United States,North Dakota,Wheat,2020,3.2011000000000003,us_overlap,2.7702100357142885
+United States,North Dakota,Wheat,2021,2.1654500000000003,us_overlap,2.8766827976190488
+United States,Oklahoma,Canola,2016,1.6252325,us_overlap,1.2969328749999995
+United States,Oklahoma,Canola,2017,1.34502,us_overlap,1.2401686483333336
+United States,Oklahoma,Canola,2018,0.986348,us_overlap,1.314508097380951
+United States,Oklahoma,Canola,2019,1.5803985,us_overlap,1.4261024580952373
+United States,Oklahoma,Canola,2020,1.7149005000000002,us_overlap,1.4165215440476182
+United States,Oklahoma,Canola,2021,1.7373175,us_overlap,1.3801756349999994
+United States,Oklahoma,Oats,2016,1.54241,us_overlap,1.3699079707142836
+United States,Oklahoma,Oats,2017,1.50654,us_overlap,1.3041298940476185
+United States,Oklahoma,Oats,2018,1.72176,us_overlap,1.3245198002380933
+United States,Oklahoma,Oats,2019,1.7935,us_overlap,1.379650321666666
+United States,Oklahoma,Oats,2020,1.61415,us_overlap,1.4087337619047617
+United States,Oklahoma,Oats,2021,1.61415,us_overlap,1.3484960890476183
+United States,Oklahoma,Wheat,2016,2.6227500000000004,us_overlap,2.0707267738095267
+United States,Oklahoma,Wheat,2017,2.2865,us_overlap,1.9176049285714296
+United States,Oklahoma,Wheat,2018,1.883,us_overlap,1.86116936904762
+United States,Oklahoma,Wheat,2019,2.6900000000000004,us_overlap,2.0508239761904767
+United States,Oklahoma,Wheat,2020,2.6900000000000004,us_overlap,2.1158771428571437
+United States,Oklahoma,Wheat,2021,2.6227500000000004,us_overlap,2.09388319047619
+United States,South Dakota,Barley,2018,2.959,us_overlap,2.4724718690476166
+United States,South Dakota,Barley,2019,2.3134,us_overlap,2.7535704642857155
+United States,South Dakota,Barley,2020,2.3672,us_overlap,2.3732845238095255
+United States,South Dakota,Barley,2021,1.076,us_overlap,2.145182130952379
+United States,South Dakota,Oats,2016,2.94134,us_overlap,2.625205733333332
+United States,South Dakota,Oats,2017,2.5109,us_overlap,2.511907776190476
+United States,South Dakota,Oats,2018,2.94134,us_overlap,2.5159730428571434
+United States,South Dakota,Oats,2019,2.94134,us_overlap,2.5009588857142835
+United States,South Dakota,Oats,2020,2.76199,us_overlap,2.389898533333335
+United States,South Dakota,Oats,2021,2.40329,us_overlap,2.338382380952381
+United States,South Dakota,Wheat,2016,3.4701000000000004,us_overlap,2.8184090714285768
+United States,South Dakota,Wheat,2017,2.3403,us_overlap,2.8275742857142894
+United States,South Dakota,Wheat,2018,2.9859,us_overlap,2.779071023809526
+United States,South Dakota,Wheat,2019,3.2347250000000005,us_overlap,2.846519571428573
+United States,South Dakota,Wheat,2020,3.48355,us_overlap,2.8415366666666704
+United States,South Dakota,Wheat,2021,2.2865,us_overlap,2.6940093809523833
+United States,Texas,Oats,2016,1.7935,us_overlap,1.657091514285711
+United States,Texas,Oats,2017,1.61415,us_overlap,1.5418440642857127
+United States,Texas,Oats,2018,1.7935,us_overlap,1.657825995238092
+United States,Texas,Oats,2019,1.7935,us_overlap,1.5981536047619043
+United States,Texas,Oats,2020,1.61415,us_overlap,1.6303427428571409
+United States,Texas,Oats,2021,1.61415,us_overlap,1.4950786809523788
+United States,Texas,Wheat,2016,2.152,us_overlap,2.0993432500000018
+United States,Texas,Wheat,2017,1.95025,us_overlap,1.9361659285714308
+United States,Texas,Wheat,2018,2.152,us_overlap,1.9906064047619052
+United States,Texas,Wheat,2019,2.2865,us_overlap,1.9895015833333312
+United States,Texas,Wheat,2020,2.0175,us_overlap,1.976099619047619
+United States,Texas,Wheat,2021,2.4882500000000003,us_overlap,1.9796254404761917
+United States,Washington,Barley,2016,4.1426,us_overlap,3.6072900000000008
+United States,Washington,Barley,2017,2.8514,us_overlap,2.7827185357142876
+United States,Washington,Barley,2018,3.9274,us_overlap,3.0657737857142844
+United States,Washington,Barley,2019,3.766,us_overlap,3.354429999999999
+United States,Washington,Barley,2020,4.842,us_overlap,3.3085014523809533
+United States,Washington,Barley,2021,2.0444,us_overlap,2.8291082261904767
+United States,Washington,Canola,2016,2.2417,us_overlap,1.908869897857142
+United States,Washington,Canola,2017,1.883028,us_overlap,1.4194423135714274
+United States,Washington,Canola,2018,2.0063215000000003,us_overlap,1.5490970207142827
+United States,Washington,Canola,2019,2.1856575,us_overlap,1.976347335952379
+United States,Washington,Canola,2020,2.4994955,us_overlap,1.8768629676190456
+United States,Washington,Canola,2021,1.232935,us_overlap,1.287152115714284
+United States,Washington,Oats,2016,2.18807,us_overlap,2.5697116166666643
+United States,Washington,Oats,2017,1.50654,us_overlap,2.107618714285712
+United States,Washington,Oats,2018,1.65002,us_overlap,2.2626454380952357
+United States,Washington,Wheat,2016,4.808375000000001,us_overlap,4.113298214285718
+United States,Washington,Wheat,2017,4.47885,us_overlap,3.7631690952380916
+United States,Washington,Wheat,2018,4.7613,us_overlap,3.7881892976190414
+United States,Washington,Wheat,2019,4.351075000000001,us_overlap,3.8473212619047614
+United States,Washington,Wheat,2020,4.868900000000001,us_overlap,3.997080607142859
+United States,Washington,Wheat,2021,2.629475,us_overlap,3.5529359880952383

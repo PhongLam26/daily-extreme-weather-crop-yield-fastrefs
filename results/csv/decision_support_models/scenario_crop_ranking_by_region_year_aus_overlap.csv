@@ -1,0 +1,793 @@
+country,region,year_start,crop,predicted_yield_t_ha,rank_within_region_year
+Australia,New South Wales,1989,Barley,1.5893950485734263,2.0
+Australia,New South Wales,1989,Canola,0.9353330299887129,4.0
+Australia,New South Wales,1989,Oats,1.2201226757639894,3.0
+Australia,New South Wales,1989,Wheat,1.750052719766663,1.0
+Australia,New South Wales,1990,Barley,1.7137783458941673,2.0
+Australia,New South Wales,1990,Canola,1.2845308808510452,4.0
+Australia,New South Wales,1990,Oats,1.502703584320099,3.0
+Australia,New South Wales,1990,Wheat,1.926017595599198,1.0
+Australia,New South Wales,1991,Barley,1.4806908711488793,2.0
+Australia,New South Wales,1991,Canola,1.05087622750948,4.0
+Australia,New South Wales,1991,Oats,1.269277483326078,3.0
+Australia,New South Wales,1991,Wheat,1.5097834149768417,1.0
+Australia,New South Wales,1992,Barley,2.023884362847094,2.0
+Australia,New South Wales,1992,Canola,1.0591946473492735,4.0
+Australia,New South Wales,1992,Oats,1.3800371498284576,3.0
+Australia,New South Wales,1992,Wheat,2.315002165226245,1.0
+Australia,New South Wales,1993,Barley,2.651780050468985,2.0
+Australia,New South Wales,1993,Canola,1.7662763023653236,3.0
+Australia,New South Wales,1993,Oats,1.671540833138587,4.0
+Australia,New South Wales,1993,Wheat,2.709071660243726,1.0
+Australia,New South Wales,1994,Barley,0.7125419316911639,1.0
+Australia,New South Wales,1994,Canola,0.3607215220561565,4.0
+Australia,New South Wales,1994,Oats,0.4268634463931019,3.0
+Australia,New South Wales,1994,Wheat,0.6454525384228157,2.0
+Australia,New South Wales,1995,Barley,1.837404861646209,2.0
+Australia,New South Wales,1995,Canola,1.3894637627239896,4.0
+Australia,New South Wales,1995,Oats,1.5530252815036911,3.0
+Australia,New South Wales,1995,Wheat,1.9694764781528777,1.0
+Australia,New South Wales,1996,Barley,2.265830964762479,2.0
+Australia,New South Wales,1996,Canola,1.660108389483572,4.0
+Australia,New South Wales,1996,Oats,1.814747384435453,3.0
+Australia,New South Wales,1996,Wheat,2.5621706698761155,1.0
+Australia,New South Wales,1997,Barley,1.9049141215601293,2.0
+Australia,New South Wales,1997,Canola,1.3478058567633495,4.0
+Australia,New South Wales,1997,Oats,1.479210655320956,3.0
+Australia,New South Wales,1997,Wheat,2.0937890357272844,1.0
+Australia,New South Wales,1998,Barley,2.0253878963875773,2.0
+Australia,New South Wales,1998,Canola,1.5425637145133815,4.0
+Australia,New South Wales,1998,Oats,1.7367289197710494,3.0
+Australia,New South Wales,1998,Wheat,2.121865660452644,1.0
+Australia,New South Wales,1999,Barley,2.336564447153841,2.0
+Australia,New South Wales,1999,Canola,1.3838995213708103,4.0
+Australia,New South Wales,1999,Oats,1.7325814148528196,3.0
+Australia,New South Wales,1999,Wheat,2.497938121979641,1.0
+Australia,New South Wales,2000,Barley,1.9749597848362048,2.0
+Australia,New South Wales,2000,Canola,1.441641977014298,4.0
+Australia,New South Wales,2000,Oats,1.6236992724874175,3.0
+Australia,New South Wales,2000,Wheat,2.1469124358042864,1.0
+Australia,New South Wales,2001,Barley,1.9736146153217524,2.0
+Australia,New South Wales,2001,Canola,1.3080699345461897,4.0
+Australia,New South Wales,2001,Oats,1.5940090145729087,3.0
+Australia,New South Wales,2001,Wheat,2.033056797554967,1.0
+Australia,New South Wales,2002,Barley,0.674546897230268,2.0
+Australia,New South Wales,2002,Canola,0.2267848743125681,4.0
+Australia,New South Wales,2002,Oats,0.4206126928676648,3.0
+Australia,New South Wales,2002,Wheat,0.8562492046831454,1.0
+Australia,New South Wales,2003,Barley,1.8282225508043004,2.0
+Australia,New South Wales,2003,Canola,1.0589122852857682,4.0
+Australia,New South Wales,2003,Oats,1.358354834877302,3.0
+Australia,New South Wales,2003,Wheat,1.9933802504141522,1.0
+Australia,New South Wales,2004,Barley,1.6259056678821275,2.0
+Australia,New South Wales,2004,Canola,1.0460531405036628,4.0
+Australia,New South Wales,2004,Oats,1.212291189992682,3.0
+Australia,New South Wales,2004,Wheat,1.777174734446975,1.0
+Australia,New South Wales,2005,Barley,2.120589128973182,2.0
+Australia,New South Wales,2005,Canola,1.3534818630765055,4.0
+Australia,New South Wales,2005,Oats,1.6309439153014178,3.0
+Australia,New South Wales,2005,Wheat,2.1308237367791207,1.0
+Australia,New South Wales,2006,Barley,0.773392236150725,1.0
+Australia,New South Wales,2006,Canola,0.24458509515999394,4.0
+Australia,New South Wales,2006,Oats,0.264187253194448,3.0
+Australia,New South Wales,2006,Wheat,0.6582030038272642,2.0
+Australia,New South Wales,2007,Barley,0.7205810743820715,1.0
+Australia,New South Wales,2007,Canola,0.30444052476484984,4.0
+Australia,New South Wales,2007,Oats,0.3885624982990863,3.0
+Australia,New South Wales,2007,Wheat,0.6188777798955439,2.0
+Australia,New South Wales,2008,Barley,1.460276415844056,1.0
+Australia,New South Wales,2008,Canola,0.7736581097722706,4.0
+Australia,New South Wales,2008,Oats,1.1094019618080915,3.0
+Australia,New South Wales,2008,Wheat,1.4222466248242274,2.0
+Australia,New South Wales,2009,Barley,1.2918121663205975,2.0
+Australia,New South Wales,2009,Canola,0.7633156726518688,4.0
+Australia,New South Wales,2009,Oats,0.894397159934936,3.0
+Australia,New South Wales,2009,Wheat,1.458816066705093,1.0
+Australia,New South Wales,2010,Barley,2.4558321719411706,2.0
+Australia,New South Wales,2010,Canola,1.6201236010247109,4.0
+Australia,New South Wales,2010,Oats,1.7258678909420035,3.0
+Australia,New South Wales,2010,Wheat,2.57925764983033,1.0
+Australia,New South Wales,2011,Barley,2.1048823797066953,2.0
+Australia,New South Wales,2011,Canola,1.2077128732068139,4.0
+Australia,New South Wales,2011,Oats,1.3802868225400775,3.0
+Australia,New South Wales,2011,Wheat,2.1958382474304887,1.0
+Australia,New South Wales,2012,Barley,2.054124040528902,1.0
+Australia,New South Wales,2012,Canola,1.4187756306483188,4.0
+Australia,New South Wales,2012,Oats,1.6368000936748677,3.0
+Australia,New South Wales,2012,Wheat,2.0284650561694813,2.0
+Australia,New South Wales,2013,Barley,1.9672702246325986,2.0
+Australia,New South Wales,2013,Canola,1.0514166444224398,4.0
+Australia,New South Wales,2013,Oats,1.3666789913417001,3.0
+Australia,New South Wales,2013,Wheat,2.0785729729914735,1.0
+Australia,New South Wales,2014,Barley,2.078078373232147,2.0
+Australia,New South Wales,2014,Canola,1.3586719429021539,4.0
+Australia,New South Wales,2014,Oats,1.7123609469922296,3.0
+Australia,New South Wales,2014,Wheat,2.1809532326992356,1.0
+Australia,New South Wales,2015,Barley,2.319128536680908,2.0
+Australia,New South Wales,2015,Canola,1.5120917103033744,4.0
+Australia,New South Wales,2015,Oats,1.7024947376422184,3.0
+Australia,New South Wales,2015,Wheat,2.3864299121020345,1.0
+Australia,New South Wales,2016,Barley,2.9992794322854914,2.0
+Australia,New South Wales,2016,Canola,1.6436109386641002,4.0
+Australia,New South Wales,2016,Oats,2.0873675545310837,3.0
+Australia,New South Wales,2016,Wheat,3.2153840573006383,1.0
+Australia,New South Wales,2017,Barley,1.2288407761889517,1.0
+Australia,New South Wales,2017,Canola,0.7738403534561578,4.0
+Australia,New South Wales,2017,Oats,0.8417685404410156,3.0
+Australia,New South Wales,2017,Wheat,0.924244876902393,2.0
+Australia,New South Wales,2018,Barley,1.196349839202669,2.0
+Australia,New South Wales,2018,Canola,0.732146133345803,4.0
+Australia,New South Wales,2018,Oats,0.9582539268092135,3.0
+Australia,New South Wales,2018,Wheat,1.3315972436950918,1.0
+Australia,New South Wales,2019,Barley,1.5266549663707631,2.0
+Australia,New South Wales,2019,Canola,0.8947730547293752,4.0
+Australia,New South Wales,2019,Oats,1.1413487987975848,3.0
+Australia,New South Wales,2019,Wheat,1.7192949454929531,1.0
+Australia,New South Wales,2020,Barley,2.216729891001944,2.0
+Australia,New South Wales,2020,Canola,1.3270832844577474,4.0
+Australia,New South Wales,2020,Oats,1.6257811302255625,3.0
+Australia,New South Wales,2020,Wheat,2.354917822829547,1.0
+Australia,New South Wales,2021,Barley,1.5898310439361287,2.0
+Australia,New South Wales,2021,Canola,0.9257952008050705,4.0
+Australia,New South Wales,2021,Oats,1.1430498421480164,3.0
+Australia,New South Wales,2021,Wheat,1.7047136989405514,1.0
+Australia,Queensland,1989,Barley,1.7592847730165928,1.0
+Australia,Queensland,1989,Canola,1.000468294338862,3.0
+Australia,Queensland,1989,Oats,0.9630011540806438,4.0
+Australia,Queensland,1989,Wheat,1.7387496983779476,2.0
+Australia,Queensland,1990,Barley,2.074640494053189,1.0
+Australia,Queensland,1990,Canola,1.1881266741058052,3.0
+Australia,Queensland,1990,Oats,1.1227360508622373,4.0
+Australia,Queensland,1990,Wheat,2.0110433155032315,2.0
+Australia,Queensland,1991,Barley,0.9066860992267889,1.0
+Australia,Queensland,1991,Canola,0.12438548365728574,3.0
+Australia,Queensland,1991,Oats,0.10992909183780086,4.0
+Australia,Queensland,1991,Wheat,0.7824953018316279,2.0
+Australia,Queensland,1992,Barley,1.4329274963828469,1.0
+Australia,Queensland,1992,Canola,0.6351873378140025,4.0
+Australia,Queensland,1992,Oats,0.665536189428628,3.0
+Australia,Queensland,1992,Wheat,1.311663155539969,2.0
+Australia,Queensland,1993,Barley,1.2225291666262,1.0
+Australia,Queensland,1993,Canola,0.4185309385339131,3.0
+Australia,Queensland,1993,Oats,0.38641285469652553,4.0
+Australia,Queensland,1993,Wheat,1.1881541279778598,2.0
+Australia,Queensland,1994,Barley,0.7218611983434369,1.0
+Australia,Queensland,1994,Canola,0.1217973597618045,4.0
+Australia,Queensland,1994,Oats,0.22933401447467605,3.0
+Australia,Queensland,1994,Wheat,0.7080562732673341,2.0
+Australia,Queensland,1995,Barley,1.2065805615945713,1.0
+Australia,Queensland,1995,Canola,0.41243025530552746,4.0
+Australia,Queensland,1995,Oats,0.48182273232094763,3.0
+Australia,Queensland,1995,Wheat,1.037272505974748,2.0
+Australia,Queensland,1996,Barley,2.087203730113666,2.0
+Australia,Queensland,1996,Canola,0.9321166549553499,4.0
+Australia,Queensland,1996,Oats,1.018123966213839,3.0
+Australia,Queensland,1996,Wheat,2.239956326301617,1.0
+Australia,Queensland,1997,Barley,1.5295803868783733,2.0
+Australia,Queensland,1997,Canola,0.8053950941399335,4.0
+Australia,Queensland,1997,Oats,0.8217243285884446,3.0
+Australia,Queensland,1997,Wheat,1.5405312206454633,1.0
+Australia,Queensland,1998,Barley,1.8658075981493354,2.0
+Australia,Queensland,1998,Canola,1.0335608790567878,3.0
+Australia,Queensland,1998,Oats,0.9580780615543073,4.0
+Australia,Queensland,1998,Wheat,2.0561556829557657,1.0
+Australia,Queensland,1999,Barley,1.9707935987002088,1.0
+Australia,Queensland,1999,Canola,1.1896677258849835,3.0
+Australia,Queensland,1999,Oats,1.1383202878200098,4.0
+Australia,Queensland,1999,Wheat,1.9115444338795287,2.0
+Australia,Queensland,2000,Barley,1.2718362460601895,2.0
+Australia,Queensland,2000,Canola,0.4852259958996763,3.0
+Australia,Queensland,2000,Oats,0.34497955916721557,4.0
+Australia,Queensland,2000,Wheat,1.2987304136897129,1.0
+Australia,Queensland,2001,Barley,1.7994352846575639,1.0
+Australia,Queensland,2001,Canola,1.1056236837011792,3.0
+Australia,Queensland,2001,Oats,0.869762473849589,4.0
+Australia,Queensland,2001,Wheat,1.6097493876767637,2.0
+Australia,Queensland,2002,Barley,1.2251256170193099,2.0
+Australia,Queensland,2002,Canola,0.6868972209511677,3.0
+Australia,Queensland,2002,Oats,0.4222473122796364,4.0
+Australia,Queensland,2002,Wheat,1.2718756110055716,1.0
+Australia,Queensland,2003,Barley,1.4350733517697531,2.0
+Australia,Queensland,2003,Canola,0.6832506921144195,3.0
+Australia,Queensland,2003,Oats,0.5286695578763394,4.0
+Australia,Queensland,2003,Wheat,1.502324555185371,1.0
+Australia,Queensland,2004,Barley,1.4890681697548864,2.0
+Australia,Queensland,2004,Canola,0.7794803620046971,3.0
+Australia,Queensland,2004,Oats,0.6410471612932434,4.0
+Australia,Queensland,2004,Wheat,1.594471266140064,1.0
+Australia,Queensland,2005,Barley,1.5422334680118186,2.0
+Australia,Queensland,2005,Canola,0.6101990796399883,3.0
+Australia,Queensland,2005,Oats,0.5883990505979579,4.0
+Australia,Queensland,2005,Wheat,1.6584066572537142,1.0
+Australia,Queensland,2006,Barley,1.1457813096871423,1.0
+Australia,Queensland,2006,Canola,0.4221795270011701,3.0
+Australia,Queensland,2006,Oats,0.21325076870136983,4.0
+Australia,Queensland,2006,Wheat,1.143338041416196,2.0
+Australia,Queensland,2007,Barley,1.265712251402818,1.0
+Australia,Queensland,2007,Canola,0.49698091441556724,3.0
+Australia,Queensland,2007,Oats,0.3898352174673454,4.0
+Australia,Queensland,2007,Wheat,1.236552219232219,2.0
+Australia,Queensland,2008,Barley,1.906855134413664,2.0
+Australia,Queensland,2008,Canola,0.9798792268234103,3.0
+Australia,Queensland,2008,Oats,0.9205064874123583,4.0
+Australia,Queensland,2008,Wheat,1.9852623047707292,1.0
+Australia,Queensland,2009,Barley,1.6096304330743683,1.0
+Australia,Queensland,2009,Canola,0.6517356134748411,3.0
+Australia,Queensland,2009,Oats,0.5551575037566283,4.0
+Australia,Queensland,2009,Wheat,1.539308624251965,2.0
+Australia,Queensland,2010,Barley,1.787371557991825,2.0
+Australia,Queensland,2010,Canola,1.0325847613164894,3.0
+Australia,Queensland,2010,Oats,0.8667313959781229,4.0
+Australia,Queensland,2010,Wheat,1.9144008495731895,1.0
+Australia,Queensland,2011,Barley,2.2793479372484793,2.0
+Australia,Queensland,2011,Canola,1.265902762335492,3.0
+Australia,Queensland,2011,Oats,1.2502770252563264,4.0
+Australia,Queensland,2011,Wheat,2.290250824293473,1.0
+Australia,Queensland,2012,Barley,1.865844704401015,2.0
+Australia,Queensland,2012,Canola,0.8454383878868033,3.0
+Australia,Queensland,2012,Oats,0.6354867303579788,4.0
+Australia,Queensland,2012,Wheat,1.8840764802817975,1.0
+Australia,Queensland,2013,Barley,1.5621777937146741,2.0
+Australia,Queensland,2013,Canola,0.4790457482826027,3.0
+Australia,Queensland,2013,Oats,0.3494248370161819,4.0
+Australia,Queensland,2013,Wheat,1.5933421986035177,1.0
+Australia,Queensland,2014,Barley,1.45492913042468,1.0
+Australia,Queensland,2014,Canola,0.8106778791498322,3.0
+Australia,Queensland,2014,Oats,0.695375221418983,4.0
+Australia,Queensland,2014,Wheat,1.437297483871669,2.0
+Australia,Queensland,2015,Barley,2.3962660828036624,1.0
+Australia,Queensland,2015,Canola,1.344849549200186,3.0
+Australia,Queensland,2015,Oats,1.2491212579907984,4.0
+Australia,Queensland,2015,Wheat,2.3825442950114297,2.0
+Australia,Queensland,2016,Barley,1.7552356241374654,2.0
+Australia,Queensland,2016,Canola,0.8438616747030703,3.0
+Australia,Queensland,2016,Oats,0.821190632775896,4.0
+Australia,Queensland,2016,Wheat,1.9179027939522968,1.0
+Australia,Queensland,2017,Barley,0.944854718904508,2.0
+Australia,Queensland,2017,Canola,0.2874443906482036,3.0
+Australia,Queensland,2017,Oats,0.1758117208687222,4.0
+Australia,Queensland,2017,Wheat,1.0024560363309176,1.0
+Australia,Queensland,2018,Barley,2.0901422852927753,2.0
+Australia,Queensland,2018,Canola,1.5724089755014026,3.0
+Australia,Queensland,2018,Oats,1.5519589394585274,4.0
+Australia,Queensland,2018,Wheat,2.144771614174546,1.0
+Australia,Queensland,2019,Barley,0.6642179143573137,2.0
+Australia,Queensland,2019,Canola,0.11398648414137313,3.0
+Australia,Queensland,2019,Oats,-0.07682501245831674,4.0
+Australia,Queensland,2019,Wheat,0.7586673657134542,1.0
+Australia,Queensland,2020,Barley,0.6689224295358182,2.0
+Australia,Queensland,2020,Canola,-0.2234166770594601,4.0
+Australia,Queensland,2020,Oats,-0.21024926191803606,3.0
+Australia,Queensland,2020,Wheat,0.81973069119971,1.0
+Australia,Queensland,2021,Barley,2.207163496502054,1.0
+Australia,Queensland,2021,Canola,1.156525096401739,4.0
+Australia,Queensland,2021,Oats,1.2185804570381407,3.0
+Australia,Queensland,2021,Wheat,2.1986600432951837,2.0
+Australia,South Australia,1989,Barley,1.8731757977055554,1.0
+Australia,South Australia,1989,Canola,1.4836571994326937,3.0
+Australia,South Australia,1989,Oats,1.4306484922734641,4.0
+Australia,South Australia,1989,Wheat,1.7270503400106116,2.0
+Australia,South Australia,1990,Barley,1.6020652609108026,1.0
+Australia,South Australia,1990,Canola,1.0005947433820548,4.0
+Australia,South Australia,1990,Oats,1.149219617049895,3.0
+Australia,South Australia,1990,Wheat,1.293903888466391,2.0
+Australia,South Australia,1991,Barley,1.8502590306419102,1.0
+Australia,South Australia,1991,Canola,1.4653045404934473,3.0
+Australia,South Australia,1991,Oats,1.4051871478825353,4.0
+Australia,South Australia,1991,Wheat,1.5865683844344094,2.0
+Australia,South Australia,1992,Barley,1.8258598229849,1.0
+Australia,South Australia,1992,Canola,1.3439891613138621,4.0
+Australia,South Australia,1992,Oats,1.3581387538231928,3.0
+Australia,South Australia,1992,Wheat,1.8105959555206057,2.0
+Australia,South Australia,1993,Barley,1.8834429005794318,1.0
+Australia,South Australia,1993,Canola,1.2266665130933336,4.0
+Australia,South Australia,1993,Oats,1.3026971275518873,3.0
+Australia,South Australia,1993,Wheat,1.8333204269952015,2.0
+Australia,South Australia,1994,Barley,1.116792586346456,1.0
+Australia,South Australia,1994,Canola,0.9762507663359619,3.0
+Australia,South Australia,1994,Oats,1.0480069849333904,2.0
+Australia,South Australia,1994,Wheat,0.8191196801437658,4.0
+Australia,South Australia,1995,Barley,2.0657998955210948,1.0
+Australia,South Australia,1995,Canola,1.4087136282684682,4.0
+Australia,South Australia,1995,Oats,1.460273241069575,3.0
+Australia,South Australia,1995,Wheat,1.9098909876164745,2.0
+Australia,South Australia,1996,Barley,1.878385545898703,1.0
+Australia,South Australia,1996,Canola,1.3387691074745829,3.0
+Australia,South Australia,1996,Oats,1.3063614439391211,4.0
+Australia,South Australia,1996,Wheat,1.843789142170117,2.0
+Australia,South Australia,1997,Barley,2.0597029014388175,1.0
+Australia,South Australia,1997,Canola,1.3286031133855138,3.0
+Australia,South Australia,1997,Oats,1.3171073626139906,4.0
+Australia,South Australia,1997,Wheat,1.897712981677625,2.0
+Australia,South Australia,1998,Barley,2.109793319290131,1.0
+Australia,South Australia,1998,Canola,1.4103567600508446,4.0
+Australia,South Australia,1998,Oats,1.5674212694578815,3.0
+Australia,South Australia,1998,Wheat,1.9722814863857947,2.0
+Australia,South Australia,1999,Barley,1.6125234514478632,1.0
+Australia,South Australia,1999,Canola,0.9714440714089121,4.0
+Australia,South Australia,1999,Oats,1.0773531648741206,3.0
+Australia,South Australia,1999,Wheat,1.4609291733550855,2.0
+Australia,South Australia,2000,Barley,2.1972235478513884,1.0
+Australia,South Australia,2000,Canola,1.5224113966139328,4.0
+Australia,South Australia,2000,Oats,1.6023485953841183,3.0
+Australia,South Australia,2000,Wheat,2.025857370780707,2.0
+Australia,South Australia,2001,Barley,2.454007176714261,1.0
+Australia,South Australia,2001,Canola,1.725674109801359,4.0
+Australia,South Australia,2001,Oats,1.9715012798487443,3.0
+Australia,South Australia,2001,Wheat,2.2623009343495557,2.0
+Australia,South Australia,2002,Barley,1.1824681354428261,1.0
+Australia,South Australia,2002,Canola,0.8637010848919746,4.0
+Australia,South Australia,2002,Oats,0.8851223036659133,3.0
+Australia,South Australia,2002,Wheat,1.0519638117953836,2.0
+Australia,South Australia,2003,Barley,2.0179893539346523,1.0
+Australia,South Australia,2003,Canola,1.4968363767474995,4.0
+Australia,South Australia,2003,Oats,1.58202963082484,3.0
+Australia,South Australia,2003,Wheat,1.9132101843649474,2.0
+Australia,South Australia,2004,Barley,1.5334896373675007,1.0
+Australia,South Australia,2004,Canola,1.1313679758693242,4.0
+Australia,South Australia,2004,Oats,1.192530324268159,3.0
+Australia,South Australia,2004,Wheat,1.3974103300371141,2.0
+Australia,South Australia,2005,Barley,2.1782384042339054,1.0
+Australia,South Australia,2005,Canola,1.4692525236959963,4.0
+Australia,South Australia,2005,Oats,1.683172882129152,3.0
+Australia,South Australia,2005,Wheat,1.9090173344893988,2.0
+Australia,South Australia,2006,Barley,0.8513465086539609,1.0
+Australia,South Australia,2006,Canola,0.40633078496689856,4.0
+Australia,South Australia,2006,Oats,0.5336107829325918,3.0
+Australia,South Australia,2006,Wheat,0.6764360798035393,2.0
+Australia,South Australia,2007,Barley,1.3702337225053591,1.0
+Australia,South Australia,2007,Canola,0.6167368295169458,4.0
+Australia,South Australia,2007,Oats,0.9436570500700481,3.0
+Australia,South Australia,2007,Wheat,1.2387477284369595,2.0
+Australia,South Australia,2008,Barley,1.4898591428182397,1.0
+Australia,South Australia,2008,Canola,0.9787891532549233,3.0
+Australia,South Australia,2008,Oats,0.9771380909228289,4.0
+Australia,South Australia,2008,Wheat,1.1706210741709973,2.0
+Australia,South Australia,2009,Barley,2.0500288533574578,1.0
+Australia,South Australia,2009,Canola,1.516361798316481,4.0
+Australia,South Australia,2009,Oats,1.5473478435471268,3.0
+Australia,South Australia,2009,Wheat,1.8794786968570765,2.0
+Australia,South Australia,2010,Barley,2.630255558707548,1.0
+Australia,South Australia,2010,Canola,1.7020676574755707,4.0
+Australia,South Australia,2010,Oats,1.8380648463317144,3.0
+Australia,South Australia,2010,Wheat,2.517858717027427,2.0
+Australia,South Australia,2011,Barley,2.0939708554651046,1.0
+Australia,South Australia,2011,Canola,1.396498926897077,4.0
+Australia,South Australia,2011,Oats,1.4739510977959898,3.0
+Australia,South Australia,2011,Wheat,1.8903283227381735,2.0
+Australia,South Australia,2012,Barley,1.9107505596455343,1.0
+Australia,South Australia,2012,Canola,1.2276856165275973,4.0
+Australia,South Australia,2012,Oats,1.4677295522847829,3.0
+Australia,South Australia,2012,Wheat,1.6491113616035087,2.0
+Australia,South Australia,2013,Barley,2.3215493191057215,1.0
+Australia,South Australia,2013,Canola,1.551441944164422,4.0
+Australia,South Australia,2013,Oats,1.8817535265281429,3.0
+Australia,South Australia,2013,Wheat,2.1589811769022313,2.0
+Australia,South Australia,2014,Barley,2.1330357843389827,2.0
+Australia,South Australia,2014,Canola,1.3598141001317845,4.0
+Australia,South Australia,2014,Oats,1.7362686556299243,3.0
+Australia,South Australia,2014,Wheat,2.1438043847247013,1.0
+Australia,South Australia,2015,Barley,2.0843884534890504,1.0
+Australia,South Australia,2015,Canola,1.367182778586969,4.0
+Australia,South Australia,2015,Oats,1.6879558072816787,3.0
+Australia,South Australia,2015,Wheat,2.0091503714146848,2.0
+Australia,South Australia,2016,Barley,2.5436719427235577,1.0
+Australia,South Australia,2016,Canola,1.8568601953310686,4.0
+Australia,South Australia,2016,Oats,2.0393207924854577,3.0
+Australia,South Australia,2016,Wheat,2.4856901702097307,2.0
+Australia,South Australia,2017,Barley,1.6330279277695647,1.0
+Australia,South Australia,2017,Canola,1.1262505552746171,4.0
+Australia,South Australia,2017,Oats,1.2144619719894598,3.0
+Australia,South Australia,2017,Wheat,1.4220652561366078,2.0
+Australia,South Australia,2018,Barley,1.8767218055505075,1.0
+Australia,South Australia,2018,Canola,1.131554310819725,4.0
+Australia,South Australia,2018,Oats,1.4690302377499485,3.0
+Australia,South Australia,2018,Wheat,1.783335110467328,2.0
+Australia,South Australia,2019,Barley,2.670477077841648,2.0
+Australia,South Australia,2019,Canola,1.708216801704536,4.0
+Australia,South Australia,2019,Oats,2.09471706332996,3.0
+Australia,South Australia,2019,Wheat,2.6849775437122476,1.0
+Australia,South Australia,2020,Barley,2.040236011703721,1.0
+Australia,South Australia,2020,Canola,1.2405879538160351,4.0
+Australia,South Australia,2020,Oats,1.6295464850738568,3.0
+Australia,South Australia,2020,Wheat,1.8866410925624115,2.0
+Australia,South Australia,2021,Barley,2.1099978632640397,1.0
+Australia,South Australia,2021,Canola,1.494419819250831,4.0
+Australia,South Australia,2021,Oats,1.6805065392540166,3.0
+Australia,South Australia,2021,Wheat,1.928775749150541,2.0
+Australia,Tasmania,1989,Barley,2.6916679665881595,2.0
+Australia,Tasmania,1989,Canola,1.3404983115767914,4.0
+Australia,Tasmania,1989,Oats,1.7278047405701098,3.0
+Australia,Tasmania,1989,Wheat,3.4552808435143554,1.0
+Australia,Tasmania,1990,Barley,2.8773212636788115,2.0
+Australia,Tasmania,1990,Canola,1.2995062438251652,4.0
+Australia,Tasmania,1990,Oats,1.8058605518342599,3.0
+Australia,Tasmania,1990,Wheat,3.7818126799674934,1.0
+Australia,Tasmania,1991,Barley,2.4462203509218208,2.0
+Australia,Tasmania,1991,Canola,1.1403965723693765,4.0
+Australia,Tasmania,1991,Oats,1.5196965231447892,3.0
+Australia,Tasmania,1991,Wheat,3.148635831291294,1.0
+Australia,Tasmania,1992,Barley,2.9920976079498613,2.0
+Australia,Tasmania,1992,Canola,1.5325923188347657,4.0
+Australia,Tasmania,1992,Oats,1.8785051097357657,3.0
+Australia,Tasmania,1992,Wheat,3.7169388284195293,1.0
+Australia,Tasmania,1993,Barley,2.901553800750386,2.0
+Australia,Tasmania,1993,Canola,1.3401914578814418,4.0
+Australia,Tasmania,1993,Oats,1.8286637776080679,3.0
+Australia,Tasmania,1993,Wheat,3.707444680200531,1.0
+Australia,Tasmania,1994,Barley,1.890533863324187,2.0
+Australia,Tasmania,1994,Canola,0.5565847786899831,4.0
+Australia,Tasmania,1994,Oats,0.9641579476681296,3.0
+Australia,Tasmania,1994,Wheat,2.740465688712339,1.0
+Australia,Tasmania,1995,Barley,2.921385093224652,2.0
+Australia,Tasmania,1995,Canola,1.3907922996033597,4.0
+Australia,Tasmania,1995,Oats,1.8839888223311545,3.0
+Australia,Tasmania,1995,Wheat,3.7466043502376376,1.0
+Australia,Tasmania,1996,Barley,2.726913601026869,2.0
+Australia,Tasmania,1996,Canola,1.4059162213779801,4.0
+Australia,Tasmania,1996,Oats,1.8697951032223343,3.0
+Australia,Tasmania,1996,Wheat,3.501377793756599,1.0
+Australia,Tasmania,1997,Barley,2.624677597797393,2.0
+Australia,Tasmania,1997,Canola,1.3145115747935585,4.0
+Australia,Tasmania,1997,Oats,1.7113595872762584,3.0
+Australia,Tasmania,1997,Wheat,3.4571957470028787,1.0
+Australia,Tasmania,1998,Barley,3.0060386409411057,2.0
+Australia,Tasmania,1998,Canola,1.7359632674843246,4.0
+Australia,Tasmania,1998,Oats,2.091033621924108,3.0
+Australia,Tasmania,1998,Wheat,3.813924559472622,1.0
+Australia,Tasmania,1999,Barley,2.629380501728318,2.0
+Australia,Tasmania,1999,Canola,1.4083940655657272,4.0
+Australia,Tasmania,1999,Oats,1.7095505142130798,3.0
+Australia,Tasmania,1999,Wheat,3.400804860032517,1.0
+Australia,Tasmania,2000,Barley,2.8692908183151147,2.0
+Australia,Tasmania,2000,Canola,1.4529253051138684,4.0
+Australia,Tasmania,2000,Oats,1.8849423275958208,3.0
+Australia,Tasmania,2000,Wheat,3.475501850096949,1.0
+Australia,Tasmania,2001,Barley,3.4670074699932814,2.0
+Australia,Tasmania,2001,Canola,1.7707345357535433,4.0
+Australia,Tasmania,2001,Oats,2.1990091678111208,3.0
+Australia,Tasmania,2001,Wheat,4.336664313605461,1.0
+Australia,Tasmania,2002,Barley,2.884836238708533,2.0
+Australia,Tasmania,2002,Canola,1.6124995614839948,4.0
+Australia,Tasmania,2002,Oats,1.9440820176007607,3.0
+Australia,Tasmania,2002,Wheat,3.6298280707750115,1.0
+Australia,Tasmania,2003,Barley,2.9792452030038303,2.0
+Australia,Tasmania,2003,Canola,1.3850859441142334,4.0
+Australia,Tasmania,2003,Oats,1.7380596345103314,3.0
+Australia,Tasmania,2003,Wheat,3.790763518605573,1.0
+Australia,Tasmania,2004,Barley,3.6467529825968885,2.0
+Australia,Tasmania,2004,Canola,1.963476313375544,4.0
+Australia,Tasmania,2004,Oats,2.4035289197544074,3.0
+Australia,Tasmania,2004,Wheat,4.41165394386173,1.0
+Australia,Tasmania,2005,Barley,3.4018097822841726,2.0
+Australia,Tasmania,2005,Canola,1.9196537077173526,4.0
+Australia,Tasmania,2005,Oats,2.362667718831611,3.0
+Australia,Tasmania,2005,Wheat,4.121714659522425,1.0
+Australia,Tasmania,2006,Barley,2.1549374203846376,2.0
+Australia,Tasmania,2006,Canola,0.5706318003754947,4.0
+Australia,Tasmania,2006,Oats,0.9918064343396107,3.0
+Australia,Tasmania,2006,Wheat,2.859811160031322,1.0
+Australia,Tasmania,2007,Barley,3.0778828105729588,2.0
+Australia,Tasmania,2007,Canola,1.4514821728387393,4.0
+Australia,Tasmania,2007,Oats,1.9076904180487717,3.0
+Australia,Tasmania,2007,Wheat,3.8018195641670394,1.0
+Australia,Tasmania,2008,Barley,2.9599556570590346,2.0
+Australia,Tasmania,2008,Canola,1.4896163269162448,4.0
+Australia,Tasmania,2008,Oats,1.9628400471080696,3.0
+Australia,Tasmania,2008,Wheat,3.794657835111467,1.0
+Australia,Tasmania,2009,Barley,3.226732767589062,2.0
+Australia,Tasmania,2009,Canola,1.6778620610598223,4.0
+Australia,Tasmania,2009,Oats,2.091704650076072,3.0
+Australia,Tasmania,2009,Wheat,3.9301279053302167,1.0
+Australia,Tasmania,2010,Barley,3.5151726679997344,2.0
+Australia,Tasmania,2010,Canola,1.8931659123787086,4.0
+Australia,Tasmania,2010,Oats,2.23559102957494,3.0
+Australia,Tasmania,2010,Wheat,4.284226685923915,1.0
+Australia,Tasmania,2011,Barley,3.6213176926813873,2.0
+Australia,Tasmania,2011,Canola,1.8299094431306082,4.0
+Australia,Tasmania,2011,Oats,2.4038185609208353,3.0
+Australia,Tasmania,2011,Wheat,4.519535799589375,1.0
+Australia,Tasmania,2012,Barley,3.2624762997755177,2.0
+Australia,Tasmania,2012,Canola,1.63241263812867,4.0
+Australia,Tasmania,2012,Oats,2.092780888399312,3.0
+Australia,Tasmania,2012,Wheat,4.025749040639616,1.0
+Australia,Tasmania,2013,Barley,4.066926125754352,2.0
+Australia,Tasmania,2013,Canola,2.5321698142465126,4.0
+Australia,Tasmania,2013,Oats,2.9399411961077524,3.0
+Australia,Tasmania,2013,Wheat,4.776638388510535,1.0
+Australia,Tasmania,2014,Barley,3.526401559645569,2.0
+Australia,Tasmania,2014,Canola,1.8944908409662349,4.0
+Australia,Tasmania,2014,Oats,2.3859158293518608,3.0
+Australia,Tasmania,2014,Wheat,4.413817735428664,1.0
+Australia,Tasmania,2015,Barley,3.131362470582041,2.0
+Australia,Tasmania,2015,Canola,1.7571860597801932,4.0
+Australia,Tasmania,2015,Oats,2.2695679542503866,3.0
+Australia,Tasmania,2015,Wheat,3.8849880409152986,1.0
+Australia,Tasmania,2016,Barley,4.251919133905463,2.0
+Australia,Tasmania,2016,Canola,2.746575068782957,4.0
+Australia,Tasmania,2016,Oats,3.3049778401875667,3.0
+Australia,Tasmania,2016,Wheat,4.8919541324454,1.0
+Australia,Tasmania,2017,Barley,3.4068504160756268,2.0
+Australia,Tasmania,2017,Canola,1.9067546495935412,4.0
+Australia,Tasmania,2017,Oats,2.3448794807994444,3.0
+Australia,Tasmania,2017,Wheat,4.298182463513043,1.0
+Australia,Tasmania,2018,Barley,2.7347582258901726,2.0
+Australia,Tasmania,2018,Canola,1.1400481232271171,4.0
+Australia,Tasmania,2018,Oats,1.6284758413459117,3.0
+Australia,Tasmania,2018,Wheat,3.5788427760085106,1.0
+Australia,Tasmania,2019,Barley,3.3728632368407583,2.0
+Australia,Tasmania,2019,Canola,1.7587081324867078,4.0
+Australia,Tasmania,2019,Oats,2.2148225511632056,3.0
+Australia,Tasmania,2019,Wheat,4.235397319454726,1.0
+Australia,Tasmania,2020,Barley,3.580360461544629,2.0
+Australia,Tasmania,2020,Canola,2.0299421808038183,4.0
+Australia,Tasmania,2020,Oats,2.4603124266886587,3.0
+Australia,Tasmania,2020,Wheat,4.409945332418634,1.0
+Australia,Tasmania,2021,Barley,4.192159273601654,2.0
+Australia,Tasmania,2021,Canola,2.467056166300602,4.0
+Australia,Tasmania,2021,Oats,3.024474477626927,3.0
+Australia,Tasmania,2021,Wheat,4.978544619096936,1.0
+Australia,Victoria,1989,Barley,2.0084912370704977,2.0
+Australia,Victoria,1989,Canola,1.1614325458404005,4.0
+Australia,Victoria,1989,Oats,1.6181493850901834,3.0
+Australia,Victoria,1989,Wheat,2.164480561723506,1.0
+Australia,Victoria,1990,Barley,1.4517308099198785,2.0
+Australia,Victoria,1990,Canola,0.8146025518812218,4.0
+Australia,Victoria,1990,Oats,1.2896317163022228,3.0
+Australia,Victoria,1990,Wheat,1.584030398395199,1.0
+Australia,Victoria,1991,Barley,1.7575617997062263,2.0
+Australia,Victoria,1991,Canola,1.1545912560226248,4.0
+Australia,Victoria,1991,Oats,1.4919418324309344,3.0
+Australia,Victoria,1991,Wheat,1.7752967992671624,1.0
+Australia,Victoria,1992,Barley,2.14724911947606,2.0
+Australia,Victoria,1992,Canola,1.3616531732130899,4.0
+Australia,Victoria,1992,Oats,1.685797905113246,3.0
+Australia,Victoria,1992,Wheat,2.3771106059985394,1.0
+Australia,Victoria,1993,Barley,2.2308006832837703,2.0
+Australia,Victoria,1993,Canola,1.4796628380878458,4.0
+Australia,Victoria,1993,Oats,1.9243203172054597,3.0
+Australia,Victoria,1993,Wheat,2.4463353075578667,1.0
+Australia,Victoria,1994,Barley,1.029763012461681,2.0
+Australia,Victoria,1994,Canola,0.7204701332772203,4.0
+Australia,Victoria,1994,Oats,1.1114268090527322,1.0
+Australia,Victoria,1994,Wheat,0.9578941960427496,3.0
+Australia,Victoria,1995,Barley,2.300539275835254,2.0
+Australia,Victoria,1995,Canola,1.4553780684426585,4.0
+Australia,Victoria,1995,Oats,1.9388200236829929,3.0
+Australia,Victoria,1995,Wheat,2.312904150776829,1.0
+Australia,Victoria,1996,Barley,2.1815093465096638,2.0
+Australia,Victoria,1996,Canola,1.4889636078213297,4.0
+Australia,Victoria,1996,Oats,1.760098063352676,3.0
+Australia,Victoria,1996,Wheat,2.2969314093806394,1.0
+Australia,Victoria,1997,Barley,1.5138305228142361,2.0
+Australia,Victoria,1997,Canola,1.2096030285108956,4.0
+Australia,Victoria,1997,Oats,1.353752183856264,3.0
+Australia,Victoria,1997,Wheat,1.6231165965358387,1.0
+Australia,Victoria,1998,Barley,1.9599190198511873,2.0
+Australia,Victoria,1998,Canola,1.3832124934906231,4.0
+Australia,Victoria,1998,Oats,1.9698078148308624,1.0
+Australia,Victoria,1998,Wheat,1.877899870238305,3.0
+Australia,Victoria,1999,Barley,2.1007836598212775,2.0
+Australia,Victoria,1999,Canola,1.42948702080288,4.0
+Australia,Victoria,1999,Oats,1.9620902893660788,3.0
+Australia,Victoria,1999,Wheat,2.1423772508641683,1.0
+Australia,Victoria,2000,Barley,2.700015591254898,1.0
+Australia,Victoria,2000,Canola,1.7816223146535544,4.0
+Australia,Victoria,2000,Oats,2.2492590973883315,3.0
+Australia,Victoria,2000,Wheat,2.6531383924704848,2.0
+Australia,Victoria,2001,Barley,2.3201083066356736,2.0
+Australia,Victoria,2001,Canola,1.5045013832697915,4.0
+Australia,Victoria,2001,Oats,2.271065882583361,3.0
+Australia,Victoria,2001,Wheat,2.320848204090855,1.0
+Australia,Victoria,2002,Barley,1.0136890779029932,3.0
+Australia,Victoria,2002,Canola,0.6167382071631669,4.0
+Australia,Victoria,2002,Oats,1.0496375141834566,1.0
+Australia,Victoria,2002,Wheat,1.0312711539214967,2.0
+Australia,Victoria,2003,Barley,2.523083508386681,2.0
+Australia,Victoria,2003,Canola,1.770696680024139,4.0
+Australia,Victoria,2003,Oats,2.243105745231789,3.0
+Australia,Victoria,2003,Wheat,2.538953007748286,1.0
+Australia,Victoria,2004,Barley,1.5391949932013467,3.0
+Australia,Victoria,2004,Canola,0.8304620371062825,4.0
+Australia,Victoria,2004,Oats,1.606174471584078,1.0
+Australia,Victoria,2004,Wheat,1.5549632919424166,2.0
+Australia,Victoria,2005,Barley,2.1982771736702302,2.0
+Australia,Victoria,2005,Canola,1.4968119483517657,4.0
+Australia,Victoria,2005,Oats,2.1036680232035545,3.0
+Australia,Victoria,2005,Wheat,2.2918300417238697,1.0
+Australia,Victoria,2006,Barley,0.7920604791349857,1.0
+Australia,Victoria,2006,Canola,0.27437707209165957,4.0
+Australia,Victoria,2006,Oats,0.5562842212496639,3.0
+Australia,Victoria,2006,Wheat,0.7081564603807633,2.0
+Australia,Victoria,2007,Barley,1.5268518266720597,1.0
+Australia,Victoria,2007,Canola,0.9388965691463339,4.0
+Australia,Victoria,2007,Oats,1.284865028076033,3.0
+Australia,Victoria,2007,Wheat,1.4145620513639952,2.0
+Australia,Victoria,2008,Barley,1.5811426850031762,1.0
+Australia,Victoria,2008,Canola,0.9061617126644222,4.0
+Australia,Victoria,2008,Oats,1.356201183497394,3.0
+Australia,Victoria,2008,Wheat,1.5617610393518302,2.0
+Australia,Victoria,2009,Barley,1.8984711260485108,1.0
+Australia,Victoria,2009,Canola,1.231192458408778,4.0
+Australia,Victoria,2009,Oats,1.7682066065436306,3.0
+Australia,Victoria,2009,Wheat,1.8811255012392307,2.0
+Australia,Victoria,2010,Barley,2.4339311558785797,2.0
+Australia,Victoria,2010,Canola,1.4650069586217034,4.0
+Australia,Victoria,2010,Oats,1.6827504940278493,3.0
+Australia,Victoria,2010,Wheat,2.5543323473093533,1.0
+Australia,Victoria,2011,Barley,2.331427481452039,1.0
+Australia,Victoria,2011,Canola,1.4351521509113874,4.0
+Australia,Victoria,2011,Oats,1.9589133815034294,3.0
+Australia,Victoria,2011,Wheat,2.20560984505737,2.0
+Australia,Victoria,2012,Barley,2.247340864805179,1.0
+Australia,Victoria,2012,Canola,1.440955278704887,4.0
+Australia,Victoria,2012,Oats,2.0237391570157195,3.0
+Australia,Victoria,2012,Wheat,2.075691970534206,2.0
+Australia,Victoria,2013,Barley,2.2736463913285654,1.0
+Australia,Victoria,2013,Canola,1.458139079711835,4.0
+Australia,Victoria,2013,Oats,2.0746414049888617,3.0
+Australia,Victoria,2013,Wheat,2.1905617912543542,2.0
+Australia,Victoria,2014,Barley,1.5746239414961227,3.0
+Australia,Victoria,2014,Canola,0.9956925525592057,4.0
+Australia,Victoria,2014,Oats,1.5912783220648772,1.0
+Australia,Victoria,2014,Wheat,1.5879053573683024,2.0
+Australia,Victoria,2015,Barley,1.376669027481438,2.0
+Australia,Victoria,2015,Canola,0.8237665454319223,4.0
+Australia,Victoria,2015,Oats,1.316177296990986,3.0
+Australia,Victoria,2015,Wheat,1.503133660596797,1.0
+Australia,Victoria,2016,Barley,3.53436118572466,1.0
+Australia,Victoria,2016,Canola,2.2947548747905238,4.0
+Australia,Victoria,2016,Oats,2.704643951487731,3.0
+Australia,Victoria,2016,Wheat,3.52058172881694,2.0
+Australia,Victoria,2017,Barley,1.8806259658710143,1.0
+Australia,Victoria,2017,Canola,1.12677817091727,4.0
+Australia,Victoria,2017,Oats,1.6347454380417765,3.0
+Australia,Victoria,2017,Wheat,1.7925225792825945,2.0
+Australia,Victoria,2018,Barley,2.1169399048158017,1.0
+Australia,Victoria,2018,Canola,1.326454699278474,4.0
+Australia,Victoria,2018,Oats,2.037093170336915,2.0
+Australia,Victoria,2018,Wheat,1.989915937397645,3.0
+Australia,Victoria,2019,Barley,1.975905836652068,3.0
+Australia,Victoria,2019,Canola,1.3352588658059248,4.0
+Australia,Victoria,2019,Oats,1.9862088670793818,2.0
+Australia,Victoria,2019,Wheat,2.0184989481517475,1.0
+Australia,Victoria,2020,Barley,1.7984854934763017,2.0
+Australia,Victoria,2020,Canola,0.9144216425695015,4.0
+Australia,Victoria,2020,Oats,1.506895510813324,3.0
+Australia,Victoria,2020,Wheat,1.8492572310717035,1.0
+Australia,Victoria,2021,Barley,2.6141728985694384,2.0
+Australia,Victoria,2021,Canola,1.8022746132477392,4.0
+Australia,Victoria,2021,Oats,2.2617492725659387,3.0
+Australia,Victoria,2021,Wheat,2.6591051715737626,1.0
+Australia,Western Australia,1989,Barley,1.567444978811974,1.0
+Australia,Western Australia,1989,Canola,0.8904204874239763,4.0
+Australia,Western Australia,1989,Oats,1.5143505995624527,2.0
+Australia,Western Australia,1989,Wheat,1.3702651769071583,3.0
+Australia,Western Australia,1990,Barley,1.537458637299279,2.0
+Australia,Western Australia,1990,Canola,0.9346750204640614,4.0
+Australia,Western Australia,1990,Oats,1.5902060463857242,1.0
+Australia,Western Australia,1990,Wheat,1.4136636570815098,3.0
+Australia,Western Australia,1991,Barley,1.6706133030347088,1.0
+Australia,Western Australia,1991,Canola,0.8370605749060431,4.0
+Australia,Western Australia,1991,Oats,1.6492239671153432,2.0
+Australia,Western Australia,1991,Wheat,1.480793217957194,3.0
+Australia,Western Australia,1992,Barley,1.7039209425826503,2.0
+Australia,Western Australia,1992,Canola,1.0401670886004821,4.0
+Australia,Western Australia,1992,Oats,1.7930364207530813,1.0
+Australia,Western Australia,1992,Wheat,1.6274313473655486,3.0
+Australia,Western Australia,1993,Barley,1.8389508747765368,1.0
+Australia,Western Australia,1993,Canola,1.2348978518208844,4.0
+Australia,Western Australia,1993,Oats,1.7892959463679772,2.0
+Australia,Western Australia,1993,Wheat,1.746485586553722,3.0
+Australia,Western Australia,1994,Barley,1.634299668691727,2.0
+Australia,Western Australia,1994,Canola,0.9862932890447055,4.0
+Australia,Western Australia,1994,Oats,1.6773569318203436,1.0
+Australia,Western Australia,1994,Wheat,1.380751973234595,3.0
+Australia,Western Australia,1995,Barley,1.8896431525688253,1.0
+Australia,Western Australia,1995,Canola,1.255233065036586,4.0
+Australia,Western Australia,1995,Oats,1.8540481600900174,2.0
+Australia,Western Australia,1995,Wheat,1.7406367257448603,3.0
+Australia,Western Australia,1996,Barley,1.7327413094980755,2.0
+Australia,Western Australia,1996,Canola,1.0703889265585116,4.0
+Australia,Western Australia,1996,Oats,1.8250364986727015,1.0
+Australia,Western Australia,1996,Wheat,1.6735871645101985,3.0
+Australia,Western Australia,1997,Barley,1.9309223146122176,2.0
+Australia,Western Australia,1997,Canola,1.2625769602427463,4.0
+Australia,Western Australia,1997,Oats,1.9839560930768598,1.0
+Australia,Western Australia,1997,Wheat,1.6856442361274577,3.0
+Australia,Western Australia,1998,Barley,1.879731955780852,2.0
+Australia,Western Australia,1998,Canola,1.0965343430947927,4.0
+Australia,Western Australia,1998,Oats,1.8888171379519159,1.0
+Australia,Western Australia,1998,Wheat,1.8014031287569536,3.0
+Australia,Western Australia,1999,Barley,2.0751003445447616,1.0
+Australia,Western Australia,1999,Canola,1.335923160253939,4.0
+Australia,Western Australia,1999,Oats,1.9971739333305685,2.0
+Australia,Western Australia,1999,Wheat,1.8439371733043715,3.0
+Australia,Western Australia,2000,Barley,1.4058922306784443,1.0
+Australia,Western Australia,2000,Canola,0.7182952306095072,4.0
+Australia,Western Australia,2000,Oats,1.3119218286135308,2.0
+Australia,Western Australia,2000,Wheat,1.2254726983824527,3.0
+Australia,Western Australia,2001,Barley,1.9845447003018293,1.0
+Australia,Western Australia,2001,Canola,1.1934544388592578,4.0
+Australia,Western Australia,2001,Oats,1.9845274229275833,2.0
+Australia,Western Australia,2001,Wheat,1.749648943206598,3.0
+Australia,Western Australia,2002,Barley,1.3418063300424008,2.0
+Australia,Western Australia,2002,Canola,0.6427507324778322,4.0
+Australia,Western Australia,2002,Oats,1.4828117741541877,1.0
+Australia,Western Australia,2002,Wheat,1.0479291613741517,3.0
+Australia,Western Australia,2003,Barley,2.2776561258836736,1.0
+Australia,Western Australia,2003,Canola,1.5665383464755966,4.0
+Australia,Western Australia,2003,Oats,2.200374051672193,2.0
+Australia,Western Australia,2003,Wheat,2.099564825117993,3.0
+Australia,Western Australia,2004,Barley,1.8973302299097454,2.0
+Australia,Western Australia,2004,Canola,1.2099836775342714,4.0
+Australia,Western Australia,2004,Oats,1.9088759261115278,1.0
+Australia,Western Australia,2004,Wheat,1.7416069985246543,3.0
+Australia,Western Australia,2005,Barley,2.1109564124111744,1.0
+Australia,Western Australia,2005,Canola,1.4813270267107457,4.0
+Australia,Western Australia,2005,Oats,2.0789898931279245,2.0
+Australia,Western Australia,2005,Wheat,1.9961753875845145,3.0
+Australia,Western Australia,2006,Barley,1.5958338841109152,2.0
+Australia,Western Australia,2006,Canola,0.933669272561669,4.0
+Australia,Western Australia,2006,Oats,1.6074268106752483,1.0
+Australia,Western Australia,2006,Wheat,1.2503535133659074,3.0
+Australia,Western Australia,2007,Barley,1.907628750585931,2.0
+Australia,Western Australia,2007,Canola,1.1284320982524658,4.0
+Australia,Western Australia,2007,Oats,1.9878381533469212,1.0
+Australia,Western Australia,2007,Wheat,1.6017800935258057,3.0
+Australia,Western Australia,2008,Barley,1.9873339868982547,1.0
+Australia,Western Australia,2008,Canola,1.2047201637507459,4.0
+Australia,Western Australia,2008,Oats,1.9460831027315628,2.0
+Australia,Western Australia,2008,Wheat,1.778856606573558,3.0
+Australia,Western Australia,2009,Barley,1.8122578901486321,1.0
+Australia,Western Australia,2009,Canola,1.0472447093673816,4.0
+Australia,Western Australia,2009,Oats,1.7937093880847006,2.0
+Australia,Western Australia,2009,Wheat,1.668243902501067,3.0
+Australia,Western Australia,2010,Barley,1.3136993407960131,1.0
+Australia,Western Australia,2010,Canola,0.6543013753204159,4.0
+Australia,Western Australia,2010,Oats,1.2021658704290183,2.0
+Australia,Western Australia,2010,Wheat,1.0495192615586078,3.0
+Australia,Western Australia,2011,Barley,2.2330097950728733,1.0
+Australia,Western Australia,2011,Canola,1.460303535691647,4.0
+Australia,Western Australia,2011,Oats,2.133782292490453,2.0
+Australia,Western Australia,2011,Wheat,2.0958414072566733,3.0
+Australia,Western Australia,2012,Barley,1.8187041468554948,2.0
+Australia,Western Australia,2012,Canola,1.0896715214239212,4.0
+Australia,Western Australia,2012,Oats,1.8437378124217891,1.0
+Australia,Western Australia,2012,Wheat,1.4896364337373904,3.0
+Australia,Western Australia,2013,Barley,2.564422706587746,1.0
+Australia,Western Australia,2013,Canola,1.5185664368676173,4.0
+Australia,Western Australia,2013,Oats,2.4137886296692708,2.0
+Australia,Western Australia,2013,Wheat,2.281844204406111,3.0
+Australia,Western Australia,2014,Barley,2.2726352425956042,1.0
+Australia,Western Australia,2014,Canola,1.3586356356277636,4.0
+Australia,Western Australia,2014,Oats,2.2105287854326887,2.0
+Australia,Western Australia,2014,Wheat,1.9757065520792336,3.0
+Australia,Western Australia,2015,Barley,2.2125312982234933,1.0
+Australia,Western Australia,2015,Canola,1.2725229534321334,4.0
+Australia,Western Australia,2015,Oats,2.003633969235765,2.0
+Australia,Western Australia,2015,Wheat,1.9457113186059372,3.0
+Australia,Western Australia,2016,Barley,2.1113132991537977,1.0
+Australia,Western Australia,2016,Canola,1.3812959201345405,4.0
+Australia,Western Australia,2016,Oats,2.0366107593030156,2.0
+Australia,Western Australia,2016,Wheat,1.777695363372932,3.0
+Australia,Western Australia,2017,Barley,2.02461287914387,1.0
+Australia,Western Australia,2017,Canola,1.270620507534071,4.0
+Australia,Western Australia,2017,Oats,1.9496189617249478,2.0
+Australia,Western Australia,2017,Wheat,1.7186380396877057,3.0
+Australia,Western Australia,2018,Barley,2.444951223726914,1.0
+Australia,Western Australia,2018,Canola,1.5885998344218752,4.0
+Australia,Western Australia,2018,Oats,2.3313669699773323,2.0
+Australia,Western Australia,2018,Wheat,2.105079416457416,3.0
+Australia,Western Australia,2019,Barley,2.297794234602521,1.0
+Australia,Western Australia,2019,Canola,1.4440283730328944,4.0
+Australia,Western Australia,2019,Oats,2.242146666573662,2.0
+Australia,Western Australia,2019,Wheat,2.055572583854361,3.0
+Australia,Western Australia,2020,Barley,2.251264802010791,1.0
+Australia,Western Australia,2020,Canola,1.397485128130011,4.0
+Australia,Western Australia,2020,Oats,2.131110333300928,2.0
+Australia,Western Australia,2020,Wheat,1.9853573969857579,3.0
+Australia,Western Australia,2021,Barley,2.7544030712337735,2.0
+Australia,Western Australia,2021,Canola,2.060620863065006,4.0
+Australia,Western Australia,2021,Oats,2.7551319508902887,1.0
+Australia,Western Australia,2021,Wheat,2.5155213728882284,3.0

@@ -1,0 +1,19 @@
+country,region,most_common_best_crop,most_common_best_crop_share,largest_advantage_year,largest_advantage_weather_regime,largest_advantage_best_crop,largest_advantage_runner_up_crop,largest_advantage_t_ha,largest_advantage_best_predicted_yield_t_ha
+United States,Colorado,Barley,1.0,2010,Dry-spell stress,Barley,Wheat,3.777575801162295,6.706715809792681
+Australia,Tasmania,Wheat,1.0,2008,Cold/frost stress,Wheat,Barley,1.1955317026888657,4.030486353304164
+United States,Washington,Wheat,1.0,2003,Dry-spell stress,Wheat,Barley,0.9580089024713834,3.582619136014472
+United States,North Dakota,Barley,1.0,2018,Cold/frost stress,Barley,Wheat,0.9002134955305983,3.724869070072384
+United States,Iowa,Barley,0.7878787878787878,2001,Wet/storm risk,Barley,Wheat,0.8269163548053542,4.131175592771493
+United States,Montana,Barley,1.0,1991,Cold/frost stress,Barley,Wheat,0.7906291068542448,2.776003002008949
+Australia,New South Wales,Wheat,0.696969696969697,1991,Wet/storm risk,Wheat,Oats,0.7639968534156711,2.215680176283483
+United States,Illinois,Wheat,0.5151515151515151,2017,Wet/storm risk,Barley,Wheat,0.6300746357269817,4.756514524286569
+Australia,Victoria,Wheat,0.42424242424242425,2016,Wet/storm risk,Wheat,Barley,0.6243557647457374,3.892279248952191
+Australia,Western Australia,Barley,0.7575757575757576,2019,Hot-dry stress,Barley,Oats,0.6233373151847061,2.218215459845542
+United States,Texas,Barley,0.6666666666666666,2017,Hot-dry stress,Wheat,Barley,0.6174947666200858,3.0693763624075987
+Australia,Queensland,Barley,0.7878787878787878,2018,Dry-spell stress,Barley,Wheat,0.6174332749338007,2.776999129904912
+United States,South Dakota,Wheat,0.7575757575757576,2007,Wet/storm risk,Wheat,Barley,0.5982703231813518,3.073872898688109
+United States,Kansas,Wheat,0.9393939393939394,2013,Hot-dry stress,Wheat,Barley,0.5846334583140074,2.587201102862865
+United States,Minnesota,Barley,0.8484848484848485,1993,Moderate season,Barley,Wheat,0.5815518142424279,2.9083532852738143
+United States,Nebraska,Wheat,0.8181818181818182,2000,Hot-dry stress,Wheat,Barley,0.5285580091341822,2.285762451489169
+United States,Oklahoma,Barley,0.5454545454545454,2004,Wet/storm risk,Wheat,Barley,0.5207245796421827,2.2522244753082905
+Australia,South Australia,Barley,0.9090909090909091,2008,Hot-dry stress,Barley,Wheat,0.3264580555711709,1.5005101162093886

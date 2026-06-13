@@ -1,0 +1,10 @@
+\begin{tabular}{llllrrr}
+\toprule
+Dataset & Feature set & Selected model & Validation R$^2$ & Test R$^2$ & Test RMSE & Test rows \\
+\midrule
+Australia + U.S. overlap crops & Extreme-weather only & ExtraTrees & 0.777 & 0.718 & 0.661 & 353 \\
+Australia + U.S. wheat & Extreme-weather only & ElasticNet & 0.667 & 0.689 & 0.697 & 105 \\
+Australia overlap crops & Extreme-weather + soil & HistGradientBoosting & 0.602 & 0.490 & 0.890 & 144 \\
+U.S. overlap crops & Extreme-weather only & ExtraTrees & 0.851 & 0.801 & 0.534 & 209 \\
+\bottomrule
+\end{tabular}

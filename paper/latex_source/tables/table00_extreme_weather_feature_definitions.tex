@@ -1,0 +1,33 @@
+\begingroup
+\arrayrulecolor{black!55}
+\begin{tabularx}{\textwidth}{p{0.22\textwidth}Yp{0.24\textwidth}}
+\toprule
+Indicator group & Computation / threshold & Output \\
+\midrule
+\arrayrulecolor{black!18}
+Seasonal rainfall & Sum and mean of daily rainfall over May--Oct. & \texttt{rain\_sum}; \texttt{rain\_mean} \\
+\hline
+Radiation & Sum and mean of daily solar radiation over May--Oct. & \texttt{radiation\_sum}; \texttt{radiation\_mean} \\
+\hline
+Growing degree days & Sum of max($Tmean_d - 5^\circ$C, 0). If missing, $Tmean_d=(Tmax_d+Tmin_d)/2$. & degree-days \\
+\hline
+Seasonal windows & Repeat selected rainfall, dry, heat, frost, heavy-rain, and radiation features for early, mid, and late season. & early = May--Jun; mid = Jul--Aug; late = Sep--Oct \\
+\hline
+Dry exposure & Dry days use rain $<$ 1 mm and rain $<$ 2 mm. Dry spells are the longest consecutive dry run. Long dry-spell events count runs $\geq$ 7 or $\geq$ 14 days using rain $<$ 1 mm. & days; event count \\
+\hline
+Heavy-rain exposure & Count days with rain $\geq$ 10, 20, 25, or 50 mm/day. Also compute maximum rolling 1-, 3-, and 7-day rainfall. & days; mm \\
+\hline
+Heat exposure & Heat days use $Tmax_d \geq$ 30, 35, or 40$^\circ$C. Heatwave events count runs of at least 3 days at 30 or 35$^\circ$C. & days; event count \\
+\hline
+Heat degree days & Sum of max($Tmax_d - 30^\circ$C, 0) and max($Tmax_d - 35^\circ$C, 0). & $^\circ$C-days \\
+\hline
+Hot-dry days & Count days where $Tmax_d \geq$ 30$^\circ$C and rain $<$ 1 mm. & days \\
+\hline
+Frost and cold exposure & Frost days use $Tmin_d \leq$ 0$^\circ$C; cold days use $Tmin_d \leq$ 5$^\circ$C. Frost events require at least 2 consecutive frost days. & days; event count \\
+\hline
+Pre-harvest rain risk & Use the last 7, 14, and 21 days before Oct 31. Storm flag = 1 if last-21-day max 3-day rain $\geq$ 25 mm or last-14-day heavy-rain count $\geq$ 1. & mm; count; binary \\
+\arrayrulecolor{black!55}
+\bottomrule
+\end{tabularx}
+\arrayrulecolor{black}
+\endgroup

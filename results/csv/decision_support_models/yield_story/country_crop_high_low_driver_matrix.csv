@@ -1,0 +1,137 @@
+country,crop,feature,feature_label,mean_standardized_delta_high_minus_low,mean_raw_delta_high_minus_low,unit,region_count
+Australia,Barley,dry_spell_events_14d,long dry-spell events,-0.6753349814896134,-0.7407407407407406,events,6
+Australia,Barley,frost_days_0,frost days,-0.697738303493856,-4.259259259259259,days,6
+Australia,Barley,growing_degree_days_base5,growing degree days,-0.12897449503788205,-11.704629629629721,degree-days,6
+Australia,Barley,heat_days_35,very hot days,-0.4415559391019605,-0.39999999999999997,days,5
+Australia,Barley,hot_dry_days_30_1mm,hot-dry days,-0.8359844302093166,-3.1111111111111116,days,5
+Australia,Barley,max_3day_rain,max 3-day rain,0.8834682698645616,17.19074074074074,mm,6
+Australia,Barley,max_7day_rain,max 7-day rain,0.8712631403831067,21.00740740740741,mm,6
+Australia,Barley,max_consecutive_heat_days_35,longest heat spell,-0.6417336307071716,-0.4222222222222222,days,5
+Australia,Barley,max_dry_spell_1mm,longest dry spell,-0.6462889313822459,-6.314814814814814,days,6
+Australia,Barley,radiation_sum_late_y,late-season radiation,-1.1089261630456655,-72.662962962963,MJ/m2,6
+Australia,Barley,radiation_sum_mid_y,mid-season radiation,-0.5078889399462434,-25.774074074074036,MJ/m2,6
+Australia,Barley,rain_last_14d_before_harvest,late-season rain,0.645235831720134,11.170370370370371,mm,6
+Australia,Barley,season_radiation_sum,season radiation,-1.0997899132190845,-103.85000000000007,MJ/m2,6
+Australia,Barley,season_rain_mean,daily rain,1.214192203303224,0.5752616747181966,mm/day,6
+Australia,Barley,season_rain_sum,season rain,1.214192203303224,105.84814814814818,mm,6
+Australia,Barley,season_tmax_mean,mean max temp,-0.4714277628641175,-0.4128119967793881,C,6
+Australia,Barley,season_tmin_mean,mean min temp,0.49551293293519016,0.29061996779388083,C,6
+Australia,Barley,storm_before_harvest_flag,storm-before-harvest flag,0.40055452179050327,0.14814814814814814,flag,6
+Australia,Canola,dry_spell_events_14d,long dry-spell events,-0.8009453689535366,-0.9282407407407408,events,6
+Australia,Canola,frost_days_0,frost days,-0.8419529189582659,-5.615740740740741,days,6
+Australia,Canola,growing_degree_days_base5,growing degree days,-0.13959512094160162,-15.29444444444446,degree-days,6
+Australia,Canola,heat_days_35,very hot days,-0.478245529803732,-0.3861111111111112,days,5
+Australia,Canola,hot_dry_days_30_1mm,hot-dry days,-0.9383116441085878,-3.4944444444444445,days,5
+Australia,Canola,max_3day_rain,max 3-day rain,0.7076479872345827,12.274074074074072,mm,6
+Australia,Canola,max_7day_rain,max 7-day rain,0.7595109691691043,16.965509259259264,mm,6
+Australia,Canola,max_consecutive_heat_days_35,longest heat spell,-0.5819550316195565,-0.3416666666666667,days,5
+Australia,Canola,max_dry_spell_1mm,longest dry spell,-0.7972210033045757,-7.141203703703702,days,6
+Australia,Canola,radiation_sum_late_y,late-season radiation,-1.169822898826521,-78.39375,MJ/m2,6
+Australia,Canola,radiation_sum_mid_y,mid-season radiation,-0.5029729041555995,-27.312268518518504,MJ/m2,6
+Australia,Canola,rain_last_14d_before_harvest,late-season rain,0.7134690185805538,12.779398148148147,mm,6
+Australia,Canola,season_radiation_sum,season radiation,-1.2047367296956022,-117.01365740740766,MJ/m2,6
+Australia,Canola,season_rain_mean,daily rain,1.140641192454502,0.5493911030595813,mm/day,6
+Australia,Canola,season_rain_sum,season rain,1.1406411924545024,101.08796296296298,mm,6
+Australia,Canola,season_tmax_mean,mean max temp,-0.5938658579645969,-0.5188808373590946,C,6
+Australia,Canola,season_tmin_mean,mean min temp,0.6010227260659103,0.3629730273752012,C,6
+Australia,Canola,storm_before_harvest_flag,storm-before-harvest flag,0.45405053143571644,0.17129629629629628,flag,6
+Australia,Oats,dry_spell_events_14d,long dry-spell events,-0.8463372255223662,-0.9814814814814815,events,6
+Australia,Oats,frost_days_0,frost days,-0.7304080847138609,-6.203703703703705,days,6
+Australia,Oats,growing_degree_days_base5,growing degree days,-0.1288617368018027,-16.39074074074087,degree-days,6
+Australia,Oats,heat_days_35,very hot days,-0.43494001645368885,-0.35555555555555557,days,5
+Australia,Oats,hot_dry_days_30_1mm,hot-dry days,-0.9685201030220092,-3.577777777777778,days,5
+Australia,Oats,max_3day_rain,max 3-day rain,0.8165356592660515,14.653703703703703,mm,6
+Australia,Oats,max_7day_rain,max 7-day rain,0.7920919500456239,18.73703703703703,mm,6
+Australia,Oats,max_consecutive_heat_days_35,longest heat spell,-0.5627906829377041,-0.35555555555555557,days,5
+Australia,Oats,max_dry_spell_1mm,longest dry spell,-0.720355320026027,-6.611111111111111,days,6
+Australia,Oats,radiation_sum_late_y,late-season radiation,-1.1530574783516605,-76.40740740740745,MJ/m2,6
+Australia,Oats,radiation_sum_mid_y,mid-season radiation,-0.6139904417268872,-30.681481481481445,MJ/m2,6
+Australia,Oats,rain_last_14d_before_harvest,late-season rain,0.681947372898725,11.594444444444443,mm,6
+Australia,Oats,season_radiation_sum,season radiation,-1.2415379770997341,-117.8018518518519,MJ/m2,6
+Australia,Oats,season_rain_mean,daily rain,1.2465904519400006,0.6007950885668275,mm/day,6
+Australia,Oats,season_rain_sum,season rain,1.246590451940001,110.54629629629632,mm,6
+Australia,Oats,season_tmax_mean,mean max temp,-0.6561219113205475,-0.5799315619967779,C,6
+Australia,Oats,season_tmin_mean,mean min temp,0.669766189750797,0.40898752012882506,C,6
+Australia,Oats,storm_before_harvest_flag,storm-before-harvest flag,0.30643514289713986,0.11111111111111112,flag,6
+Australia,Wheat,dry_spell_events_14d,long dry-spell events,-0.7653156885254527,-0.8703703703703703,events,6
+Australia,Wheat,frost_days_0,frost days,-0.8107972424253466,-6.666666666666665,days,6
+Australia,Wheat,growing_degree_days_base5,growing degree days,-0.292474995576105,-30.077777777777897,degree-days,6
+Australia,Wheat,heat_days_35,very hot days,-0.4375900862710826,-0.37777777777777777,days,5
+Australia,Wheat,hot_dry_days_30_1mm,hot-dry days,-1.089265005521867,-4.133333333333334,days,5
+Australia,Wheat,max_3day_rain,max 3-day rain,0.9686675917789261,16.805555555555557,mm,6
+Australia,Wheat,max_7day_rain,max 7-day rain,0.8663076703872367,19.890740740740736,mm,6
+Australia,Wheat,max_consecutive_heat_days_35,longest heat spell,-0.6019942759881134,-0.37777777777777777,days,5
+Australia,Wheat,max_dry_spell_1mm,longest dry spell,-0.7455367014827287,-7.296296296296297,days,6
+Australia,Wheat,radiation_sum_late_y,late-season radiation,-1.2261398098339482,-80.02962962962955,MJ/m2,6
+Australia,Wheat,radiation_sum_mid_y,mid-season radiation,-0.5818567784746882,-29.490740740740744,MJ/m2,6
+Australia,Wheat,rain_last_14d_before_harvest,late-season rain,0.8530758626679841,14.97037037037037,mm,6
+Australia,Wheat,season_radiation_sum,season radiation,-1.2779700219572538,-120.61666666666633,MJ/m2,6
+Australia,Wheat,season_rain_mean,daily rain,1.4186060355244818,0.6759158615136877,mm/day,6
+Australia,Wheat,season_rain_sum,season rain,1.4186060355244816,124.36851851851854,mm,6
+Australia,Wheat,season_tmax_mean,mean max temp,-0.794763875050795,-0.6835748792270527,C,6
+Australia,Wheat,season_tmin_mean,mean min temp,0.5648574776025018,0.36421095008051524,C,6
+Australia,Wheat,storm_before_harvest_flag,storm-before-harvest flag,0.5036680082713266,0.18518518518518515,flag,6
+United States,Barley,dry_spell_events_14d,long dry-spell events,-0.6260448083381052,-0.5538194444444444,events,8
+United States,Barley,frost_days_0,frost days,-0.20543978206310623,-1.1267361111111114,days,8
+United States,Barley,growing_degree_days_base5,growing degree days,-0.2275487762809235,-39.61277777777772,degree-days,8
+United States,Barley,heat_days_35,very hot days,-0.5849792709945881,-4.067460317460317,days,7
+United States,Barley,hot_dry_days_30_1mm,hot-dry days,-0.3610366322652235,-3.151041666666666,days,8
+United States,Barley,max_3day_rain,max 3-day rain,0.27282958010552977,4.481284722222222,mm,8
+United States,Barley,max_7day_rain,max 7-day rain,0.10902366852108211,1.9727604166666621,mm,8
+United States,Barley,max_consecutive_heat_days_35,longest heat spell,-0.5775848246216022,-1.3412698412698414,days,7
+United States,Barley,max_dry_spell_1mm,longest dry spell,-0.29160681165233926,-1.5069444444444446,days,8
+United States,Barley,rain_last_14d_before_harvest,late-season rain,-0.09195489908822574,-4.813229166666668,mm,8
+United States,Barley,season_radiation_sum,season radiation,-0.25455316104106734,-29.048680555555677,MJ/m2,8
+United States,Barley,season_rain_mean,daily rain,0.5254063377869951,0.21548724335748778,mm/day,8
+United States,Barley,season_rain_sum,season rain,0.5254063377869953,39.64965277777775,mm,8
+United States,Barley,season_tmax_mean,mean max temp,-0.35630777755458964,-0.4168503736413043,C,8
+United States,Barley,season_tmin_mean,mean min temp,0.012432242570949575,0.0021123943236717735,C,8
+United States,Barley,storm_before_harvest_flag,storm-before-harvest flag,-0.4151947660584843,-0.1736111111111111,flag,8
+United States,Canola,dry_spell_events_14d,long dry-spell events,-0.35442031328180557,-0.19494047619047616,events,4
+United States,Canola,frost_days_0,frost days,0.14213246001205385,-1.3348214285714288,days,4
+United States,Canola,growing_degree_days_base5,growing degree days,-0.5723248578805732,-90.16005952380942,degree-days,4
+United States,Canola,heat_days_35,very hot days,-0.9562725661306002,-5.9375,days,4
+United States,Canola,hot_dry_days_30_1mm,hot-dry days,-0.8405238696819028,-8.178571428571429,days,4
+United States,Canola,max_3day_rain,max 3-day rain,0.3543136482373941,5.980104166666656,mm,4
+United States,Canola,max_7day_rain,max 7-day rain,0.2391949143516073,4.1253571428571405,mm,4
+United States,Canola,max_consecutive_heat_days_35,longest heat spell,-0.8129687831173509,-3.261904761904762,days,4
+United States,Canola,max_dry_spell_1mm,longest dry spell,-0.3224757810093361,-1.0595238095238093,days,4
+United States,Canola,rain_last_14d_before_harvest,late-season rain,0.36153185580326685,5.953913690476188,mm,4
+United States,Canola,season_radiation_sum,season radiation,-0.5045834928728307,-48.32590773809534,MJ/m2,4
+United States,Canola,season_rain_mean,daily rain,0.6320970651466433,0.22713355654761924,mm/day,4
+United States,Canola,season_rain_sum,season rain,0.632097065146643,41.79257440476188,mm,4
+United States,Canola,season_tmax_mean,mean max temp,-0.726395618273986,-0.8516244500517622,C,4
+United States,Canola,season_tmin_mean,mean min temp,-0.15604748407658542,-0.11765649262422273,C,4
+United States,Canola,storm_before_harvest_flag,storm-before-harvest flag,-0.18967854991429864,-0.07738095238095238,flag,3
+United States,Oats,dry_spell_events_14d,long dry-spell events,-0.4165925910456134,-0.3900462962962963,events,12
+United States,Oats,frost_days_0,frost days,-0.06626751204567066,-0.9907407407407406,days,12
+United States,Oats,growing_degree_days_base5,growing degree days,-0.084232654974572,-11.119050925926066,degree-days,12
+United States,Oats,heat_days_35,very hot days,-0.37296774290185025,-2.9333333333333327,days,10
+United States,Oats,hot_dry_days_30_1mm,hot-dry days,-0.19342750298221323,-0.923611111111111,days,12
+United States,Oats,max_3day_rain,max 3-day rain,0.19498481132931597,4.579594907407409,mm,12
+United States,Oats,max_7day_rain,max 7-day rain,0.14428668371642298,4.006782407407409,mm,12
+United States,Oats,max_consecutive_heat_days_35,longest heat spell,-0.24688167208767742,-0.5333333333333333,days,10
+United States,Oats,max_dry_spell_1mm,longest dry spell,-0.12461809713935264,-0.4826388888888884,days,12
+United States,Oats,rain_last_14d_before_harvest,late-season rain,0.09087187145720281,1.5607523148148144,mm,12
+United States,Oats,season_radiation_sum,season radiation,-0.08642831586349307,-7.077928240740789,MJ/m2,12
+United States,Oats,season_rain_mean,daily rain,0.34691879851317636,0.10759649255233474,mm/day,12
+United States,Oats,season_rain_sum,season rain,0.3469187985131769,19.797754629629647,mm,12
+United States,Oats,season_tmax_mean,mean max temp,-0.22438478011551566,-0.23227273299114368,C,12
+United States,Oats,season_tmin_mean,mean min temp,0.21187302859916043,0.1639299642713369,C,12
+United States,Oats,storm_before_harvest_flag,storm-before-harvest flag,-0.23791239209705342,-0.0949074074074074,flag,12
+United States,Wheat,dry_spell_events_14d,long dry-spell events,-0.49842322442783543,-0.4641203703703703,events,12
+United States,Wheat,frost_days_0,frost days,-0.14388809947285622,-1.2175925925925928,days,12
+United States,Wheat,growing_degree_days_base5,growing degree days,0.1358058379117815,24.727800925925976,degree-days,12
+United States,Wheat,heat_days_35,very hot days,-0.28507207336508517,-2.965909090909092,days,11
+United States,Wheat,hot_dry_days_30_1mm,hot-dry days,0.012698090346673982,1.3738425925925928,days,12
+United States,Wheat,max_3day_rain,max 3-day rain,0.24437707899717795,4.756874999999998,mm,12
+United States,Wheat,max_7day_rain,max 7-day rain,0.13598135305568018,3.5054745370370326,mm,12
+United States,Wheat,max_consecutive_heat_days_35,longest heat spell,-0.18442075900117316,-0.712121212121212,days,11
+United States,Wheat,max_dry_spell_1mm,longest dry spell,-0.2508004158292174,-1.0740740740740735,days,12
+United States,Wheat,rain_last_14d_before_harvest,late-season rain,0.04818416229909097,-1.736504629629631,mm,12
+United States,Wheat,season_radiation_sum,season radiation,0.08720901368097933,14.107743055555602,MJ/m2,12
+United States,Wheat,season_rain_mean,daily rain,0.2912366868403163,0.07660565116747166,mm/day,12
+United States,Wheat,season_rain_sum,season rain,0.2912366868403169,14.09543981481484,mm,12
+United States,Wheat,season_tmax_mean,mean max temp,-0.030419922664166543,-0.012063141606279379,C,12
+United States,Wheat,season_tmin_mean,mean min temp,0.40048637105686585,0.32027230525362405,C,12
+United States,Wheat,storm_before_harvest_flag,storm-before-harvest flag,-0.23151007564147688,-0.09606481481481483,flag,12
