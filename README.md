@@ -24,6 +24,10 @@ code/
   requirements-modeling.txt
   scripts/
 
+dataset/
+  raw/
+  processed/
+
 results/
   csv/
     decision_support_models/
@@ -57,11 +61,18 @@ The modeling environment used during development was Python 3.12 with scikit-lea
 pip install -r code/requirements-modeling.txt
 ```
 
+## Dataset
+
+The `dataset/` folder contains the data used for the fastrefs package:
+
+- `dataset/raw/`: daily weather source tables copied for Australia and the United States.
+- `dataset/processed/`: generated extreme-weather features and crop-region-year model frames used by the modeling scripts.
+
+The public data sources are cited in the paper and include ABARES, USDA NASS Quick Stats, SILO, and NASA POWER.
+
 ## Results CSVs
 
 The `results/csv/` folder stores generated result tables used by the paper, including model-selection results, feature-group ablation, validation-selected predictions, permutation importance, crop-choice advantages, and yield-story summaries.
-
-Raw public-source datasets are not included in this repository. The paper cites the original data sources, including ABARES, USDA NASS Quick Stats, SILO, and NASA POWER.
 
 ## Notes
 
