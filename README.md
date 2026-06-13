@@ -25,7 +25,6 @@ code/
   scripts/
 
 dataset/
-  raw/
   processed/
 
 results/
@@ -63,12 +62,11 @@ pip install -r code/requirements-modeling.txt
 
 ## Dataset
 
-The `dataset/` folder contains the data used for the fastrefs package:
+The `dataset/` folder contains the processed data used for the fastrefs package:
 
-- `dataset/raw/`: daily weather source tables copied for Australia and the United States.
 - `dataset/processed/`: generated extreme-weather features and crop-region-year model frames used by the modeling scripts.
 
-The public data sources are cited in the paper and include ABARES, USDA NASS Quick Stats, SILO, and NASA POWER.
+Raw public-source datasets are not included in this repository. The paper cites the original data services, including ABARES, USDA NASS Quick Stats, SILO, and NASA POWER.
 
 ## Results CSVs
 
