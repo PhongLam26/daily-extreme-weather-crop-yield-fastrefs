@@ -13,7 +13,7 @@ paper/
   latex_zip/
     overleaf_extreme_weather_fastrefs.zip
   pdf/
-    DAP8d.pdf
+    DAP2.pdf
   latex_source/
     main.tex
     references.bib
@@ -35,13 +35,13 @@ results/
 
 ## Main Paper Files
 
-- `paper/pdf/DAP8d.pdf`: compiled paper PDF.
+- `paper/pdf/DAP2.pdf`: compiled paper PDF.
 - `paper/latex_zip/overleaf_extreme_weather_fastrefs.zip`: Overleaf-ready LaTeX package.
 - `paper/latex_source/`: extracted LaTeX source for browsing in GitHub.
 
 ## Code
 
-The `code/scripts/` folder contains the main scripts used to build the extreme-weather features, model frames, validation-selected results, paper tables, and decision-support figures.
+The `code/scripts/` folder contains the main scripts used to build the extreme-weather features, model frames, validation-period learning-algorithm selection results, paper tables, and decision-support figures.
 
 Key scripts:
 
@@ -70,7 +70,7 @@ Raw public-source datasets are not included in this repository. The paper cites 
 
 ## Results CSVs
 
-The `results/csv/` folder stores generated result tables used by the paper, including model-selection results, feature-group ablation, validation-selected predictions, permutation importance, crop-choice advantages, and yield-story summaries.
+The `results/csv/` folder stores generated result tables used by the paper, including validation-period algorithm-selection results, feature-group ablation, held-out predictions, permutation importance, crop-choice advantages, and yield-story summaries.
 
 ## Notes
 

@@ -329,7 +329,7 @@ def figure_03_model_performance() -> None:
     ablation = ablation.set_index("feature_set").loc[ablation_order].reset_index()
 
     fig, axes = plt.subplots(1, 2, figsize=(16, 6), gridspec_kw={"width_ratios": [1.0, 1.25]})
-    fig.suptitle("Prediction performance under validation-selected evaluation", fontsize=17, weight="bold", y=0.98)
+    fig.suptitle("Prediction performance under forward-time evaluation", fontsize=17, weight="bold", y=0.98)
 
     x = np.arange(len(selected))
     width = 0.36
@@ -339,7 +339,7 @@ def figure_03_model_performance() -> None:
         axes[0].text(xpos, val + 0.015, f"{val:.2f}", ha="center", va="bottom", fontsize=9)
     for xpos, val in zip(x + width / 2, selected["test_r2"]):
         axes[0].text(xpos, val + 0.015, f"{val:.2f}", ha="center", va="bottom", fontsize=9)
-    axes[0].set_title("Validation-selected final performance", fontsize=13)
+    axes[0].set_title("Pre-specified task performance", fontsize=13)
     axes[0].set_ylabel("R2")
     axes[0].set_ylim(0, 0.9)
     axes[0].set_xticks(x)

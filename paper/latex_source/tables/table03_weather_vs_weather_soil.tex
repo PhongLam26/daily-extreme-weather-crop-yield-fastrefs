@@ -1,15 +1,15 @@
-\begin{tabularx}{\textwidth}{Ylrr}
+\begin{tabularx}{\textwidth}{Ylrrrr}
 \toprule
-Feature / baseline & Selected model & Test R$^2$ & Test RMSE \\
+Feature / baseline & Selected algorithm & Val. R$^2$ & Val. RMSE & Test R$^2$ & Test RMSE \\
 \midrule
-Historical crop-region mean & Mean baseline & 0.604 & 0.784 \\
-Previous-year yield & Lag-1 baseline & 0.720 & 0.659 \\
-Crop + region + year only & ExtraTrees & 0.703 & 0.679 \\
-Rainfall only & ExtraTrees & 0.746 & 0.628 \\
-Temperature only & ExtraTrees & 0.751 & 0.622 \\
-Radiation only & ExtraTrees & 0.711 & 0.670 \\
-Extreme events only & ExtraTrees & 0.733 & 0.644 \\
-Weather all & ExtraTrees & 0.718 & 0.661 \\
-Weather + soil & HistGradientBoosting & 0.729 & 0.648 \\
+Historical crop-region mean & Mean baseline & 0.768 & 0.515 & 0.604 & 0.784 \\
+Previous-year yield & Lag-1 baseline & 0.816 & 0.459 & 0.720 & 0.659 \\
+Crop + region + year only & ExtraTrees & 0.824 & 0.449 & 0.703 & 0.679 \\
+Rainfall features & ExtraTrees & 0.775 & 0.508 & 0.746 & 0.628 \\
+Temperature features & ExtraTrees & 0.746 & 0.540 & 0.751 & 0.622 \\
+Radiation features & ExtraTrees & 0.841 & 0.427 & 0.711 & 0.670 \\
+Extreme-event features & ExtraTrees & 0.772 & 0.511 & 0.733 & 0.644 \\
+All weather features, no soil & ExtraTrees & 0.777 & 0.505 & 0.718 & 0.661 \\
+Weather + soil & HistGradientBoosting & 0.755 & 0.530 & 0.729 & 0.648 \\
 \bottomrule
 \end{tabularx}

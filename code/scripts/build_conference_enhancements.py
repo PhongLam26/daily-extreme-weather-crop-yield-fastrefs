@@ -300,7 +300,7 @@ def plot_top_weather_importance(importance: pd.DataFrame) -> None:
     ax.set_yticks(y)
     ax.set_yticklabels([feature_label(f) for f in top["feature"]])
     ax.set_xlabel("Permutation importance (test RMSE increase, t/ha)")
-    ax.set_title("Top weather features for the validation-selected AUS-US overlap model")
+    ax.set_title("Top weather features for the main AUS-US overlap model")
     ax.grid(axis="x", color="#DDDDDD", linewidth=0.6)
     ax.spines["top"].set_visible(False)
     ax.spines["right"].set_visible(False)
