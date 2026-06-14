@@ -24,6 +24,7 @@
 \setlength{\textfloatsep}{8pt plus 1pt minus 2pt}
 \setlength{\floatsep}{6pt plus 1pt minus 2pt}
 \setlength{\intextsep}{6pt plus 1pt minus 2pt}
+\raggedbottom
 
 \title{Daily Extreme-Weather Features for Interpretable Crop-Yield Prediction and Crop-Region Suitability Analysis}
 \author[1]{Tran Dai Phong Lam\,\orcidlink{0009-0003-9320-8782}\thanks{Corresponding author}}
@@ -76,7 +77,7 @@ All annual yield records are harmonized to tonnes per hectare. Weather variables
 
 The weather-feature table contains 594 rows because it has one row for each country-region-year combination: 18 regions multiplied by 33 years from 1989 to 2021. The main overlap-crop model frame contains 1,946 rows because each country-region-year weather row is joined to multiple crop-specific yield records. The merge key for daily-weather features is country-region-year; the modeling target is crop-region-year yield, so the same region-year weather profile can be paired with several crops grown in that region-year. Table~\ref{tab:dataset_scope} summarizes the dataset scope, and Figure~\ref{fig:dataset_scope} shows the modeling target and coverage.
 
-\begin{table}[H]
+\begin{table}[!htbp]
 \centering
 \caption{Dataset scope used in the daily extreme-weather decision-support study.}
 \label{tab:dataset_scope}
@@ -84,9 +85,9 @@ The weather-feature table contains 594 rows because it has one row for each coun
 \resizebox{\textwidth}{!}{\input{tables/table01_dataset_scope.tex}}
 \end{table}
 
-\begin{figure}[H]
+\begin{figure}[!htbp]
 \centering
-\includegraphics[width=\textwidth]{figures/main/fig01_dataset_scope.png}
+\includegraphics[width=0.92\textwidth,height=0.33\textheight,keepaspectratio]{figures/main/fig01_dataset_scope.png}
 \caption{Dataset scope and modeling target. The figure summarizes the country, crop, region, yield, and region-year weather-feature coverage used to construct the crop-region-year modeling frame.}
 \label{fig:dataset_scope}
 \end{figure}
@@ -96,7 +97,7 @@ Daily weather records are aggregated into growing-season indicators using May--O
 
 Soil variables are added as persistent regional context. Weather features represent year-specific seasonal stress, while soil features represent slower-changing growing conditions. The main modeling comparison evaluates crop-region-year plus weather-feature sets with soil excluded and a corresponding weather-plus-soil setting, following the broader multi-source feature-design direction used in recent crop-yield modeling work \citep{Bansal2023WinterWheatHeterogeneous,Lu2024MultiSourceDL,Ashfaq2025DeepAgroNet}. The indicator groups are defined in Table~\ref{tab:feature_definitions}, and Figure~\ref{fig:feature_design} summarizes the feature-engineering workflow.
 
-\begin{table}[!htbp]
+\begin{table}[H]
 \centering
 \caption{Grouped definitions of the daily extreme-weather indicators used to construct the crop-region-year model frame.}
 \label{tab:feature_definitions}
@@ -106,9 +107,9 @@ Soil variables are added as persistent regional context. Weather features repres
 \input{tables/table00_extreme_weather_feature_definitions.tex}
 \end{table}
 
-\begin{figure}[H]
+\begin{figure}[!htbp]
 \centering
-\includegraphics[width=\textwidth]{figures/main/fig02_daily_extreme_feature_design.png}
+\includegraphics[width=0.92\textwidth,height=0.30\textheight,keepaspectratio]{figures/main/fig02_daily_extreme_feature_design.png}
 \caption{Daily extreme-weather feature design. Daily weather observations are aggregated into interpretable growing-season indicators, merged with soil context, and used for yield prediction, crop-region suitability, and weather-conditioned crop comparison.}
 \label{fig:feature_design}
 \end{figure}
